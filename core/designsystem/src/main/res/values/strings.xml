@@ -1,0 +1,18 @@
+<resources>
+    <string name="ds_all">Все</string>
+    <string name="ds_back">Назад</string>
+    <string name="ds_gallery_close">Закрыть</string>
+    <string name="ds_gallery_count">%1$d из %2$d</string>
+    <string name="ds_profile">Личный кабинет</string>
+    <string name="ds_degree_bachelor">Бакалавриат</string>
+    <string name="ds_degree_master">Магистратура</string>
+    <string name="ds_before_semester">Скоро на учёбу</string>
+    <string name="ds_after_semester">Сессия и каникулы</string>
+    <string name="ds_week_title">%1$d неделя, %2$s</string>
+    <string name="ds_numerator">числитель</string>
+    <string name="ds_denominator">знаменатель</string>
+    <string name="ds_previous_week">Предыдущая неделя</string>
+    <string name="ds_next_week">Следующая неделя</string>
+    <string name="ds_write_error_title">Не удалось сохранить изменения</string>
+    <string name="ds_write_error_message">Попробуйте ещё раз.</string>
+</resources>

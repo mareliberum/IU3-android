@@ -1,0 +1,37 @@
+<resources>
+    <string name="home_all_news">Все новости</string>
+    <string name="home_denominator">знаменатель</string>
+    <string name="home_details">Подробнее</string>
+    <string name="home_event_website">Сайт события</string>
+    <string name="home_events">События</string>
+    <string name="home_finished">Мероприятие завершилось</string>
+    <string name="home_holidays">Сессия и каникулы</string>
+    <string name="home_home">Главная</string>
+    <string name="home_map">Показать на карте</string>
+    <string name="home_news">Новости из VK</string>
+    <string name="home_no_events">Ближайших событий пока нет</string>
+    <string name="home_no_lessons">На сегодня занятий больше нет</string>
+    <string name="home_no_news">Новостей пока нет</string>
+    <string name="home_numerator">числитель</string>
+    <string name="home_offline">Нет сети. Показываем сохранённые данные</string>
+    <string name="home_ongoing">Идёт сейчас</string>
+    <string name="home_photo_count">%1$d / %2$d</string>
+    <string name="home_photos">Фото</string>
+    <string name="home_projects">Проекты</string>
+    <string name="home_projects_03323">Все проекты</string>
+    <string name="home_refresh">Обновить</string>
+    <string name="home_register">Зарегистрироваться</string>
+    <string name="home_schedule">Расписание</string>
+    <string name="home_search">Поиск событий</string>
+    <string name="home_share">Поделиться</string>
+    <string name="home_stats">%1$d отметок нравится · %2$d просмотров</string>
+    <string name="home_upcoming">Предстоит</string>
+    <string name="home_week">%1$d неделя · %2$s</string>
+    <string name="home_collapse_lessons">Свернуть</string>
+    <string name="home_more_lessons">Ещё занятий: %1$d</string>
+    <string name="home_event_context">Событие</string>
+    <string name="home_news_context">Новость</string>
+    <string name="home_project_context">Проект</string>
+    <string name="home_about_project">О проекте</string>
+    <string name="home_more_details">Подробнее</string>
+</resources>

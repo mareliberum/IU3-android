@@ -1,0 +1,29 @@
+<resources>
+    <string name="instructors_bio">Биография</string>
+    <string name="instructors_contacts">Контакты</string>
+    <string name="instructors_courses">Курсы</string>
+    <string name="instructors_default_bio">Работает на кафедре ИУ3 «Информационные системы и телекоммуникации» МГТУ им. Н. Э. Баумана.</string>
+    <string name="instructors_education_deputy">Замзав по учебно-методической работе</string>
+    <string name="instructors_info">Информация</string>
+    <string name="instructors_interests">Научные интересы</string>
+    <string name="instructors_interests_a919a">Области научных интересов</string>
+    <string name="instructors_next">Позже</string>
+    <string name="instructors_no_courses">Курсы не указаны</string>
+    <string name="instructors_no_lessons">На этот день не запланировано занятий</string>
+    <string name="instructors_no_works">Работы не указаны</string>
+    <string name="instructors_nothing">Ничего не найдено</string>
+    <string name="instructors_previous">Раньше</string>
+    <string name="instructors_research_deputy">Замзав по научной работе</string>
+    <string name="instructors_schedule">Расписание</string>
+    <string name="instructors_search">Найти преподавателя</string>
+    <string name="instructors_teacher">Преподаватель</string>
+    <string name="instructors_teachers">Преподаватели</string>
+    <string name="instructors_website">Личный сайт</string>
+    <string name="instructors_works">Работы</string>
+    <string name="instructors_telegram">Telegram</string>
+    <string name="instructors_vk">VK</string>
+    <string name="instructors_github">GitHub</string>
+    <string name="instructors_youtube">YouTube</string>
+    <string name="instructors_researchgate">ResearchGate</string>
+    <string name="instructors_google_scholar">Google Scholar</string>
+</resources>

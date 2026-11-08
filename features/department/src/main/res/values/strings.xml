@@ -1,0 +1,26 @@
+<resources>
+    <string name="department_achievements">Достижения</string>
+    <string name="department_address">105005, Москва, 2-я Бауманская ул., д. 5, главный корпус, южное крыло, 5 этаж</string>
+    <string name="department_admission_office">Приёмная комиссия</string>
+    <string name="department_admissions">Поступающим</string>
+    <string name="department_contacts">Контакты</string>
+    <string name="department_curator">Куратор программы «Шаг в будущее»</string>
+    <string name="department_department">Кафедра ИУ3\nМГТУ им. Баумана</string>
+    <string name="department_email">Почта кафедры</string>
+    <string name="department_faculty">Информационные системы и телекоммуникации</string>
+    <string name="department_honor">Доска почёта</string>
+    <string name="department_hours">Пн–Пт: 10:00–18:00</string>
+    <string name="department_hours_label">Часы работы</string>
+    <string name="department_key_staff">Сотрудники кафедры</string>
+    <string name="department_map">Показать на карте</string>
+    <string name="department_phone">Телефон</string>
+    <string name="department_plan">Учебный план</string>
+    <string name="department_programs">Направления и программы ИУ3</string>
+    <string name="department_projects">Проекты</string>
+    <string name="department_stacks">Стеки</string>
+    <string name="department_teachers">Преподаватели</string>
+    <string name="department_vk_group">Группа ИУ3 ВКонтакте</string>
+    <string name="department_website">Сайт кафедры</string>
+    <string name="department_weekend_hours">Сб: 10:00–16:00 · Вс: выходной</string>
+    <string name="department_vk_title">VK</string>
+</resources>

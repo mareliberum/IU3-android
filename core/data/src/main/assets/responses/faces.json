@@ -1,0 +1,184 @@
+{
+  "alimkina": {
+    "x": 0.258,
+    "y": 0.1864,
+    "width": 0.4761,
+    "height": 0.4761,
+    "_type": "CGRect"
+  },
+  "PlaceholderMale": {
+    "x": 0.33,
+    "y": 0.23,
+    "width": 0.34,
+    "height": 0.34,
+    "_type": "CGRect"
+  },
+  "PlaceholderFemale": {
+    "x": 0.33,
+    "y": 0.25,
+    "width": 0.34,
+    "height": 0.34,
+    "_type": "CGRect"
+  },
+  "bazhenov": {
+    "x": 0.3386,
+    "y": 0.2486,
+    "width": 0.3512,
+    "height": 0.3512,
+    "_type": "CGRect"
+  },
+  "gonchar": {
+    "x": 0.3447,
+    "y": 0.2586,
+    "width": 0.3114,
+    "height": 0.3114,
+    "_type": "CGRect"
+  },
+  "emanov": {
+    "x": 0.3,
+    "y": 0.2,
+    "width": 0.36,
+    "height": 0.36,
+    "_type": "CGRect"
+  },
+  "amurskiy": {
+    "x": 0.3283,
+    "y": 0.4167,
+    "width": 0.4005,
+    "height": 0.4005,
+    "_type": "CGRect"
+  },
+  "borovik": {
+    "x": 0.2873,
+    "y": 0.4228,
+    "width": 0.4239,
+    "height": 0.4239,
+    "_type": "CGRect"
+  },
+  "asmaryan": {
+    "x": 0.2964,
+    "y": 0.1925,
+    "width": 0.4122,
+    "height": 0.4122,
+    "_type": "CGRect"
+  },
+  "alfimtsev": {
+    "x": 0.3199,
+    "y": 0.2382,
+    "width": 0.3615,
+    "height": 0.3615,
+    "_type": "CGRect"
+  },
+  "baskakov": {
+    "x": 0.3214,
+    "y": 0.3207,
+    "width": 0.3564,
+    "height": 0.3564,
+    "_type": "CGRect"
+  },
+  "fedorov": {
+    "x": 0.3197,
+    "y": 0.2399,
+    "width": 0.3601,
+    "height": 0.3601,
+    "_type": "CGRect"
+  },
+  "kadyrbaeva": {
+    "x": 0.3167,
+    "y": 0.2404,
+    "width": 0.3641,
+    "height": 0.3641,
+    "_type": "CGRect"
+  },
+  "loktev": {
+    "x": 0.3168,
+    "y": 0.2533,
+    "width": 0.3623,
+    "height": 0.3623,
+    "_type": "CGRect"
+  },
+  "magomedov": {
+    "x": 0.33,
+    "y": 0.2,
+    "width": 0.3,
+    "height": 0.3,
+    "_type": "CGRect"
+  },
+  "pitikin": {
+    "x": 0.3005,
+    "y": 0.2875,
+    "width": 0.4048,
+    "height": 0.4048,
+    "_type": "CGRect"
+  },
+  "popov": {
+    "x": 0.3186,
+    "y": 0.3417,
+    "width": 0.3186,
+    "height": 0.3186,
+    "_type": "CGRect"
+  },
+  "sementsov": {
+    "x": 0.3008,
+    "y": 0.283,
+    "width": 0.4215,
+    "height": 0.4215,
+    "_type": "CGRect"
+  },
+  "varfolomeev": {
+    "x": 0.3106,
+    "y": 0.4331,
+    "width": 0.3658,
+    "height": 0.3658,
+    "_type": "CGRect"
+  },
+  "merkelov": {
+    "x": 0.3207,
+    "y": 0.2446,
+    "width": 0.3586,
+    "height": 0.3586,
+    "_type": "CGRect"
+  },
+  "strakhov": {
+    "x": 0.3188,
+    "y": 0.243,
+    "width": 0.3564,
+    "height": 0.3564,
+    "_type": "CGRect"
+  },
+  "nedashkovskiy": {
+    "x": 0.3203,
+    "y": 0.2396,
+    "width": 0.3597,
+    "height": 0.3597,
+    "_type": "CGRect"
+  },
+  "rodionov": {
+    "x": 0.3176,
+    "y": 0.2412,
+    "width": 0.3574,
+    "height": 0.3574,
+    "_type": "CGRect"
+  },
+  "tikhomirova": {
+    "x": 0.3217,
+    "y": 0.2419,
+    "width": 0.356,
+    "height": 0.356,
+    "_type": "CGRect"
+  },
+  "vidmanov": {
+    "x": 0.3184,
+    "y": 0.2385,
+    "width": 0.3593,
+    "height": 0.3593,
+    "_type": "CGRect"
+  },
+  "vykhovanets": {
+    "x": 0.32,
+    "y": 0.239,
+    "width": 0.3586,
+    "height": 0.3586,
+    "_type": "CGRect"
+  }
+}

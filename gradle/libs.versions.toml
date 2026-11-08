@@ -1,0 +1,55 @@
+[versions]
+android-compileSdk = "37"
+android-minSdk = "29"
+android-targetSdk = "37"
+jvm = "17"
+agp = "9.4.1"
+kotlin = "2.2.10"
+composeBom = "2026.02.01"
+lifecycle = "2.10.0"
+navigation = "1.2.1"
+serialization = "1.9.0"
+coroutines = "1.10.2"
+hilt = "2.59.2"
+ksp = "2.3.13"
+[libraries]
+android-gradle-plugin = { module = "com.android.tools.build:gradle", version.ref = "agp" }
+kotlin-compose-gradle-plugin = { module = "org.jetbrains.kotlin:compose-compiler-gradle-plugin", version.ref = "kotlin" }
+kotlin-serialization-gradle-plugin = { module = "org.jetbrains.kotlin:kotlin-serialization", version.ref = "kotlin" }
+hilt-gradle-plugin = { module = "com.google.dagger:hilt-android-gradle-plugin", version.ref = "hilt" }
+ksp-gradle-plugin = { module = "com.google.devtools.ksp:symbol-processing-gradle-plugin", version.ref = "ksp" }
+junit = { module = "junit:junit", version = "4.13.2" }
+androidx-junit = { module = "androidx.test.ext:junit", version = "1.1.5" }
+androidx-espresso = { module = "androidx.test.espresso:espresso-core", version = "3.5.1" }
+compose-bom = { module = "androidx.compose:compose-bom", version.ref = "composeBom" }
+compose-ui = { module = "androidx.compose.ui:ui" }
+compose-foundation = { module = "androidx.compose.foundation:foundation" }
+compose-material3 = { module = "androidx.compose.material3:material3" }
+compose-navigation-suite = { module = "androidx.compose.material3:material3-adaptive-navigation-suite" }
+compose-icons = { module = "androidx.compose.material:material-icons-extended" }
+compose-tooling = { module = "androidx.compose.ui:ui-tooling" }
+activity-compose = { module = "androidx.activity:activity-compose", version = "1.12.0" }
+lifecycle-compose = { module = "androidx.lifecycle:lifecycle-runtime-compose", version.ref = "lifecycle" }
+lifecycle-viewmodel = { module = "androidx.lifecycle:lifecycle-viewmodel-compose", version.ref = "lifecycle" }
+lifecycle-navigation = { module = "androidx.lifecycle:lifecycle-viewmodel-navigation3", version.ref = "lifecycle" }
+navigation-runtime = { module = "androidx.navigation3:navigation3-runtime", version.ref = "navigation" }
+navigation-ui = { module = "androidx.navigation3:navigation3-ui", version.ref = "navigation" }
+serialization-json = { module = "org.jetbrains.kotlinx:kotlinx-serialization-json", version.ref = "serialization" }
+coroutines = { module = "org.jetbrains.kotlinx:kotlinx-coroutines-android", version.ref = "coroutines" }
+work = { module = "androidx.work:work-runtime-ktx", version = "2.10.1" }
+datastore = { module = "androidx.datastore:datastore-preferences", version = "1.2.0" }
+coil = { module = "io.coil-kt.coil3:coil-compose", version = "3.3.0" }
+coil-network = { module = "io.coil-kt.coil3:coil-network-okhttp", version = "3.3.0" }
+hilt-android = { module = "com.google.dagger:hilt-android", version.ref = "hilt" }
+hilt-compiler = { module = "com.google.dagger:hilt-compiler", version.ref = "hilt" }
+hilt-compose = { module = "androidx.hilt:hilt-lifecycle-viewmodel-compose", version = "1.3.0" }
+hilt-work = { module = "androidx.hilt:hilt-work", version = "1.3.0" }
+hilt-work-compiler = { module = "androidx.hilt:hilt-compiler", version = "1.3.0" }
+[plugins]
+iu3-android-application = { id = "iu3.android.application" }
+iu3-android-library = { id = "iu3.android.library" }
+iu3-android-api = { id = "iu3.android.api" }
+iu3-android-feature = { id = "iu3.android.feature" }
+iu3-android-compose = { id = "iu3.android.compose" }
+iu3-android-hilt = { id = "iu3.android.hilt" }
+iu3-android-serialization = { id = "iu3.android.serialization" }

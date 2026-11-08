@@ -1,0 +1,14 @@
+<resources>
+    <string name="notifications_control_reminder">На этой неделе: %1$s</string>
+    <string name="notifications_lesson_reminder">Через %1$d мин: %2$s</string>
+    <string name="notifications_reminder_channel">Напоминания ИУ3</string>
+    <string name="notifications_summary_reminder">План на день: %1$s</string>
+    <string name="notifications_today_reminder">Сегодня: %1$s</string>
+    <string name="notifications_tomorrow_reminder">Завтра: %1$s</string>
+    <string name="notifications_next_control_reminder">На следующей неделе: %1$s</string>
+    <string name="notifications_labs_title">Завтра: лабораторные работы</string>
+    <string name="notifications_day_summary">План на день</string>
+    <string name="notifications_room">Ауд. %1$s</string>
+    <string name="notifications_all_day">Весь день</string>
+    <string name="notifications_starts_at">Начало в %1$s</string>
+</resources>

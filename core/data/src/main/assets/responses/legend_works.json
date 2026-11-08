@@ -1,0 +1,1754 @@
+{
+ "Девятков Владимир Валентинович": [
+  {
+   "title": "Системы искусственного интеллекта: учебник",
+   "year": 2023,
+   "type": "book",
+   "venue": "Издательство МГТУ им. Н. Э. Баумана",
+   "url": "https://search.rsl.ru/ru/record/01011800456"
+  },
+  {
+   "title": "Прототипирование верификации поведения интеллектуальных агентов в языке логического программирования ПРОЛОГ: учебное пособие",
+   "year": 2021,
+   "type": "book",
+   "venue": "Издательство МГТУ им. Н. Э. Баумана",
+   "url": "https://search.rsl.ru/ru/record/01010748205"
+  },
+  {
+   "title": "Commerce Web-Portal Redesigning Based on Usability Evaluation",
+   "year": 2021,
+   "type": "journal",
+   "venue": "International Journal of Web Portals",
+   "url": "https://doi.org/10.4018/IJWP.2021070101"
+  },
+  {
+   "title": "Выявление закономерностей в больших объемах данных на основе использования областей запрета",
+   "year": 2021,
+   "type": "conference",
+   "venue": "Высшая школа: научные исследования",
+   "url": "https://doi.org/10.34660/inf.2021.65.99.029"
+  },
+  {
+   "title": "Верификация знаний, полученных при изучении моделей бизнес-процессов",
+   "year": 2020,
+   "type": "journal",
+   "venue": "Вестник МГТУ им. Н.Э. Баумана. Серия «Приборостроение»",
+   "url": "https://doi.org/10.18698/0236-3933-2020-4-99-113"
+  },
+  {
+   "title": "Оценка степени удобства использования пользовательских интерфейсов в логике тайлов",
+   "year": 2020,
+   "type": "journal",
+   "venue": "Вестник МГТУ им. Н.Э. Баумана. Серия «Приборостроение»",
+   "url": "https://doi.org/10.18698/0236-3933-2020-1-64-84"
+  },
+  {
+   "title": "Защита изображения человека от распознавания нейросетевой системой на основе состязательных примеров",
+   "year": 2020,
+   "type": "journal",
+   "venue": "Вестник компьютерных и информационных технологий",
+   "url": "https://doi.org/10.14489/vkit.2020.02.pp.032-038"
+  },
+  {
+   "title": "Multi-agent evaluation of fuzzy numbers of the level of knowledge of business processes",
+   "year": 2020,
+   "type": "conference",
+   "venue": "ICERI2020 Proceedings",
+   "url": "https://doi.org/10.21125/iceri.2020.0949"
+  },
+  {
+   "title": "User behavior model development in the tile logic for automating usability evaluation",
+   "year": 2020,
+   "type": "conference",
+   "venue": "International Conferences Interfaces and Human Computer Interaction / Computer Graphics, Visualization (IADIS)",
+   "url": "https://doi.org/10.33965/cgv2020_202011c025"
+  },
+  {
+   "title": "Формирование оптимальных планов маршрутов передвижения в условиях неопределенности",
+   "year": 2020,
+   "type": "journal",
+   "venue": "Молодой ученый",
+   "url": "https://moluch.ru/archive/314/71627/"
+  },
+  {
+   "title": "Использование логики тайлов при анализе эргономичности интерфейсов в системах диагностирования объектов",
+   "year": 2019,
+   "type": "conference",
+   "venue": "Внедрение современных конструкций и передовых технологий в путевое хозяйство",
+   "url": null
+  },
+  {
+   "title": "Hostis humani ET mashinae: Adversarial camouflage generation",
+   "year": 2019,
+   "type": "journal",
+   "venue": "Journal of Advanced Research in Dynamical and Control Systems",
+   "url": "https://www.jardcs.org/abstract.php?id=296"
+  },
+  {
+   "title": "User Interface Distribution Method Based on Pi-Calculus",
+   "year": 2019,
+   "type": "journal",
+   "venue": "International Journal of Distributed Systems and Technologies",
+   "url": "https://doi.org/10.4018/IJDST.2019070101"
+  },
+  {
+   "title": "Automating usability evaluation of visual user interfaces in the tile logic",
+   "year": 2019,
+   "type": "conference",
+   "venue": "International Conferences Interfaces and Human Computer Interaction / Computer Graphics, Visualization (IADIS)",
+   "url": "https://doi.org/10.33965/cgv2019_201906l032"
+  },
+  {
+   "title": "Semi-automatic multi-camera video annotation tool for object tracking and optical flow benchmarking",
+   "year": 2019,
+   "type": "conference",
+   "venue": "International Conferences Interfaces and Human Computer Interaction / Computer Graphics, Visualization (IADIS)",
+   "url": "https://doi.org/10.33965/cgv2019_201906c062"
+  },
+  {
+   "title": "Knoledge assessment using fuzzy sets",
+   "year": 2019,
+   "type": "journal",
+   "venue": "Education transformation issues",
+   "url": null
+  },
+  {
+   "title": "Multicamera Human Re-Identification based on Covariance Descriptor",
+   "year": 2018,
+   "type": "journal",
+   "venue": "Pattern Recognition and Image Analysis",
+   "url": "https://doi.org/10.1134/S1054661818020025"
+  },
+  {
+   "title": "Selective covariance-based human localization, classification and tracking in video streams from multiple cameras",
+   "year": 2018,
+   "type": "conference",
+   "venue": "BIOINFORMATICS 2018 (BIOSTEC 2018)",
+   "url": "https://doi.org/10.5220/0006538100810088"
+  },
+  {
+   "title": "Распознавание ситуаций на множестве движущихся объектов с использованием нечетких конечных автоматов и динамического программирования",
+   "year": 2017,
+   "type": "journal",
+   "venue": "Вестник МГТУ им. Н.Э. Баумана. Серия «Приборостроение»",
+   "url": "https://doi.org/10.18698/0236-3933-2017-4-64-78"
+  },
+  {
+   "title": "Верификация свойств интеллектуальных интерфейсов в логике тайлов",
+   "year": 2016,
+   "type": "journal",
+   "venue": "Вестник МГТУ им. Н.Э. Баумана. Серия «Приборостроение»",
+   "url": "https://doi.org/10.18698/0236-3933-2016-3-65-87"
+  },
+  {
+   "title": "Селективно-ковариационный метод локализации, классификации и отслеживания людей в видеопотоках от множества видеокамер",
+   "year": 2016,
+   "type": "journal",
+   "venue": "Вестник МГТУ им. Н.Э. Баумана. Серия «Приборостроение»",
+   "url": "https://doi.org/10.18698/0236-3933-2016-6-54-70"
+  },
+  {
+   "title": "Формальная проверка правильности сетевого взаимодействия агентов, специфицируемых на языке процессных выражений",
+   "year": 2016,
+   "type": "journal",
+   "venue": "Интернет-журнал «Науковедение»",
+   "url": "http://naukovedenie.ru/PDF/50TVN516.pdf"
+  },
+  {
+   "title": "The Formal Logical Analysis of the Correctness of the Specifications of Network Protocol SIP",
+   "year": 2016,
+   "type": "conference",
+   "venue": "UKSim-AMSS International Conference on Computer Modelling and Simulation",
+   "url": "https://doi.org/10.1109/UKSim.2016.47"
+  },
+  {
+   "title": "Увеличение конверсии пользовательского интерфейса путём объективного юзабилити-тестирования на основе анализа электроэнцефалограммы пользователя",
+   "year": 2015,
+   "type": "journal",
+   "venue": "Образовательные технологии",
+   "url": "http://iedtech.ru/journal/2015/1/conversion-increase-usability/"
+  },
+  {
+   "title": "A New Methodology of Usability Testing on the Base of the Analysis of User's Electroencephalogram",
+   "year": 2015,
+   "type": "journal",
+   "venue": "Journal of Computer Sciences and Applications",
+   "url": "https://doi.org/10.12691/jcsa-3-5-1"
+  },
+  {
+   "title": "Автоматизация проверки некорректности конфигурирования сетевых экранов",
+   "year": 2015,
+   "type": "journal",
+   "venue": "Вестник МГТУ им. Н.Э. Баумана. Серия «Приборостроение»",
+   "url": "https://doi.org/10.18698/0236-3933-2015-1-100-110"
+  },
+  {
+   "title": "Мультиагентный анализ правильности спецификаций протоколов инициирования сеансов",
+   "year": 2015,
+   "type": "journal",
+   "venue": "Вестник МГТУ им. Н.Э. Баумана. Серия «Приборостроение»",
+   "url": "https://doi.org/10.18698/0236-3933-2015-2-107-116"
+  },
+  {
+   "title": "Принципы полной и корректной трансформации синхронизируемых моделей",
+   "year": 2015,
+   "type": "journal",
+   "venue": "Вестник МГТУ им. Н.Э. Баумана. Серия «Приборостроение»",
+   "url": "https://doi.org/10.18698/0236-3933-2015-3-79-91"
+  },
+  {
+   "title": "The Application of Mobile Devices for the Recognition of Malignant Melanoma",
+   "year": 2014,
+   "type": "conference",
+   "venue": "BIODEVICES 2014 (BIOSTEC 2014)",
+   "url": "https://doi.org/10.5220/0004803701400146"
+  },
+  {
+   "title": "Логический анализ корректности конфигурирования межсетевых экранов",
+   "year": 2013,
+   "type": "journal",
+   "venue": "Инженерный журнал: наука и инновации",
+   "url": "https://doi.org/10.18698/2308-6033-2013-11-988"
+  },
+  {
+   "title": "Формальный логический анализ корректности спецификаций сетевых SIP-протоколов",
+   "year": 2013,
+   "type": "journal",
+   "venue": "Инженерный журнал: наука и инновации",
+   "url": "https://doi.org/10.18698/2308-6033-2013-11-999"
+  },
+  {
+   "title": "Разработка процессов синхронизации моделей и принципов проверки их корректности",
+   "year": 2013,
+   "type": "journal",
+   "venue": "Инженерный журнал: наука и инновации",
+   "url": "https://doi.org/10.18698/2308-6033-2013-11-1052"
+  },
+  {
+   "title": "Моделирование и анализ ситуаций в виртуальной среде движущихся объектов",
+   "year": 2013,
+   "type": "journal",
+   "venue": "Вестник МГТУ им. Н.Э. Баумана. Серия «Приборостроение»",
+   "url": "https://vestnikprib.bmstu.ru/catalog/it/hidden/76.html"
+  },
+  {
+   "title": "Multimodal Interfaces: Capture, Tracking and Recognition",
+   "year": 2013,
+   "type": "conference",
+   "venue": "BIOINFORMATICS 2013 (BIOSTEC 2013)",
+   "url": "https://dblp.uni-trier.de/db/conf/biostec/bioinformatics2013.html#Devyatkov13"
+  },
+  {
+   "title": "Анализ состояния технологических процессов",
+   "year": 2012,
+   "type": "book",
+   "venue": "LAP LAMBERT Academic Publishing",
+   "url": "https://www.knigozal.com/store/gb/book/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7-%D1%81%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D1%8F-%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85-%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D0%B2/isbn/978-3-8473-2240-5"
+  },
+  {
+   "title": "Метод отслеживания транспортных средств в видеопотоке",
+   "year": 2012,
+   "type": "journal",
+   "venue": "Вестник Иркутского государственного технического университета",
+   "url": null
+  },
+  {
+   "title": "Недетерминированное проектирование интеллектуальных мультимодальных интерфейсов",
+   "year": 2012,
+   "type": "journal",
+   "venue": "Инженерный журнал: наука и инновации (спецвыпуск Вестника МГТУ «Информатика и системы управления»)",
+   "url": "https://doi.org/10.18698/2308-6033-2012-3-118"
+  },
+  {
+   "title": "Принципы формализации методологии детерминированного проектирования интеллектуального мультимодального интерфейса",
+   "year": 2012,
+   "type": "journal",
+   "venue": "Инженерный журнал: наука и инновации (спецвыпуск Вестника МГТУ «Компьютерные системы и технологии»)",
+   "url": "https://doi.org/10.18698/2308-6033-2012-1-82"
+  },
+  {
+   "title": "Улучшение цифрового изображения с использованием нечеткого оператора Шоке",
+   "year": 2012,
+   "type": "journal",
+   "venue": "Вестник МГТУ им. Н.Э. Баумана. Серия «Приборостроение», спецвыпуск №5 «Информатика и системы управления»",
+   "url": null
+  },
+  {
+   "title": "Персонализация в гипертекстовых сетях на основе распознавания действий пользователей и нечеткого агрегирования",
+   "year": 2012,
+   "type": "journal",
+   "venue": "Вестник МГТУ им. Н.Э. Баумана. Серия «Приборостроение»",
+   "url": "https://vestnikprib.bmstu.ru/catalog/it/hidden/103.html"
+  },
+  {
+   "title": "Построение, оптимизация и модификация процессов",
+   "year": 2012,
+   "type": "journal",
+   "venue": "Вестник МГТУ им. Н.Э. Баумана. Серия «Приборостроение»",
+   "url": "https://vestnikprib.bmstu.ru/catalog/it/hidden/9.html"
+  },
+  {
+   "title": "Принципы повышения уровня безопасности движения на основе анализа мультимодального взаимодействия водителя транспортного средства и среды",
+   "year": 2012,
+   "type": "journal",
+   "venue": "Инженерный вестник",
+   "url": "http://engbul.bmstu.ru/doc/469680.html"
+  },
+  {
+   "title": "Распознавание пользователей в интерфейсе информационной системы автоматического контроля знаний",
+   "year": 2012,
+   "type": "conference",
+   "venue": "Электронный архив РГППУ",
+   "url": "https://elar.rsvpu.ru/handle/123456789/6194"
+  },
+  {
+   "title": "The properties of intelligent human-machine interface",
+   "year": 2012,
+   "type": "journal",
+   "venue": "Journal of Systemics, Cybernetics and Informatics",
+   "url": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.232.3268"
+  },
+  {
+   "title": "Web personalization based on fuzzy aggregation and recognition of user activity",
+   "year": 2012,
+   "type": "journal",
+   "venue": "International Journal of Web Portals",
+   "url": "https://doi.org/10.4018/jwp.2012010103"
+  },
+  {
+   "title": "Интеллектуальные мультимодальные интерфейсы",
+   "year": 2011,
+   "type": "book",
+   "venue": "Калуга: Полиграф-Информ",
+   "url": "https://search.rsl.ru/ru/record/01005115081"
+  },
+  {
+   "title": "Способ управления телевизором с помощью мультимодального интерфейса (патент RU 2422878 C1)",
+   "year": 2011,
+   "type": "patent",
+   "venue": "Роспатент",
+   "url": "https://patents.google.com/patent/RU2422878C1/ru"
+  },
+  {
+   "title": "Human-Computer Interaction in Games Using Computer Vision Techniques",
+   "year": 2011,
+   "type": "book",
+   "venue": "IGI Global (глава в книге Business, Technological, and Social Dimensions of Computer Games)",
+   "url": "https://doi.org/10.4018/978-1-60960-567-4.ch010"
+  },
+  {
+   "title": "Нечеткая конечно-автоматная модель интеллектуального мультимодального интерфейса",
+   "year": 2011,
+   "type": "journal",
+   "venue": "Проблемы управления",
+   "url": "https://cyberleninka.ru/article/n/nechetkaya-konechno-avtomatnaya-model-intellektualnogo-multimodalnogo-interfeysa"
+  },
+  {
+   "title": "Пространственно-временной анализ ситуаций на множестве движущихся объектов",
+   "year": 2011,
+   "type": "journal",
+   "venue": "Вестник МГТУ им. Н.Э. Баумана. Серия «Приборостроение»",
+   "url": "https://vestnikprib.bmstu.ru/catalog/it/hidden/58.html"
+  },
+  {
+   "title": "Информационная система контроля знаний для проведения группового экзамена",
+   "year": 2011,
+   "type": "conference",
+   "venue": "Электронный архив РГППУ",
+   "url": "https://elar.rsvpu.ru/handle/123456789/6604"
+  },
+  {
+   "title": "Dynamic Gesture Recognition Using Fuzzy Model",
+   "year": 2009,
+   "type": "conference",
+   "venue": "Proc. 13th World Multi-Conference on Systemics, Cybernetics and Informatics (WMSCI 2009), Orlando",
+   "url": null
+  },
+  {
+   "title": "Распознавание манипулятивных жестов",
+   "year": 2007,
+   "type": "journal",
+   "venue": "Вестник МГТУ им. Н.Э. Баумана. Серия «Приборостроение»",
+   "url": "https://vestnikprib.bmstu.ru/catalog/it/hidden/288.html"
+  },
+  {
+   "title": "Мультиагентная система анализа телеметрической информации",
+   "year": 2005,
+   "type": "journal",
+   "venue": "Вестник МГТУ им. Н.Э. Баумана. Серия «Приборостроение»",
+   "url": "https://vestnikprib.bmstu.ru/catalog/it/hidden/378.html"
+  },
+  {
+   "title": "Системы искусственного интеллекта: учебное пособие для студентов вузов",
+   "year": 2001,
+   "type": "book",
+   "venue": "Издательство МГТУ им. Н. Э. Баумана (серия «Информатика в техническом университете»)",
+   "url": "https://search.rsl.ru/ru/record/01000694273"
+  },
+  {
+   "title": "Нечеткое модальное ситуационное исчисление для анализа сложных объектов",
+   "year": 2001,
+   "type": "journal",
+   "venue": "Вестник МГТУ им. Н.Э. Баумана. Серия «Приборостроение»",
+   "url": "https://vestnikprib.bmstu.ru/catalog/it/hidden/466.html"
+  },
+  {
+   "title": "Разработка экспертной системы управления давлением в системах водоснабжения",
+   "year": 1996,
+   "type": "journal",
+   "venue": "Вестник МГТУ им. Н.Э. Баумана. Серия «Приборостроение»",
+   "url": "https://vestnikprib.bmstu.ru/catalog/icec/sysan/877.html"
+  },
+  {
+   "title": "Автоматизация проектирования корректных параллельных процессов и программ: учебное пособие",
+   "year": 1994,
+   "type": "book",
+   "venue": "Издательство МГТУ",
+   "url": "https://search.rsl.ru/ru/record/01001703639"
+  },
+  {
+   "title": "САПР микропроцессорных комплексов программно-логического управления. Ч. 1: Технологические принципы автоматизированного проектирования и проблемно-ориентированный язык Условие-82: учебное пособие",
+   "year": 1986,
+   "type": "book",
+   "venue": "Московский институт повышения квалификации руководящих работников и специалистов Минприбора",
+   "url": "https://search.rsl.ru/ru/record/01001391799"
+  },
+  {
+   "title": "Алгоритмические методы автоматизированного логического проектирования структур дискретных управляющих систем по описанию на языках различного уровня (диссертация д-ра техн. наук)",
+   "year": 1979,
+   "type": "book",
+   "venue": "Москва, 05.13.13",
+   "url": "https://search.rsl.ru/ru/record/01009370045"
+  },
+  {
+   "title": "Логическое проектирование дискретных автоматов: Языки, методы, алгоритмы",
+   "year": 1977,
+   "type": "book",
+   "venue": "Наука",
+   "url": "https://search.rsl.ru/ru/record/01007719298"
+  },
+  {
+   "title": "Методы реализации конечных автоматов на сдвиговых регистрах",
+   "year": 1974,
+   "type": "book",
+   "venue": "Энергия (Библиотека по автоматике, вып. 523)",
+   "url": "https://search.rsl.ru/ru/record/01007107235"
+  },
+  {
+   "title": "Алгоритмы синтеза устройств на сдвиговых регистрах",
+   "year": 1969,
+   "type": "book",
+   "venue": "Институт автоматики и телемеханики",
+   "url": "https://search.rsl.ru/ru/record/01007107234"
+  },
+  {
+   "title": "Реализация конечных автоматов на сдвиговых регистрах (диссертация канд. техн. наук)",
+   "year": 1968,
+   "type": "book",
+   "venue": "Институт автоматики и телемеханики АН СССР",
+   "url": "https://search.rsl.ru/ru/record/01010211945"
+  }
+ ],
+ "Боевкин Виктор Иванович": [
+  {
+   "title": "Алгебраический синтез системы управления магнитным подвесом",
+   "year": 2014,
+   "type": "journal",
+   "venue": "Инженерный вестник (МГТУ им. Н.Э. Баумана), № 4",
+   "url": "http://engbul.bmstu.ru/doc/706116.html"
+  },
+  {
+   "title": "Идентификация линейных динамических звеньев по частотному годографу",
+   "year": 2013,
+   "type": "journal",
+   "venue": "Наука и образование: научное издание МГТУ им. Н.Э. Баумана, № 9",
+   "url": "https://doi.org/10.7463/0913.0618917"
+  },
+  {
+   "title": "Ускорение итерационных решений СЛАУ методом нейтрализации больших собственных значений матрицы перехода",
+   "year": 2012,
+   "type": "journal",
+   "venue": "Наука и образование: научное издание МГТУ им. Н.Э. Баумана, № 2",
+   "url": "https://cyberleninka.ru/article/n/uskorenie-iteratsionnyh-resheniy-slau-metodom-neytralizatsii-bolshih-sobstvennyh-znacheniy-matritsy-perehoda"
+  },
+  {
+   "title": "Повышение точности управления температурным режимом в установках выращивания кристаллов",
+   "year": 2010,
+   "type": "journal",
+   "venue": "Управление большими системами: сборник трудов",
+   "url": "https://cyberleninka.ru/article/n/povyshenie-tochnosti-upravleniya-temperaturnym-rezhimom-v-ustanovkah-vyraschivaniya-kristallov"
+  },
+  {
+   "title": "Design of control system for growing crystals with desired properties",
+   "year": 2007,
+   "type": "conference",
+   "venue": null,
+   "url": "http://lib.physcon.ru/file?id=e4d08f984a87"
+  },
+  {
+   "title": "Оценка точности математического моделирования динамических систем",
+   "year": 1990,
+   "type": "book",
+   "venue": "М.: Изд-во МГТУ, 51 с. (уч. пособие по курсу «Методы и средства моделирования»; под ред. И. В. Королькова)",
+   "url": "https://search.rsl.ru/ru/record/01001537444"
+  },
+  {
+   "title": "Проектирование автоматизированных систем сбора и обработки информации",
+   "year": 1990,
+   "type": "book",
+   "venue": "Труды МГТУ, № 546. М.: Изд-во МГТУ, 142 с. (сборник статей под ред. В. И. Боевкина)",
+   "url": "https://rusneb.ru/catalog/000199_000009_002122846/"
+  },
+  {
+   "title": "Тренажер для фехтования",
+   "year": 1988,
+   "type": "patent",
+   "venue": "Авторское свидетельство СССР SU 1437047 A1",
+   "url": "https://rusneb.ru/catalog/000224_000128_0001437047_19881115_A1_SU/"
+  },
+  {
+   "title": "Моделирование при испытаниях автоматических информационных устройств",
+   "year": 1985,
+   "type": "book",
+   "venue": "М.: МВТУ, 72 с. (уч. пособие по курсу «Методы и средства моделирования»; под ред. А. С. Елисеева)",
+   "url": "https://search.rsl.ru/ru/record/01001253064"
+  },
+  {
+   "title": "Interpolation of narrow-band signals",
+   "year": 1985,
+   "type": "journal",
+   "venue": "Известия вузов. Радиоэлектроника (Radioelektronika), т. 28, с. 60-65 (соавт. А. В. Жогаль)",
+   "url": "https://ui.adsabs.harvard.edu/abs/1985Radel..28...60B/abstract"
+  },
+  {
+   "title": "Адаптивный тренажер",
+   "year": 1982,
+   "type": "patent",
+   "venue": "Авторское свидетельство СССР SU 932527 A1",
+   "url": "https://rusneb.ru/catalog/000224_000128_0000932527_19820530_A1_SU/"
+  },
+  {
+   "title": "Устройство для исследования упруговязких свойств мышц",
+   "year": 1981,
+   "type": "patent",
+   "venue": "Авторское свидетельство СССР SU 865274 A1",
+   "url": "https://rusneb.ru/catalog/000224_000128_0000865274_19810923_A1_SU/"
+  },
+  {
+   "title": "DEVICE FOR REGISTERING VALUES OF AVERAGE PULSE",
+   "year": 1981,
+   "type": "patent",
+   "venue": "Авторское свидетельство СССР SU 824986 A1",
+   "url": "https://rusneb.ru/catalog/000224_000128_0000824986_19810430_A1_SU/"
+  },
+  {
+   "title": "Ориентация искусственных спутников в гравитационных и магнитных полях",
+   "year": 1976,
+   "type": "book",
+   "venue": "М.: Наука (соавт. В. И. Боевкин, Ю. Г. Гуревич, Ю. Н. Павлов, Г. Н. Толстоусов)",
+   "url": "https://rusneb.ru/catalog/000199_000009_006964318/"
+  },
+  {
+   "title": "Rotational Motion of a Gravitational Stabilization System",
+   "year": 1973,
+   "type": "journal",
+   "venue": "Cosmic Research (Космические исследования), т. 11, с. 770",
+   "url": "https://ui.adsabs.harvard.edu/abs/1973CosRe..11..770B/abstract"
+  },
+  {
+   "title": "Способ коррекции феррозондовых следящих систем",
+   "year": 1967,
+   "type": "patent",
+   "venue": "Авторское свидетельство СССР SU 202276 A1 (Гуревич Ю. Г., Павлов Ю. Н., Боевкин В. И., Афанасьев Ю. В., Ефремов В. Ф.)",
+   "url": "https://rusneb.ru/catalog/000224_000128_0000202276_19670914_A1_SU/"
+  }
+ ],
+ "Самохин Валерий Павлович": [
+  {
+   "title": "Павел Львович Шиллинг (1786 – 1837)",
+   "year": 2018,
+   "type": "journal",
+   "venue": "Машиностроение и компьютерные технологии",
+   "url": "https://doi.org/10.24108/1118.0001433"
+  },
+  {
+   "title": "Академик Сергей Алексеевич Лебедев (70 лет созданию советской вычислительной техники)",
+   "year": 2018,
+   "type": "journal",
+   "venue": "Машиностроение и компьютерные технологии",
+   "url": "https://doi.org/10.24108/0618.0001382"
+  },
+  {
+   "title": "Джозеф Генри (220-летие со дня рождения)",
+   "year": 2018,
+   "type": "journal",
+   "venue": "Машиностроение и компьютерные технологии",
+   "url": "https://doi.org/10.24108/0218.0001375"
+  },
+  {
+   "title": "Памяти Майкла Фарадея (1791 – 1867)",
+   "year": 2018,
+   "type": "journal",
+   "venue": "Машиностроение и компьютерные технологии",
+   "url": "https://doi.org/10.24108/0118.0001364"
+  },
+  {
+   "title": "Памяти П.Л. Шиллинга (1786 – 1837)",
+   "year": 2017,
+   "type": "journal",
+   "venue": "Машиностроение и компьютерные технологии",
+   "url": "https://cyberleninka.ru/article/n/pamyati-p-l-shillinga-1786-1837"
+  },
+  {
+   "title": "Карл Фридрих Гаусс (240-летие со дня рождения)",
+   "year": 2017,
+   "type": "journal",
+   "venue": "Машиностроение и компьютерные технологии",
+   "url": "https://doi.org/10.24108/0917.0001302"
+  },
+  {
+   "title": "На заре радиосвязи",
+   "year": 2017,
+   "type": "journal",
+   "venue": "Наука и образование: научное издание МГТУ им. Н.Э. Баумана",
+   "url": "https://doi.org/10.7463/0617.0001273"
+  },
+  {
+   "title": "Генрих Рудольф Герц (160-летие со дня рождения)",
+   "year": 2017,
+   "type": "journal",
+   "venue": "Наука и образование: научное издание МГТУ им. Н.Э. Баумана",
+   "url": "https://doi.org/10.7463/0517.0001233"
+  },
+  {
+   "title": "Александр Матвеевич Понятов (125-летие со дня рождения)",
+   "year": 2017,
+   "type": "journal",
+   "venue": "Наука и образование: научное издание МГТУ им. Н.Э. Баумана",
+   "url": "https://doi.org/10.7463/0417.0001177"
+  },
+  {
+   "title": "Александр Греэм Белл (170-летие со дня рождения)",
+   "year": 2017,
+   "type": "journal",
+   "venue": "Наука и образование: научное издание МГТУ им. Н.Э. Баумана",
+   "url": "https://doi.org/10.7463/0317.0001145"
+  },
+  {
+   "title": "Томас Альва Эдисон (170-летие со дня рождения)",
+   "year": 2017,
+   "type": "journal",
+   "venue": "Наука и образование: научное издание МГТУ им. Н.Э. Баумана",
+   "url": "https://doi.org/10.7463/0217.0000963"
+  },
+  {
+   "title": "Борис Павлович Грабовский (1901 – 1966)",
+   "year": 2016,
+   "type": "journal",
+   "venue": "Наука и образование: научное издание МГТУ им. Н.Э. Баумана",
+   "url": "https://doi.org/10.7463/1216.0853204"
+  },
+  {
+   "title": "Лев Сергеевич Термен (120-летие со дня рождения)",
+   "year": 2016,
+   "type": "journal",
+   "venue": "Наука и образование: научное издание МГТУ им. Н.Э. Баумана",
+   "url": "https://doi.org/10.7463/1116.0850377"
+  },
+  {
+   "title": "Памяти С.И. Катаева (1904 – 1991)",
+   "year": 2016,
+   "type": "journal",
+   "venue": "Наука и образование: научное издание МГТУ им. Н.Э. Баумана",
+   "url": "https://doi.org/10.7463/1016.0849238"
+  },
+  {
+   "title": "Клод Элвуд Шеннон (100-летие со дня рождения)",
+   "year": 2016,
+   "type": "journal",
+   "venue": "Наука и образование: научное издание МГТУ им. Н.Э. Баумана",
+   "url": "https://doi.org/10.7463/0816.0846091"
+  },
+  {
+   "title": "Шарль Огюстен Кулон (280 лет со дня рождения)",
+   "year": 2016,
+   "type": "journal",
+   "venue": "Наука и образование: научное издание МГТУ им. Н.Э. Баумана",
+   "url": "https://doi.org/10.7463/0616.0842567"
+  },
+  {
+   "title": "Памяти Б.П. Грабовского (1901 – 1966)",
+   "year": 2016,
+   "type": "journal",
+   "venue": "Наука и образование: научное издание МГТУ им. Н.Э. Баумана",
+   "url": "https://doi.org/10.7463/0416.0839874"
+  },
+  {
+   "title": "Борис Львович Розинг (1869 – 1933)",
+   "year": 2016,
+   "type": "journal",
+   "venue": "Наука и образование: научное издание МГТУ им. Н.Э. Баумана",
+   "url": "https://doi.org/10.7463/0116.0832301"
+  },
+  {
+   "title": "Павел Васильевич Шмаков (1885 – 1982)",
+   "year": 2015,
+   "type": "journal",
+   "venue": "Наука и образование: научное издание МГТУ им. Н.Э. Баумана",
+   "url": "https://doi.org/10.7463/1115.0822281"
+  },
+  {
+   "title": "160 лет электромагнитному телеграфу России",
+   "year": 2015,
+   "type": "journal",
+   "venue": "Наука и образование: научное издание МГТУ им. Н.Э. Баумана",
+   "url": "https://doi.org/10.7463/0915.0813000"
+  },
+  {
+   "title": "Памяти Александра Николаевича Скрябина (1872 – 1915)",
+   "year": 2015,
+   "type": "journal",
+   "venue": "Наука и образование: научное издание МГТУ им. Н.Э. Баумана",
+   "url": "https://doi.org/10.7463/0815.0811324"
+  },
+  {
+   "title": "Лев Сергеевич Термен (1896 – 1993)",
+   "year": 2015,
+   "type": "journal",
+   "venue": "Наука и образование: научное издание МГТУ им. Н.Э. Баумана",
+   "url": "https://cyberleninka.ru/article/n/lev-sergeevich-termen-1896-1993"
+  },
+  {
+   "title": "Памяти Алессандра Матвеевича Понятόва (1892 – 1980)",
+   "year": 2015,
+   "type": "journal",
+   "venue": "Наука и образование: научное издание МГТУ им. Н.Э. Баумана",
+   "url": "https://cyberleninka.ru/article/n/pamyati-alessandra-matveevicha-ponyat-va-1892-1980"
+  },
+  {
+   "title": "Памяти Александра Степановича Попова (1859 – 1905)",
+   "year": 2015,
+   "type": "journal",
+   "venue": "Наука и образование: научное издание МГТУ им. Н.Э. Баумана",
+   "url": "https://doi.org/10.7463/0515.0778161"
+  },
+  {
+   "title": "Памяти Бенджамина Франклина (1706 – 1790)",
+   "year": 2015,
+   "type": "journal",
+   "venue": "Наука и образование: научное издание МГТУ им. Н.Э. Баумана",
+   "url": "https://doi.org/10.7463/0415.0770515"
+  },
+  {
+   "title": "Памяти Алессандро Вольты (1745 – 1827)",
+   "year": 2015,
+   "type": "journal",
+   "venue": "Наука и образование: научное издание МГТУ им. Н.Э. Баумана",
+   "url": "https://doi.org/10.7463/0315.0763125"
+  },
+  {
+   "title": "Памяти Оливера Хевисайда (1850 – 1925)",
+   "year": 2015,
+   "type": "journal",
+   "venue": "Наука и образование: научное издание МГТУ им. Н.Э. Баумана",
+   "url": "https://doi.org/10.7463/0215.0757600"
+  },
+  {
+   "title": "Андре-Мари Ампер (к 240-летию со дня рождения)",
+   "year": 2015,
+   "type": "journal",
+   "venue": "Наука и образование: научное издание МГТУ им. Н.Э. Баумана",
+   "url": "https://doi.org/10.7463/0115.0755871"
+  },
+  {
+   "title": "От камеры-обскуры до цифрового кинематографа",
+   "year": 2014,
+   "type": "journal",
+   "venue": "Наука и образование: научное издание МГТУ им. Н.Э. Баумана",
+   "url": "https://doi.org/10.7463/1114.0750857"
+  },
+  {
+   "title": "Памяти Сергея Васильевича Новаковского (1913 – 2004)",
+   "year": 2014,
+   "type": "journal",
+   "venue": "Наука и образование: научное издание МГТУ им. Н.Э. Баумана",
+   "url": "https://doi.org/10.7463/1014.0736776"
+  },
+  {
+   "title": "Памяти Германа-Людвига-Фердинанда фон Гельмгольца (1821 – 1894)",
+   "year": 2014,
+   "type": "journal",
+   "venue": "Наука и образование: научное издание МГТУ им. Н.Э. Баумана",
+   "url": "https://doi.org/10.7463/0914.0730289"
+  },
+  {
+   "title": "Памяти Эмиля Берлинера (1851 – 1929)",
+   "year": 2014,
+   "type": "journal",
+   "venue": "Наука и образование: научное издание МГТУ им. Н.Э. Баумана",
+   "url": "https://cyberleninka.ru/article/n/pamyati-emilya-berlinera-1851-1929"
+  },
+  {
+   "title": "Памяти Георга Ома (1787 – 1854)",
+   "year": 2014,
+   "type": "journal",
+   "venue": "Наука и образование: научное издание МГТУ им. Н.Э. Баумана",
+   "url": "https://cyberleninka.ru/article/n/pamyati-georga-oma-1787-1854"
+  },
+  {
+   "title": "Владимир Козьмич Зворыкин (125 лет со дня рождения)",
+   "year": 2014,
+   "type": "journal",
+   "venue": "Наука и образование: научное издание МГТУ им. Н.Э. Баумана",
+   "url": "https://cyberleninka.ru/article/n/vladimir-kozmich-zvorykin-125-let-so-dnya-rozhdeniya"
+  },
+  {
+   "title": "Давид Сарнов – крёстный отец радиовещания и телевидения (1891 – 1971)",
+   "year": 2014,
+   "type": "journal",
+   "venue": "Наука и образование: научное издание МГТУ им. Н.Э. Баумана",
+   "url": "https://cyberleninka.ru/article/n/david-sarnov-kryostnyy-otets-radioveschaniya-i-televideniya-1891-1971"
+  },
+  {
+   "title": "Памяти Эдвина Армстронга (18.12.1890 – 31.01.1954)",
+   "year": 2014,
+   "type": "journal",
+   "venue": "Наука и образование: научное издание МГТУ им. Н.Э. Баумана",
+   "url": "https://cyberleninka.ru/article/n/pamyati-edvina-armstronga-18-12-1890-31-01-1954"
+  },
+  {
+   "title": "Памяти Льва Термена (1896 – 1993)",
+   "year": 2013,
+   "type": "journal",
+   "venue": "Наука и образование: научное издание МГТУ им. Н.Э. Баумана",
+   "url": "http://web.archive.org/web/20181029135836/http://technomag.bmstu.ru:80/doc/681714.html"
+  },
+  {
+   "title": "Джек Килби (к 90-летию со дня рождения)",
+   "year": 2013,
+   "type": "journal",
+   "venue": "Наука и образование: научное издание МГТУ им. Н.Э. Баумана",
+   "url": "http://web.archive.org/web/20180902091042/http://technomag.bmstu.ru:80/doc/636161.html"
+  },
+  {
+   "title": "Ли де Форест (к 140-летию со дня рождения)",
+   "year": 2013,
+   "type": "journal",
+   "venue": "Наука и образование: научное издание МГТУ им. Н.Э. Баумана",
+   "url": "http://web.archive.org/web/20200815210007/http://www.technomag.edu.ru/doc/609941.html"
+  },
+  {
+   "title": "На заре радиокоммуникаций",
+   "year": 2013,
+   "type": "journal",
+   "venue": "Наука и образование: научное издание МГТУ им. Н.Э. Баумана",
+   "url": "http://web.archive.org/web/20231208100254/http://engineering-science.ru/doc/603624.html"
+  },
+  {
+   "title": "Памяти Джозефа Генри (17.12.1797 — 13.05.1878)",
+   "year": 2013,
+   "type": "journal",
+   "venue": "Наука и образование: научное издание МГТУ им. Н.Э. Баумана",
+   "url": "http://web.archive.org/web/20240424062131/http://technomag.edu.ru/doc/581765.html"
+  },
+  {
+   "title": "Памяти Бориса Львовича Розинга (1869 – 1933)",
+   "year": 2013,
+   "type": "journal",
+   "venue": "Наука и образование: научное издание МГТУ им. Н.Э. Баумана",
+   "url": "http://web.archive.org/web/20230703105547/http://technomag.edu.ru/doc/568798.html"
+  },
+  {
+   "title": "Михаил Александрович Бонч-Бруевич (1888 – 1940)",
+   "year": 2013,
+   "type": "journal",
+   "venue": "Наука и образование: научное издание МГТУ им. Н.Э. Баумана",
+   "url": "http://web.archive.org/web/20131101124529/http://technomag.edu.ru/doc/547852.html"
+  },
+  {
+   "title": "Памяти Николы Теслы (10.07.1856 – 07.01.1943)",
+   "year": 2013,
+   "type": "journal",
+   "venue": "Наука и образование: научное издание МГТУ им. Н.Э. Баумана",
+   "url": "http://web.archive.org/web/20230209014954/http://technomag.edu.ru/doc/533355.html"
+  },
+  {
+   "title": "Рей Милтон Долби (к 80-летию со дня рождения)",
+   "year": 2012,
+   "type": "journal",
+   "venue": "Наука и образование: научное издание МГТУ им. Н.Э. Баумана",
+   "url": "http://web.archive.org/web/20240424163724/http://engineering-science.ru/doc/496425.html"
+  },
+  {
+   "title": "Александр Гюстав Эйфель (180-лет со дня рождения)",
+   "year": 2012,
+   "type": "journal",
+   "venue": "Наука и образование: научное издание МГТУ им. Н.Э. Баумана",
+   "url": "http://web.archive.org/web/20240227172020/http://technomag.edu.ru/doc/483448.html"
+  },
+  {
+   "title": "Памяти Сидзуо Такано – Мистера VHS",
+   "year": 2012,
+   "type": "journal",
+   "venue": "Наука и образование: научное издание МГТУ им. Н.Э. Баумана",
+   "url": "http://web.archive.org/web/20240518023452/http://technomag.edu.ru/doc/442788.html"
+  },
+  {
+   "title": "Памяти Реджинальда Фессендена",
+   "year": 2012,
+   "type": "journal",
+   "venue": "Наука и образование: научное издание МГТУ им. Н.Э. Баумана",
+   "url": "http://web.archive.org/web/20230710124410/http://technomag.edu.ru/doc/441974.html"
+  },
+  {
+   "title": "Памяти Гульельмо Маркони",
+   "year": 2012,
+   "type": "journal",
+   "venue": "Наука и образование: научное издание МГТУ им. Н.Э. Баумана",
+   "url": "http://web.archive.org/web/20240413022537/http://technomag.edu.ru/doc/428496.html"
+  },
+  {
+   "title": "Памяти Сэмюэла Ф.Б. Морзе (27.04.1791 – 02.04.1872)",
+   "year": 2012,
+   "type": "journal",
+   "venue": "Наука и образование: научное издание МГТУ им. Н.Э. Баумана",
+   "url": "http://web.archive.org/web/20190919193028/http://technomag.edu.ru/doc/419300.html"
+  },
+  {
+   "title": "Александр Матвеевич Понятов (120-лет со дня рождения)",
+   "year": 2012,
+   "type": "journal",
+   "venue": "Наука и образование: научное издание МГТУ им. Н.Э. Баумана",
+   "url": "http://web.archive.org/web/20220616024332/http://engineering-science.ru/doc/364552.html"
+  },
+  {
+   "title": "Памяти Александра Грэхема Белла (03.03.1847 – 02.02.1922)",
+   "year": 2012,
+   "type": "journal",
+   "venue": "Наука и образование: научное издание МГТУ им. Н.Э. Баумана",
+   "url": "http://web.archive.org/web/20240227171800/http://technomag.edu.ru/doc/347553.html"
+  },
+  {
+   "title": "Памяти Томаса Алва Эдисона (11.02.1847 – 18.10.1931)",
+   "year": 2011,
+   "type": "journal",
+   "venue": "Наука и образование: научное издание МГТУ им. Н.Э. Баумана",
+   "url": "http://web.archive.org/web/20240519052750/http://www.technomag.edu.ru/doc/282286.html"
+  },
+  {
+   "title": "Бытовые видеомагнитофоны",
+   "year": 1989,
+   "type": "book",
+   "venue": "Москва: Радио и связь (соавт. А.П. Афанасьев), 159 с., ISBN 5-256-00088-8",
+   "url": "https://search.rsl.ru/ru/record/01001445554"
+  }
+ ],
+ "Селихов Юрий Родионович": [
+  {
+   "title": "Проектирование системы оценки состояния нестационарного дискретного канала связи",
+   "year": 2017,
+   "type": "journal",
+   "venue": "Вестник компьютерных и информационных технологий. 2017. № 4. С. 29–38 (соавт. А.Т. Нурматов, Е.В. Нурматова)",
+   "url": "https://doi.org/10.14489/vkit.2017.04.pp.029-038"
+  },
+  {
+   "title": "Информационная характеристика дискретного канала связи с источником ошибок",
+   "year": 2016,
+   "type": "journal",
+   "venue": "Технические науки – от теории к практике. 2016. № 58-1. С. 75–80 (соавт. А.Т. Нурматов)",
+   "url": "https://cyberleninka.ru/article/n/informatsionnaya-harakteristika-diskretnogo-kanala-svyazi-s-istochnikom-oshibok"
+  },
+  {
+   "title": "Инжиниринг трафика в программно определяемых сетях",
+   "year": 2016,
+   "type": "journal",
+   "venue": "Молодой учёный. 2016. № 11(115). С. 461–467 (соавт. А.В. Шуклин, С.В. Юрсков, А.Л. Хамуш)",
+   "url": "https://moluch.ru/archive/115/30922/"
+  },
+  {
+   "title": "Методы моделирования случайных процессов",
+   "year": 2016,
+   "type": "journal",
+   "venue": "Молодой учёный. 2016. № 11(115). С. 467–471 (соавт. С.В. Юрсков, А.В. Шуклин, А.Л. Хамуш, Д.А. Газаров)",
+   "url": "https://moluch.ru/archive/115/30923/"
+  },
+  {
+   "title": "Характеристики групповой синхронизации в многоканальной системе передачи измерительной информации",
+   "year": 1990,
+   "type": "journal",
+   "venue": "Проектирование автоматизированных систем сбора и обработки информации: сб. статей / ред. В.И. Боевкин. М., 1990. (Труды МГТУ им. Н.Э. Баумана; № 546). С. 3–12 (соавт. А.Н. Дядюнов, Н.Е. Платонов)",
+   "url": "https://library.bmstu.ru/Catalog/Details/563929"
+  },
+  {
+   "title": "Estimation of the reliability of data transmission in remote sensing",
+   "year": 1990,
+   "type": "journal",
+   "venue": null,
+   "url": "https://ui.adsabs.harvard.edu/abs/1990ursr.rept..121D/abstract"
+  }
+ ],
+ "Павлов Юрий Николаевич": [
+  {
+   "title": "Идентификация параметров динамического гасителя колебаний с сухим трением",
+   "year": 2019,
+   "type": "journal",
+   "venue": "Динамика сложных систем - XXI век, Т. 13, № 1, С. 65-71",
+   "url": "https://doi.org/10.18127/j19997493-201901-10"
+  },
+  {
+   "title": "Идентификация параметров динамического гасителя колебаний",
+   "year": 2018,
+   "type": "journal",
+   "venue": "Динамика сложных систем - XXI век, Т. 12, № 1, С. 46-51",
+   "url": null
+  },
+  {
+   "title": "Минимизация резонансных колебаний в системе с переменной структурой",
+   "year": 2018,
+   "type": "journal",
+   "venue": "Динамика сложных систем - XXI век, Т. 12, № 4, С. 53-58",
+   "url": "http://www.radiotec.ru/article/22624"
+  },
+  {
+   "title": "Psychological adaptation mechanism of the higher education engineering students: artificial conversational entity usage for help",
+   "year": 2018,
+   "type": "conference",
+   "venue": "12th International Technology, Education and Development Conference (INTED 2018 Proceedings), pp. 3472-3476",
+   "url": "https://doi.org/10.21125/inted.2018.0667"
+  },
+  {
+   "title": "Исследование методов объективной оценки качества тепловизионных изображений",
+   "year": 2017,
+   "type": "journal",
+   "venue": "Интернет-журнал «Науковедение» (Вестник евразийской науки), Т. 9, № 4",
+   "url": "https://cyberleninka.ru/article/n/issledovanie-metodov-obektivnoy-otsenki-kachestva-teplovizionnyh-izobrazheniy"
+  },
+  {
+   "title": "Идентификация нелинейного динамического звена по результатам эксперимента",
+   "year": 2017,
+   "type": "journal",
+   "venue": "Вестник НПО им. С.А. Лавочкина, № 1 (35), С. 77-82",
+   "url": "http://vestnik.laspace.ru/archives/01-2017/"
+  },
+  {
+   "title": "Идентификация передаточной функции динамической системы по результатам эксперимента",
+   "year": 2017,
+   "type": "journal",
+   "venue": "Наука и образование: научное издание МГТУ им. Н.Э. Баумана, № 5",
+   "url": "https://doi.org/10.7463/0517.0001249"
+  },
+  {
+   "title": "Теория информации для бакалавров",
+   "year": 2016,
+   "type": "book",
+   "venue": "М.: Изд-во МГТУ им. Н. Э. Баумана, 173 с. (уч. пособие; соавт. Е. В. Смирнова, Е. А. Тихомирова)",
+   "url": "http://ebooks.bmstu.ru/catalog/166/book1554.html"
+  },
+  {
+   "title": "Сравнение методов оценки тональности текста",
+   "year": 2016,
+   "type": "journal",
+   "venue": "Молодой ученый, № 12 (116), С. 59-64",
+   "url": "http://moluch.ru/archive/116/"
+  },
+  {
+   "title": "Применение двухточечного метода калибровки для тепловизионных матриц фирмы ULIS",
+   "year": 2015,
+   "type": "journal",
+   "venue": "Радиооптика (Радиостроение), № 06",
+   "url": "https://cyberleninka.ru/article/n/primenenie-dvuhtochechnogo-metoda-kalibrovki-dlya-teplovizionnyh-matrits-firmy-ulis"
+  },
+  {
+   "title": "Идентификация нелинейных динамических систем, имеющих в своём составе несколько нелинейностей",
+   "year": 2015,
+   "type": "journal",
+   "venue": "Наука и образование: научное издание МГТУ им. Н.Э. Баумана, № 7",
+   "url": "https://doi.org/10.7463/0715.0789774"
+  },
+  {
+   "title": "Метод повышения точности идентификации при экспериментальных испытаниях динамический объектов",
+   "year": 2015,
+   "type": "journal",
+   "venue": "Наука и образование: научное издание МГТУ им. Н.Э. Баумана, № 9",
+   "url": "https://doi.org/10.7463/0915.0810583"
+  },
+  {
+   "title": "Анализ и сравнение объективных методов оценки качества изображений",
+   "year": 2014,
+   "type": "journal",
+   "venue": "Наука и образование: научное издание МГТУ им. Н.Э. Баумана, № 9",
+   "url": "https://doi.org/10.7463/0914.0726368"
+  },
+  {
+   "title": "Идентификация нелинейных динамических систем с заданными типами нелинейности по годографам",
+   "year": 2014,
+   "type": "journal",
+   "venue": "Наука и образование: научное издание МГТУ им. Н.Э. Баумана, № 10",
+   "url": "https://doi.org/10.7463/1014.0727229"
+  },
+  {
+   "title": "Метод гармонической линеаризации в задаче идентификации нелинейных динамических систем",
+   "year": 2014,
+   "type": "journal",
+   "venue": "Наука и образование: научное издание МГТУ им. Н.Э. Баумана, № 4",
+   "url": "https://doi.org/10.7463/0414.0704613"
+  },
+  {
+   "title": "Оценка точности работы методики автоматизированной идентификации лексем с применением виртуальных текстов",
+   "year": 2013,
+   "type": "journal",
+   "venue": "Наука и образование: научное издание МГТУ им. Н.Э. Баумана, № 8",
+   "url": "https://doi.org/10.7463/0813.0583389"
+  },
+  {
+   "title": "Идентификация линейных динамических звеньев по частотному годографу",
+   "year": 2013,
+   "type": "journal",
+   "venue": "Наука и образование: научное издание МГТУ им. Н.Э. Баумана, № 9",
+   "url": "https://doi.org/10.7463/0913.0618917"
+  },
+  {
+   "title": "Прогнозирование транспортной загруженности дорог",
+   "year": 2012,
+   "type": "journal",
+   "venue": "Инженерное образование (Наука и образование: электронное научно-техническое издание), № 7",
+   "url": "https://doi.org/10.7463/0712.0418480"
+  },
+  {
+   "title": "Автоматизированная система безопасности на железнодорожном транспорте",
+   "year": 2012,
+   "type": "journal",
+   "venue": "Молодежный научно-технический вестник, № 03",
+   "url": null
+  },
+  {
+   "title": "Оценка устойчивости во времени частотных словарей авторов в задачах идентификации текстов",
+   "year": 2011,
+   "type": "journal",
+   "venue": "Наука и образование: электронное научно-техническое издание",
+   "url": "https://cyberleninka.ru/article/n/otsenka-ustoychivosti-vo-vremeni-chastotnyh-slovarey-avtorov-v-zadachah-identifikatsii-tekstov"
+  },
+  {
+   "title": "Теорема Котельникова",
+   "year": 2009,
+   "type": "book",
+   "venue": "МГТУ им. Н. Э. Баумана, каф. ИУ-3 (электронный ресурс, методические рекомендации к домашнему заданию)",
+   "url": "https://search.rsl.ru/ru/record/01004393635"
+  },
+  {
+   "title": "Фрактальная графика",
+   "year": 2009,
+   "type": "book",
+   "venue": "МГТУ им. Н. Э. Баумана, каф. ИУ-3 (электронное учебное пособие; соавт. Н. Ю. Терехова)",
+   "url": "https://search.rsl.ru/ru/record/01004393641"
+  },
+  {
+   "title": "История науки \"Теория информации\"",
+   "year": 2009,
+   "type": "book",
+   "venue": "МГТУ им. Н. Э. Баумана, каф. ИУ-3 (электронное учебное пособие; соавт. Е. В. Галямова)",
+   "url": "https://search.rsl.ru/ru/record/01004393625"
+  },
+  {
+   "title": "Экстраполяция псевдослучайных процессов по максимуму подобия",
+   "year": 2009,
+   "type": "journal",
+   "venue": "Наука и образование: электронное научно-техническое издание, № 7",
+   "url": "https://cyberleninka.ru/article/n/ekstrapolyatsiya-psevdosluchaynyh-protsessov-po-maksimumu-podobiya"
+  },
+  {
+   "title": "Сезонно-регрессионная модель прогнозирования в решении задачи прогнозирования цен РСВ (рынок на сутки вперед)",
+   "year": 2009,
+   "type": "journal",
+   "venue": "Энерго-Info, № 4",
+   "url": null
+  },
+  {
+   "title": "Преобразование сигналов в информационных системах",
+   "year": 1985,
+   "type": "book",
+   "venue": "М.: МВТУ, 40 с. (уч. пособие по курсу «Прикладная теория информации»; Д. Я. Герман, Ю. Н. Павлов, Ю. П. Яблонько; под ред. А. С. Елисеева)",
+   "url": "https://search.rsl.ru/ru/record/01001244527"
+  },
+  {
+   "title": "Дискретизация непрерывных сигналов",
+   "year": 1985,
+   "type": "book",
+   "venue": "М.: МВТУ, 36 с. (уч. пособие по курсу «Прикладная теория информации»; А. М. Муратов, Ю. Н. Павлов, Ю. П. Яблонько; под ред. А. С. Елисеева)",
+   "url": "https://search.rsl.ru/ru/record/01011308449"
+  },
+  {
+   "title": "Геоинформационные системы: Использование геофизических полей в автоматических системах навигации и управления",
+   "year": 1978,
+   "type": "book",
+   "venue": "М.: Машиностроение, 271 с. (Ю. Н. Павлов, А. В. Селезнев, Г. Н. Толстоусов)",
+   "url": "https://search.rsl.ru/ru/record/01007635422"
+  },
+  {
+   "title": "Ориентация искусственных спутников в гравитационных и магнитных полях",
+   "year": 1976,
+   "type": "book",
+   "venue": "М.: Наука (соавт. В. И. Боевкин, Ю. Г. Гуревич, Ю. Н. Павлов, Г. Н. Толстоусов)",
+   "url": "https://rusneb.ru/catalog/000199_000009_006964318/"
+  },
+  {
+   "title": "Spatial oscillations of a gravitationally stabilized elastic satellite",
+   "year": 1976,
+   "type": "journal",
+   "venue": "Космические исследования (Kosmicheskie Issledovaniia), т. 14, с. 944 (соавт. В. П. Петрук; англ. пер. Cosmic Research, 1977)",
+   "url": "https://ui.adsabs.harvard.edu/abs/1976KosIs..14..944P/abstract"
+  },
+  {
+   "title": "Rotational Motion of a Gravitational Stabilization System",
+   "year": 1973,
+   "type": "journal",
+   "venue": "Cosmic Research (Космические исследования), т. 11, с. 770",
+   "url": "https://ui.adsabs.harvard.edu/abs/1973CosRe..11..770B/abstract"
+  },
+  {
+   "title": "Способ коррекции феррозондовых следящих систем",
+   "year": 1967,
+   "type": "patent",
+   "venue": "Авторское свидетельство СССР SU 202276 A1 (Гуревич Ю. Г., Павлов Ю. Н., Боевкин В. И., Афанасьев Ю. В., Ефремов В. Ф.)",
+   "url": "https://rusneb.ru/catalog/000224_000128_0000202276_19670914_A1_SU/"
+  }
+ ],
+ "Коновалов Александр Васильевич": [
+  {
+   "title": "Создание конфигурации для организации заданного учёта на малом предприятии в среде пакета \"1С: Предприятие\"",
+   "year": 2025,
+   "type": "book",
+   "venue": "Изд-во МГТУ им. Н. Э. Баумана, 28 с., ISBN 978-5-7038-6727-3 (соавт. Недашковский В. М., Сакулин С. А., Кадырбаева А. Р., Тихомирова Е. А.)",
+   "url": "https://press.bmstu.ru/catalog/item/8601/"
+  },
+  {
+   "title": "Основы теории управления и цифровой обработки сигналов. Лабораторная работа 1 \"Простейшие динамические звенья\"",
+   "year": 2025,
+   "type": "book",
+   "venue": "Изд-во МГТУ им. Н. Э. Баумана, 24 с., ISBN 978-5-7038-6698-6 (соавт. Кадырбаева А. Р., Недашковский В. М., Сакулин С. А., Тихомирова Е. А.)",
+   "url": "https://press.bmstu.ru/catalog/item/8569/"
+  }
+ ],
+ "Дядюнов Александр Николаевич": [
+  {
+   "title": "Моделирование сигнала космической связи с негауссовскими коррелированными искажениями",
+   "year": 2020,
+   "type": "journal",
+   "venue": "Ракетно-космическое приборостроение и информационные системы, Т. 7, № 3, С. 42–50 (соавт. Силин Д. М.)",
+   "url": "https://doi.org/10.30894/issn2409-0239.2020.7.3.42.50"
+  },
+  {
+   "title": "Информационный критерий эффективности систем оценки параметров сигнала",
+   "year": 2019,
+   "type": "journal",
+   "venue": "Электросвязь, № 10, С. 44–47 (соавт. Силин Д. М.)",
+   "url": "https://library.bmstu.ru/Catalog/Details/539552"
+  },
+  {
+   "title": "Определение зон распространения сигнала беспроводной мобильной сети стандарта LTE",
+   "year": 2018,
+   "type": "journal",
+   "venue": "Информационные системы и технологии, № 2 (106), С. 79–84 (соавт. Кадырбаева А. Р.)",
+   "url": "https://library.bmstu.ru/Catalog/Details/530344"
+  },
+  {
+   "title": "Определение зон распространения сигнала беспроводной локальной сети",
+   "year": 2018,
+   "type": "journal",
+   "venue": "Информационные системы и технологии, № 1, С. 71–77 (соавт. Кадырбаева А. Р.)",
+   "url": "https://library.bmstu.ru/Catalog/Details/530323"
+  },
+  {
+   "title": "Определение зон распространения сигнала беспроводной локальной сети",
+   "year": 2017,
+   "type": "journal",
+   "venue": "Universum: технические науки, № 7 (40) (соавт. Кадырбаева А. Р.)",
+   "url": "https://cyberleninka.ru/article/n/opredelenie-zon-rasprostraneniya-signala-besprovodnoy-lokalnoy-seti"
+  },
+  {
+   "title": "Логарифмически-нормальная модель распространения сигнала беспроводного канала связи для стандарта связи VirtualWire 433 МГц",
+   "year": 2016,
+   "type": "journal",
+   "venue": "Universum: технические науки, № 5 (26) (соавт. Осененко А. Е., Кадырбаева А. Р.)",
+   "url": "http://7universum.com/ru/tech/archive/item/3224"
+  },
+  {
+   "title": "Статистические характеристики уровня сигнала беспроводной локальной связи",
+   "year": 2016,
+   "type": "journal",
+   "venue": "Universum: технические науки, № 3-4 (25) (соавт. Кадырбаева А. Р., Осененко А. Е.)",
+   "url": "http://7universum.com/ru/tech/archive/item/3082"
+  },
+  {
+   "title": "Особенности моделей каналов связи беспроводной локальной сети",
+   "year": 2016,
+   "type": "journal",
+   "venue": "Universum: технические науки, № 2 (24) (соавт. Кадырбаева А. Р.)",
+   "url": "http://7universum.com/ru/tech/archive/item/2967"
+  },
+  {
+   "title": "Моделирование канала связи беспроводных локальных сетей",
+   "year": 2013,
+   "type": "journal",
+   "venue": "Научный вестник МГТУ ГА, № 189, С. 14–22 (соавт. Смолев Д. В.)",
+   "url": "https://cyberleninka.ru/article/n/modelirovanie-kanala-svyazi-besprovodnyh-lokalnyh-setey"
+  },
+  {
+   "title": "Моделирование алгоритмов поиска и опознавания сигналов радионавигационных станций ИФРНС «Лоран-С»",
+   "year": 2012,
+   "type": "journal",
+   "venue": "Научный вестник МГТУ ГА, № 176, С. 118–128 (соавт. Чарикова Д. М.)",
+   "url": "https://cyberleninka.ru/article/n/modelirovanie-algoritmov-poiska-i-opoznavaniya-signalov-radionavigatsionnyh-stantsiy-ifrns-loran-s"
+  },
+  {
+   "title": "Обработка информации в импульсно-фазовой радионавигационной системе",
+   "year": 2011,
+   "type": "journal",
+   "venue": "Научный вестник МГТУ ГА, № 164 (соавт. Чарикова Д. М.)",
+   "url": "https://cyberleninka.ru/article/n/obrabotka-informatsii-v-impulsno-fazovoy-radionavigatsionnoy-sisteme"
+  },
+  {
+   "title": "Алгоритмы речевого кодирования в стандарте GSM: методические указания к лабораторным работам",
+   "year": 2009,
+   "type": "book",
+   "venue": "Изд-во МГТУ им. Н. Э. Баумана (CD-ROM; каф. «Информационные системы и телекоммуникации»)",
+   "url": "https://search.rsl.ru/ru/record/01004393655"
+  },
+  {
+   "title": "Моделирование беспроводных сенсорных сетей",
+   "year": 2009,
+   "type": "journal",
+   "venue": "Научный вестник МГТУ ГА, № 139 (соавт. Кузнецов К. Н.)",
+   "url": "https://cyberleninka.ru/article/n/modelirovanie-besprovodnyh-sensornyh-setey"
+  },
+  {
+   "title": "Программное моделирование стандарта сотовой телефонной связи GSM-900",
+   "year": 2001,
+   "type": "journal",
+   "venue": "Научный вестник МГТУ ГА, № 35, С. 207–215 (соавт. Решетников В. В.)",
+   "url": "https://www.dissercat.com/content/avtomaticheskaya-otsenka-kachestva-peredachi-rechevogo-signala-po-tsifrovym-kanalam-svyazi-n"
+  },
+  {
+   "title": "Оценка качества речевого канала связи стандарта GSM-900",
+   "year": 2001,
+   "type": "journal",
+   "venue": "Научный вестник МГТУ ГА, № 35, С. 216–226 (соавт. Решетников В. В.)",
+   "url": "https://www.dissercat.com/content/avtomaticheskaya-otsenka-kachestva-peredachi-rechevogo-signala-po-tsifrovym-kanalam-svyazi-n"
+  },
+  {
+   "title": "Групповая синхронизация многоканальных систем передачи информации: учебное пособие по курсам «Системы сбора и передачи информации» и «Проектирование информационных систем»",
+   "year": 1992,
+   "type": "book",
+   "venue": "МГТУ им. Н. Э. Баумана (под ред. А. Н. Дядюнова), 53 с.",
+   "url": "https://library.bmstu.ru/Catalog/Details/104469"
+  },
+  {
+   "title": "Характеристики групповой синхронизации в многоканальной системе передачи измерительной информации",
+   "year": 1990,
+   "type": "conference",
+   "venue": "Проектирование автоматизированных систем сбора и обработки информации: сб. статей (Труды МГТУ им. Н. Э. Баумана, № 546), С. 3–12 (соавт. Платонов Н. Е., Селихов Ю. Р.)",
+   "url": "https://library.bmstu.ru/Catalog/Details/563929"
+  },
+  {
+   "title": "Estimation of the reliability of data transmission in remote sensing",
+   "year": 1990,
+   "type": "journal",
+   "venue": "USSR Report (NASA ADS 1990ursr.rept), pp. 121–127 (соавт. Selikhov Yu. R.)",
+   "url": "http://ui.adsabs.harvard.edu/abs/1990ursr.rept..121D/abstract"
+  },
+  {
+   "title": "Адаптивные системы сбора и передачи аналоговой информации. Основы теории",
+   "year": 1988,
+   "type": "book",
+   "venue": "Машиностроение, 286 с., ISBN 5-217-00010-4 (соавт. Онищенко Ю. А., Сенин А. И.)",
+   "url": "https://search.rsl.ru/ru/record/01001447836"
+  },
+  {
+   "title": "Методические указания к курсовому проекту по курсу «Системы сбора и обработки информации»",
+   "year": 1988,
+   "type": "book",
+   "venue": "МВТУ им. Н. Э. Баумана (под ред. А. С. Елисеева), 15 с.",
+   "url": "https://library.bmstu.ru/Catalog/Details/114745"
+  },
+  {
+   "title": "Адаптивные системы сбора и передачи информации: учебное пособие",
+   "year": 1987,
+   "type": "book",
+   "venue": "Изд-во МВТУ им. Н. Э. Баумана (под ред. А. С. Елисеева), 40 с.",
+   "url": "https://search.rsl.ru/ru/record/01001351483"
+  },
+  {
+   "title": "Адаптивный алгоритм повышения достоверности измерительной информации",
+   "year": 1987,
+   "type": "conference",
+   "venue": "Теоретические вопросы проектирования автоматизированных систем сбора и обработки информации: сб. статей (Труды МВТУ, № 474), С. 38–45 (соавт. Ширшаков А. Е.)",
+   "url": "https://library.bmstu.ru/Catalog/Details/566885"
+  },
+  {
+   "title": "Применение характеристик выбросов случайных процессов для оценки достоверности информации",
+   "year": 1984,
+   "type": "conference",
+   "venue": "Теоретические вопросы проектирования автоматизированных систем сбора и обработки информации: сб. статей (Труды МВТУ, № 420), С. 63–69 (соавт. Ширшаков А. Е., Гаврилов В. П.)",
+   "url": "https://library.bmstu.ru/Catalog/Details/568013"
+  },
+  {
+   "title": "Элементы схемотехники: учебное пособие. Ч. 2",
+   "year": 1982,
+   "type": "book",
+   "venue": "МВТУ им. Н. Э. Баумана (под ред. Г. Н. Толстоусова; соавт. Толстоусов Г. Н., Ивин Л. Ф.)",
+   "url": "https://search.rsl.ru/ru/record/01001074634"
+  },
+  {
+   "title": "Системы сбора и обработки информации: учебное пособие. Ч. 1",
+   "year": 1980,
+   "type": "book",
+   "venue": "МВТУ им. Н. Э. Баумана, 50 с. (соавт. Толстоусов Г. Н., Ивин Л. Ф.)",
+   "url": "https://search.rsl.ru/ru/record/01001025838"
+  },
+  {
+   "title": "Конспект лекций по курсу «Элементы информационных систем». Ч. 1: Импульсные устройства",
+   "year": 1979,
+   "type": "book",
+   "venue": "МВТУ им. Н. Э. Баумана (под ред. Г. Н. Толстоусова; соавт. Ивин Л. Ф.), 54 с.",
+   "url": "https://search.rsl.ru/ru/record/01007595648"
+  },
+  {
+   "title": "Элементы схемотехники: учебное пособие. Ч. 1",
+   "year": 1979,
+   "type": "book",
+   "venue": "МВТУ им. Н. Э. Баумана (под ред. Г. Н. Толстоусова; соавт. Ивин Л. Ф.), 55 с.",
+   "url": "https://library.bmstu.ru/Catalog/Details/104780"
+  },
+  {
+   "title": "Повышение верности передачи измерительной информации при помощи управляющей обратной связи",
+   "year": 1979,
+   "type": "conference",
+   "venue": "Вопросы расчёта и проектирования автоматических информационных систем: сб. статей (Труды МВТУ, № 310), С. 102–107 (соавт. Сесёлкин А. И.)",
+   "url": "https://library.bmstu.ru/Catalog/Details/574723"
+  },
+  {
+   "title": "Повышение верности передачи сжатых данных с помощью решающей обратной связи",
+   "year": 1978,
+   "type": "conference",
+   "venue": "Вопросы расчёта и проектирования автоматических информационных систем: сб. статей (Труды МВТУ, № 284), С. 35–41 (соавт. Переверткин С. М., Сесёлкин А. И.)",
+   "url": "https://library.bmstu.ru/Catalog/Details/576754"
+  },
+  {
+   "title": "Влияние помех в канале связи на достоверность измерительной информации",
+   "year": 1977,
+   "type": "conference",
+   "venue": "Вопросы проектирования и расчёта автоматических информационных систем: сб. статей (Труды МВТУ, № 270), С. 42–45 (соавт. Казьмин Н. М., Карпов Н. С.)",
+   "url": "https://library.bmstu.ru/Catalog/Details/581102"
+  },
+  {
+   "title": "К вопросу о разбиении системы на контролируемые сменные блоки",
+   "year": 1975,
+   "type": "conference",
+   "venue": "Вопросы расчёта и проектирования автоматических информационных систем: сб. статей (Труды МВТУ, № 210), С. 22–23 (соавт. Шевцов Ю. А.)",
+   "url": "https://library.bmstu.ru/Catalog/Details/576900"
+  },
+  {
+   "title": "Об одном способе оценки состояния канала связи в адаптивной системе передачи информации",
+   "year": 1973,
+   "type": "conference",
+   "venue": "Информационные системы (вопросы теории и проектирования): сб. статей (Труды МВТУ, № 173), С. 38–41 (соавт. Щербакова Т. С.)",
+   "url": "https://library.bmstu.ru/Catalog/Details/590211"
+  },
+  {
+   "title": "Исследование режима поиска сложных сигналов по временной задержке для когерентного и некогерентного приёмника",
+   "year": 1973,
+   "type": "conference",
+   "venue": "Информационные системы (вопросы теории и проектирования): сб. статей (Труды МВТУ, № 173), С. 64–66 (соавт. Логвин А. И.)",
+   "url": "https://library.bmstu.ru/Catalog/Details/590236"
+  },
+  {
+   "title": "К вопросу применения решающей обратной связи в системах передачи информации",
+   "year": 1973,
+   "type": "conference",
+   "venue": "Вопросы расчёта и проектирования автоматических информационных систем: сб. статей (Труды МВТУ, № 162), С. 22–25 (соавт. Переверткин С. М.)",
+   "url": "https://library.bmstu.ru/Catalog/Details/576731"
+  },
+  {
+   "title": "Применение метода поглощающих цепей Маркова к анализу определенного класса систем массового обслуживания",
+   "year": 1973,
+   "type": "conference",
+   "venue": "Вопросы расчёта и проектирования автоматических информационных систем: сб. статей (Труды МВТУ, № 162), С. 25–28 (соавт. Щербакова Т. С.)",
+   "url": "https://library.bmstu.ru/Catalog/Details/576732"
+  }
+ ],
+ "Елисеев Алексей Станиславович": [
+  {
+   "title": "Жизнь — капля в море: воспоминания",
+   "year": 1998,
+   "type": "book",
+   "venue": "М.: Авиация и космонавтика, 264 с.",
+   "url": "https://search.rsl.ru/ru/record/01000580905"
+  },
+  {
+   "title": "Космическое содружество: хроника международных полётов. 2-е изд. (под ред. А. С. Елисеева)",
+   "year": 1987,
+   "type": "book",
+   "venue": "М.: Машиностроение, 204 с.",
+   "url": "https://search.rsl.ru/ru/record/01002102948"
+  },
+  {
+   "title": "Техника космических полётов",
+   "year": 1983,
+   "type": "book",
+   "venue": "М.: Машиностроение, 307 с.",
+   "url": "https://search.rsl.ru/ru/record/01001166480"
+  },
+  {
+   "title": "Космическое содружество (под ред. А. С. Елисеева)",
+   "year": 1980,
+   "type": "book",
+   "venue": "М.: Машиностроение, 180 с.",
+   "url": "https://search.rsl.ru/ru/record/01007941671"
+  }
+ ],
+ "Герман Дмитрий Яковлевич": [
+  {
+   "title": "Язык программирования Паскаль (операционная система ДВК) (с В. А. Королёвым, М. Г. Горбачевичем; под ред. А. С. Елисеева)",
+   "year": 1988,
+   "type": "book",
+   "venue": "М.: МВТУ, учеб. пособие, 54 с.",
+   "url": "https://search.rsl.ru/ru/record/01001459122"
+  },
+  {
+   "title": "Преобразование сигналов в информационных системах (с Ю. Н. Павловым, Ю. П. Яблонько; под ред. А. С. Елисеева)",
+   "year": 1985,
+   "type": "book",
+   "venue": "М.: МВТУ, учеб. пособие, 40 с.",
+   "url": "https://search.rsl.ru/ru/record/01001244527"
+  },
+  {
+   "title": "Работа с дисплеем в системе автоматизированного проектирования (с Г. Н. Толстоусовым)",
+   "year": 1982,
+   "type": "book",
+   "venue": "М.: МВТУ, учеб. пособие, 42 с.",
+   "url": "https://search.rsl.ru/ru/record/01001088247"
+  },
+  {
+   "title": "Прикладная теория информации (с Г. Н. Толстоусовым)",
+   "year": 1973,
+   "type": "book",
+   "venue": "М.: МВТУ им. Н. Э. Баумана, 163 с.",
+   "url": "https://search.rsl.ru/ru/record/01007142790"
+  }
+ ],
+ "Ивин Лев Фёдорович": [
+  {
+   "title": "Элементы схемотехники. Ч. 1: Этапы проектирования больших электронных схем (под ред. В. В. Девяткова)",
+   "year": 1995,
+   "type": "book",
+   "venue": "М.: Изд-во МГТУ им. Н. Э. Баумана, 23 с.",
+   "url": "https://search.rsl.ru/ru/record/01001730757"
+  },
+  {
+   "title": "Методы и средства измерений (под ред. А. С. Елисеева)",
+   "year": 1989,
+   "type": "book",
+   "venue": "М.: Изд-во МВТУ, учеб. пособие, 50 с.",
+   "url": "https://search.rsl.ru/ru/record/01001489924"
+  },
+  {
+   "title": "Электронные схемы для математических операций (под ред. А. С. Елисеева)",
+   "year": 1984,
+   "type": "book",
+   "venue": "М.: МВТУ, учеб. пособие, 43 с.",
+   "url": "https://search.rsl.ru/ru/record/01001219404"
+  },
+  {
+   "title": "Расчёт динамики нелинейных квазискоростных систем стабилизации (под ред. А. С. Елисеева)",
+   "year": 1983,
+   "type": "book",
+   "venue": "М.: МВТУ, учеб. пособие, 52 с.",
+   "url": "https://search.rsl.ru/ru/record/01001182637"
+  },
+  {
+   "title": "Элементы схемотехники. Ч. 2 (с Г. Н. Толстоусовым, А. Н. Дядюновым)",
+   "year": 1982,
+   "type": "book",
+   "venue": "М.: МВТУ, учеб. пособие",
+   "url": "https://search.rsl.ru/ru/record/01001074634"
+  },
+  {
+   "title": "Системы сбора и обработки информации. Ч. 1 (с Г. Н. Толстоусовым, А. Н. Дядюновым)",
+   "year": 1980,
+   "type": "book",
+   "venue": "М.: МВТУ, учеб. пособие, 50 с.",
+   "url": "https://search.rsl.ru/ru/record/01001025838"
+  },
+  {
+   "title": "Элементы схемотехники. Ч. 1 (под ред. Г. Н. Толстоусова)",
+   "year": 1979,
+   "type": "book",
+   "venue": "М.: МВТУ, учеб. пособие, 56 с.",
+   "url": "https://search.rsl.ru/ru/record/01007595836"
+  }
+ ],
+ "Толстоусов Георгий Николаевич": [
+  {
+   "title": "Использование микропроцессоров в бытовой технике (с Л. Н. Буреевым)",
+   "year": 1985,
+   "type": "book",
+   "venue": "М.: Московский технологический институт, 81 с.",
+   "url": "https://search.rsl.ru/ru/record/01001316934"
+  },
+  {
+   "title": "Работа с дисплеем в системе автоматизированного проектирования (с Д. Я. Германом)",
+   "year": 1982,
+   "type": "book",
+   "venue": "М.: учеб. пособие, 42 с.",
+   "url": "https://search.rsl.ru/ru/record/01001088247"
+  },
+  {
+   "title": "Системы сбора и обработки информации. Ч. 1 (с А. Н. Дядюновым, Л. Ф. Ивиным)",
+   "year": 1980,
+   "type": "book",
+   "venue": "М.: МВТУ, учеб. пособие, 50 с.",
+   "url": "https://search.rsl.ru/ru/record/01001025838"
+  },
+  {
+   "title": "Геоинформационные системы: использование геофизических полей в автоматических системах навигации и управления (с Ю. Н. Павловым, А. В. Селезнёвым)",
+   "year": 1978,
+   "type": "book",
+   "venue": "М.: Машиностроение, 271 с.",
+   "url": "https://search.rsl.ru/ru/record/01007635422"
+  },
+  {
+   "title": "Ориентация искусственных спутников в гравитационных и магнитных полях (с В. И. Боевкиным, Ю. Г. Гуревичем, Ю. Н. Павловым)",
+   "year": 1976,
+   "type": "book",
+   "venue": "М.: Наука, серия «Механика космического полёта», 303 с.",
+   "url": "https://search.rsl.ru/ru/record/01006964318"
+  },
+  {
+   "title": "Прикладная теория информации (с Д. Я. Германом)",
+   "year": 1973,
+   "type": "book",
+   "venue": "М.: МВТУ им. Н. Э. Баумана, учеб. пособие, 163 с.",
+   "url": "https://search.rsl.ru/ru/record/01007142790"
+  }
+ ],
+ "Корольков Игорь Валентинович": [
+  {
+   "title": "Барометрический высотомер (а. с. SU 1426187; с А. И. Журавлёвым и др.)",
+   "year": 1987,
+   "type": "patent",
+   "venue": "Авторское свидетельство СССР (дата заявки 12.01.1987)",
+   "url": "https://patents.google.com/patent/SU1426187A1/ru"
+  },
+  {
+   "title": "Техника измерения шумов и чувствительности электронных схем",
+   "year": 1986,
+   "type": "book",
+   "venue": "М.: МВТУ",
+   "url": "https://search.rsl.ru/ru/record/01001308439"
+  },
+  {
+   "title": "Характеристика информационно-измерительных устройств (с Б. С. Никоновым)",
+   "year": 1986,
+   "type": "book",
+   "venue": "М.: МВТУ",
+   "url": "https://search.rsl.ru/ru/record/01001308440"
+  },
+  {
+   "title": "Устройство для измерения высотно-скоростных параметров летательного аппарата (а. с. SU 1148243; с А. И. Журавлёвым, Ю. В. Павловым)",
+   "year": 1983,
+   "type": "patent",
+   "venue": "Авторское свидетельство СССР (дата заявки 15.07.1983)",
+   "url": "https://patents.google.com/patent/SU1148243A1/ru"
+  },
+  {
+   "title": "Устройство для измерения давления (а. с. SU 1067916; с В. Г. Кравцовым, А. И. Журавлёвым)",
+   "year": 1982,
+   "type": "patent",
+   "venue": "Авторское свидетельство СССР (дата заявки 12.03.1982)",
+   "url": "https://patents.google.com/patent/SU1067916A1/ru"
+  },
+  {
+   "title": "Датчик давления с частотным выходом (а. с. SU 695321; с И. А. Горенштейном, В. Г. Кравцовым, В. С. Тарасовым)",
+   "year": 1977,
+   "type": "patent",
+   "venue": "Авторское свидетельство СССР (дата заявки 07.10.1977)",
+   "url": "https://patents.google.com/patent/SU695321A1/ru"
+  }
+ ],
+ "Переверткин Сергей Максимович": [
+  {
+   "title": "МикроЭВМ в информационно-измерительных системах (с Н. И. Гараниным, Ю. Н. Костиным, И. И. Мироновым)",
+   "year": 1987,
+   "type": "book",
+   "venue": "М.: Машиностроение",
+   "url": "https://search.rsl.ru/ru/record/01001387759"
+  },
+  {
+   "title": "Автоматизация проектирования и микропроцессоры в радиотехнических системах управления. Ч. 1 (под ред. И. Б. Федорова)",
+   "year": 1987,
+   "type": "book",
+   "venue": "М.: МВТУ",
+   "url": "https://search.rsl.ru/ru/record/01001388783"
+  },
+  {
+   "title": "Мартин Дж. Телесвязь и ЭВМ (пер. с англ.; под ред. С. М. Переверткина)",
+   "year": 1981,
+   "type": "book",
+   "venue": "М.: Машиностроение",
+   "url": "https://search.rsl.ru/ru/record/01001057997"
+  },
+  {
+   "title": "Бортовая телеметрическая аппаратура космических летательных аппаратов (с А. В. Кантором, Н. Ф. Бородиным, Т. С. Щербаковой)",
+   "year": 1977,
+   "type": "book",
+   "venue": "М.: Машиностроение",
+   "url": "https://search.rsl.ru/ru/record/01007715651"
+  }
+ ],
+ "Свалов Юрий Леонидович": [
+  {
+   "title": "Управление графическим редактором в пакетах автоматизированного проектирования (с Д. Я. Германом, О. В. Зубий; под ред. В. В. Девяткова)",
+   "year": 1990,
+   "type": "book",
+   "venue": "М.: Изд-во МГТУ",
+   "url": "https://search.rsl.ru/ru/record/01001549914"
+  },
+  {
+   "title": "Методы и средства построения микропроцессорных систем (с В. М. Недашковским; под ред. А. С. Елисеева)",
+   "year": 1989,
+   "type": "book",
+   "venue": "М.: Изд-во МГТУ",
+   "url": "https://search.rsl.ru/ru/record/01001525815"
+  },
+  {
+   "title": "Микропроцессорные средства связи ЭВМ с объектом испытаний (с В. М. Недашковским; под ред. А. С. Елисеева)",
+   "year": 1988,
+   "type": "book",
+   "venue": "М.: МВТУ",
+   "url": "https://search.rsl.ru/ru/record/01001437542"
+  }
+ ],
+ "Никонов Борис Серафимович": [
+  {
+   "title": "Информационно-измерительные устройства для полунатурного моделирования (с А. П. Новиковой; под ред. А. С. Елисеева)",
+   "year": 1987,
+   "type": "book",
+   "venue": "М.: МВТУ",
+   "url": "https://search.rsl.ru/ru/record/01001345842"
+  },
+  {
+   "title": "Характеристика информационно-измерительных устройств (с И. В. Корольковым)",
+   "year": 1986,
+   "type": "book",
+   "venue": "М.: МВТУ",
+   "url": "https://search.rsl.ru/ru/record/01001308440"
+  },
+  {
+   "title": "Проектирование измерительных устройств автоматических информационных систем (под ред. Г. Н. Толстоусова)",
+   "year": 1982,
+   "type": "book",
+   "venue": "М.: МВТУ",
+   "url": "https://search.rsl.ru/ru/record/01001079052"
+  }
+ ]
+}

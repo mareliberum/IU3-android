@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_alumni">Выпускникам</string>
+    <string name="app_close">Закрыть</string>
+    <string name="app_copy">Скопировать</string>
+    <string name="app_department">Кафедра</string>
+    <string name="app_directions">Направления</string>
+    <string name="app_home">Главная</string>
+    <string name="app_load_error">Не удалось загрузить данные</string>
+    <string name="app_name">ИУ3</string>
+    <string name="app_no_app">Не удалось открыть ссылку</string>
+    <string name="app_retry">Повторить</string>
+    <string name="app_schedule">Расписание</string>
+    <string name="app_search">Поиск</string>
+    <string name="app_mail_error">Не удалось открыть почту</string>
+    <string name="app_copy_addresses">Скопировать адреса</string>
+</resources>

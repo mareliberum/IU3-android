@@ -1,0 +1,7744 @@
+{
+ "year": "2026/2027",
+ "sheets": [
+  {
+   "program": "09.03.02/01",
+   "groups": [
+    "ИУ3-11Б",
+    "ИУ3-12Б",
+    "ИУ3-13Б"
+   ],
+   "semester": 1,
+   "weeks": 17,
+   "theory": "01.09.2026 - 29.12.2026",
+   "exams": "30.12.2026 - 24.01.2027",
+   "research": null,
+   "practice": null,
+   "finalAttestation": null,
+   "holidays": "25.01.2027 - 07.02.2027",
+   "disciplines": [
+    {
+     "title": "Аналитическая геометрия",
+     "dept": "ФН12",
+     "ze": 3,
+     "hours": 108,
+     "contact": {
+      "total": 75.3,
+      "lectures": 34,
+      "seminars": 34,
+      "labs": 0,
+      "other": 7.3
+     },
+     "attestation": "р.экз",
+     "extra": null,
+     "points": [
+      43,
+      57
+     ],
+     "events": [
+      {
+       "week": 7,
+       "type": "ДЗ"
+      },
+      {
+       "week": 8,
+       "type": "РК"
+      },
+      {
+       "week": 9,
+       "type": "М"
+      },
+      {
+       "week": 14,
+       "type": "ДЗ"
+      },
+      {
+       "week": 15,
+       "type": "РК"
+      },
+      {
+       "week": 16,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Иностранный язык",
+     "dept": "Л2",
+     "ze": 2,
+     "hours": 72,
+     "contact": {
+      "total": 38.9,
+      "lectures": 0,
+      "seminars": 34,
+      "labs": 0,
+      "other": 4.9
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      33,
+      33,
+      34
+     ],
+     "events": [
+      {
+       "week": 5,
+       "type": "РК"
+      },
+      {
+       "week": 6,
+       "type": "М"
+      },
+      {
+       "week": 10,
+       "type": "РК"
+      },
+      {
+       "week": 11,
+       "type": "М"
+      },
+      {
+       "week": 14,
+       "type": "РК"
+      },
+      {
+       "week": 16,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Информатика",
+     "dept": "ИУ3",
+     "ze": 5,
+     "hours": 180,
+     "contact": {
+      "total": 93.2,
+      "lectures": 17,
+      "seminars": 34,
+      "labs": 34,
+      "other": 8.2
+     },
+     "attestation": "экз",
+     "extra": null,
+     "points": [
+      15,
+      20,
+      20,
+      15,
+      30
+     ],
+     "events": [
+      {
+       "week": 3,
+       "type": "РК"
+      },
+      {
+       "week": 4,
+       "type": "М"
+      },
+      {
+       "week": 6,
+       "type": "РК"
+      },
+      {
+       "week": 8,
+       "type": "М"
+      },
+      {
+       "week": 12,
+       "type": "РК"
+      },
+      {
+       "week": 13,
+       "type": "М"
+      },
+      {
+       "week": 16,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "История России",
+     "dept": "СГН1",
+     "ze": 2,
+     "hours": 72,
+     "contact": {
+      "total": 56.9,
+      "lectures": 17,
+      "seminars": 34,
+      "labs": 0,
+      "other": 5.9
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      30,
+      30,
+      40
+     ],
+     "events": [
+      {
+       "week": 4,
+       "type": "РК"
+      },
+      {
+       "week": 5,
+       "type": "М"
+      },
+      {
+       "week": 10,
+       "type": "ДЗ"
+      },
+      {
+       "week": 11,
+       "type": "М"
+      },
+      {
+       "week": 15,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Математический анализ",
+     "dept": "ФН12",
+     "ze": 5,
+     "hours": 180,
+     "contact": {
+      "total": 96.7,
+      "lectures": 34,
+      "seminars": 51,
+      "labs": 0,
+      "other": 11.7
+     },
+     "attestation": "экз",
+     "extra": null,
+     "points": [
+      30,
+      40,
+      30
+     ],
+     "events": [
+      {
+       "week": 4,
+       "type": "ДЗ"
+      },
+      {
+       "week": 7,
+       "type": "ДЗ"
+      },
+      {
+       "week": 8,
+       "type": "РК"
+      },
+      {
+       "week": 9,
+       "type": "М"
+      },
+      {
+       "week": 12,
+       "type": "КР"
+      },
+      {
+       "week": 15,
+       "type": "ДЗ"
+      },
+      {
+       "week": 16,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Начертательная геометрия",
+     "dept": "РК1",
+     "ze": 3,
+     "hours": 108,
+     "contact": {
+      "total": 75.7,
+      "lectures": 34,
+      "seminars": 34,
+      "labs": 0,
+      "other": 7.7
+     },
+     "attestation": "р.экз",
+     "extra": null,
+     "points": [
+      33,
+      33,
+      34
+     ],
+     "events": [
+      {
+       "week": 5,
+       "type": "ДЗ"
+      },
+      {
+       "week": 6,
+       "type": "РК"
+      },
+      {
+       "week": 7,
+       "type": "М"
+      },
+      {
+       "week": 10,
+       "type": "ДЗ"
+      },
+      {
+       "week": 11,
+       "type": "РК"
+      },
+      {
+       "week": 12,
+       "type": "М"
+      },
+      {
+       "week": 14,
+       "type": "ДЗ"
+      },
+      {
+       "week": 15,
+       "type": "РК"
+      },
+      {
+       "week": 16,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Социология",
+     "dept": "СГН2",
+     "ze": 3,
+     "hours": 108,
+     "contact": {
+      "total": 56.9,
+      "lectures": 17,
+      "seminars": 34,
+      "labs": 0,
+      "other": 5.9
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      30,
+      30,
+      40
+     ],
+     "events": [
+      {
+       "week": 4,
+       "type": "РК"
+      },
+      {
+       "week": 5,
+       "type": "М"
+      },
+      {
+       "week": 10,
+       "type": "РК"
+      },
+      {
+       "week": 11,
+       "type": "М"
+      },
+      {
+       "week": 14,
+       "type": "ДЗ"
+      },
+      {
+       "week": 16,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Учебный практикум на ЭВМ",
+     "dept": "ИУ3",
+     "ze": 2,
+     "hours": 72,
+     "contact": {
+      "total": 34.6,
+      "lectures": 0,
+      "seminars": 0,
+      "labs": 34,
+      "other": 0.5
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      50,
+      50
+     ],
+     "events": [
+      {
+       "week": 7,
+       "type": "РК"
+      },
+      {
+       "week": 8,
+       "type": "М"
+      },
+      {
+       "week": 14,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Химия",
+     "dept": "ФН5",
+     "ze": 4,
+     "hours": 144,
+     "contact": {
+      "total": 71,
+      "lectures": 34,
+      "seminars": 0,
+      "labs": 34,
+      "other": 3
+     },
+     "attestation": "р.экз",
+     "extra": null,
+     "points": [
+      35,
+      30,
+      35
+     ],
+     "events": [
+      {
+       "week": 6,
+       "type": "ДЗ"
+      },
+      {
+       "week": 7,
+       "type": "М"
+      },
+      {
+       "week": 11,
+       "type": "ДЗ"
+      },
+      {
+       "week": 12,
+       "type": "М"
+      },
+      {
+       "week": 16,
+       "type": "ДЗ"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Физическая культура и спорт",
+     "dept": "ФВ",
+     "ze": 2,
+     "hours": 72,
+     "contact": {
+      "total": 75.4,
+      "lectures": 14,
+      "seminars": 54,
+      "labs": 0,
+      "other": 7.4
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      60,
+      40
+     ],
+     "events": [
+      {
+       "week": 10,
+       "type": "М"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "program": "09.03.02/01",
+   "groups": [
+    "ИУ3-21Б",
+    "ИУ3-22Б",
+    "ИУ3-23Б"
+   ],
+   "semester": 2,
+   "weeks": 17,
+   "theory": "08.02.2027 - 11.06.2027",
+   "exams": "15.06.2027 - 06.07.2027",
+   "research": null,
+   "practice": "08.02.2027 - 11.06.2027",
+   "finalAttestation": null,
+   "holidays": "07.07.2027 - 31.08.2027",
+   "disciplines": [
+    {
+     "title": "Инженерная графика",
+     "dept": "РК1",
+     "ze": 2,
+     "hours": 72,
+     "contact": {
+      "total": 37.4,
+      "lectures": 0,
+      "seminars": 17,
+      "labs": 17,
+      "other": 3.4
+     },
+     "attestation": "д.зач",
+     "extra": null,
+     "points": [
+      30,
+      30,
+      40
+     ],
+     "events": [
+      {
+       "week": 4,
+       "type": "ДЗ"
+      },
+      {
+       "week": 5,
+       "type": "РК"
+      },
+      {
+       "week": 6,
+       "type": "М"
+      },
+      {
+       "week": 9,
+       "type": "ДЗ"
+      },
+      {
+       "week": 10,
+       "type": "РК"
+      },
+      {
+       "week": 11,
+       "type": "М"
+      },
+      {
+       "week": 14,
+       "type": "ДЗ"
+      },
+      {
+       "week": 15,
+       "type": "РК"
+      },
+      {
+       "week": 16,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Иностранный язык",
+     "dept": "Л2",
+     "ze": 2,
+     "hours": 72,
+     "contact": {
+      "total": 38.9,
+      "lectures": 0,
+      "seminars": 34,
+      "labs": 0,
+      "other": 4.9
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      33,
+      33,
+      34
+     ],
+     "events": [
+      {
+       "week": 5,
+       "type": "РК"
+      },
+      {
+       "week": 6,
+       "type": "М"
+      },
+      {
+       "week": 10,
+       "type": "РК"
+      },
+      {
+       "week": 11,
+       "type": "М"
+      },
+      {
+       "week": 14,
+       "type": "РК"
+      },
+      {
+       "week": 16,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Интегралы и дифференциальные уравнения",
+     "dept": "ФН12",
+     "ze": 5,
+     "hours": 180,
+     "contact": {
+      "total": 96.6,
+      "lectures": 34,
+      "seminars": 51,
+      "labs": 0,
+      "other": 11.5
+     },
+     "attestation": "экз",
+     "extra": null,
+     "points": [
+      35,
+      35,
+      30
+     ],
+     "events": [
+      {
+       "week": 6,
+       "type": "КР"
+      },
+      {
+       "week": 9,
+       "type": "ДЗ"
+      },
+      {
+       "week": 10,
+       "type": "РК"
+      },
+      {
+       "week": 11,
+       "type": "М"
+      },
+      {
+       "week": 13,
+       "type": "КР"
+      },
+      {
+       "week": 15,
+       "type": "ДЗ"
+      },
+      {
+       "week": 16,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Инфокоммуникационные системы и сети",
+     "dept": "ИУ3",
+     "ze": 5,
+     "hours": 180,
+     "contact": {
+      "total": 91.9,
+      "lectures": 34,
+      "seminars": 17,
+      "labs": 34,
+      "other": 6.9
+     },
+     "attestation": "экз",
+     "extra": null,
+     "points": [
+      23,
+      24,
+      23,
+      30
+     ],
+     "events": [
+      {
+       "week": 5,
+       "type": "РК"
+      },
+      {
+       "week": 6,
+       "type": "М"
+      },
+      {
+       "week": 10,
+       "type": "ДЗ"
+      },
+      {
+       "week": 11,
+       "type": "РК"
+      },
+      {
+       "week": 12,
+       "type": "М"
+      },
+      {
+       "week": 16,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Информатика",
+     "dept": "ИУ3",
+     "ze": 3,
+     "hours": 108,
+     "contact": {
+      "total": 53.9,
+      "lectures": 0,
+      "seminars": 17,
+      "labs": 34,
+      "other": 2.8
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      20,
+      20,
+      30,
+      30
+     ],
+     "events": [
+      {
+       "week": 4,
+       "type": "РК"
+      },
+      {
+       "week": 5,
+       "type": "М"
+      },
+      {
+       "week": 7,
+       "type": "РК"
+      },
+      {
+       "week": 8,
+       "type": "М"
+      },
+      {
+       "week": 11,
+       "type": "РК"
+      },
+      {
+       "week": 12,
+       "type": "М"
+      },
+      {
+       "week": 15,
+       "type": "РК"
+      },
+      {
+       "week": 16,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "История России",
+     "dept": "СГН1",
+     "ze": 2,
+     "hours": 72,
+     "contact": {
+      "total": 59.4,
+      "lectures": 17,
+      "seminars": 36,
+      "labs": 0,
+      "other": 6.4
+     },
+     "attestation": "р.экз",
+     "extra": null,
+     "points": [
+      30,
+      30,
+      40
+     ],
+     "events": [
+      {
+       "week": 4,
+       "type": "РК"
+      },
+      {
+       "week": 5,
+       "type": "М"
+      },
+      {
+       "week": 10,
+       "type": "ДЗ"
+      },
+      {
+       "week": 11,
+       "type": "М"
+      },
+      {
+       "week": 15,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Линейная алгебра и функции нескольких переменных",
+     "dept": "ФН12",
+     "ze": 4,
+     "hours": 144,
+     "contact": {
+      "total": 75.2,
+      "lectures": 34,
+      "seminars": 34,
+      "labs": 0,
+      "other": 7.2
+     },
+     "attestation": "р.экз",
+     "extra": null,
+     "points": [
+      50,
+      50
+     ],
+     "events": [
+      {
+       "week": 8,
+       "type": "ДЗ"
+      },
+      {
+       "week": 9,
+       "type": "РК"
+      },
+      {
+       "week": 10,
+       "type": "М"
+      },
+      {
+       "week": 13,
+       "type": "КР"
+      },
+      {
+       "week": 16,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Проектно-технологическая практика",
+     "dept": "ИУ3",
+     "ze": 1,
+     "hours": 36,
+     "contact": {
+      "total": 36,
+      "lectures": 0,
+      "seminars": 0,
+      "labs": 0,
+      "other": 36
+     },
+     "attestation": null,
+     "extra": "Упм",
+     "points": null,
+     "events": []
+    },
+    {
+     "title": "Учебно-технологический практикум",
+     "dept": "РЛ6",
+     "ze": 1,
+     "hours": 36,
+     "contact": {
+      "total": 36,
+      "lectures": 0,
+      "seminars": 0,
+      "labs": 0,
+      "other": 36
+     },
+     "attestation": null,
+     "extra": "Пм",
+     "points": null,
+     "events": []
+    },
+    {
+     "title": "Физика",
+     "dept": "ФН4",
+     "ze": 4,
+     "hours": 144,
+     "contact": {
+      "total": 75,
+      "lectures": 34,
+      "seminars": 17,
+      "labs": 17,
+      "other": 7
+     },
+     "attestation": "экз",
+     "extra": null,
+     "points": [
+      40,
+      30,
+      30
+     ],
+     "events": [
+      {
+       "week": 8,
+       "type": "ДЗ"
+      },
+      {
+       "week": 9,
+       "type": "РК"
+      },
+      {
+       "week": 10,
+       "type": "М"
+      },
+      {
+       "week": 15,
+       "type": "ДЗ"
+      },
+      {
+       "week": 16,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Физическая культура и спорт",
+     "dept": "ФВ",
+     "ze": 0,
+     "hours": 0,
+     "contact": {
+      "total": 76.5,
+      "lectures": 0,
+      "seminars": 68,
+      "labs": 0,
+      "other": 8.5
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      60,
+      40
+     ],
+     "events": [
+      {
+       "week": 10,
+       "type": "М"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "program": "09.03.02/01",
+   "groups": [
+    "ИУ3-31Б",
+    "ИУ3-32Б",
+    "ИУ3-33Б"
+   ],
+   "semester": 3,
+   "weeks": 17,
+   "theory": "01.09.2026 - 29.12.2026",
+   "exams": "30.12.2026 - 24.01.2027",
+   "research": "01.09.2026 - 29.12.2026",
+   "practice": "01.09.2026 - 29.12.2026",
+   "finalAttestation": null,
+   "holidays": "25.01.2027 - 07.02.2027",
+   "disciplines": [
+    {
+     "title": "Алгоритмы и структуры данных",
+     "dept": "ИУ3",
+     "ze": 2,
+     "hours": 72,
+     "contact": {
+      "total": 35.4,
+      "lectures": 17,
+      "seminars": 0,
+      "labs": 17,
+      "other": 1.4
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      50,
+      50
+     ],
+     "events": [
+      {
+       "week": 8,
+       "type": "РК"
+      },
+      {
+       "week": 9,
+       "type": "М"
+      },
+      {
+       "week": 15,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Иностранный язык",
+     "dept": "Л2",
+     "ze": 2,
+     "hours": 72,
+     "contact": {
+      "total": 38.9,
+      "lectures": 0,
+      "seminars": 34,
+      "labs": 0,
+      "other": 4.9
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      33,
+      33,
+      34
+     ],
+     "events": [
+      {
+       "week": 5,
+       "type": "РК"
+      },
+      {
+       "week": 6,
+       "type": "М"
+      },
+      {
+       "week": 10,
+       "type": "РК"
+      },
+      {
+       "week": 11,
+       "type": "М"
+      },
+      {
+       "week": 14,
+       "type": "РК"
+      },
+      {
+       "week": 16,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Кратные интегралы, ряды, теория функций комплексной переменной",
+     "dept": "ФН12",
+     "ze": 5,
+     "hours": 180,
+     "contact": {
+      "total": 95,
+      "lectures": 51,
+      "seminars": 34,
+      "labs": 0,
+      "other": 10
+     },
+     "attestation": "экз",
+     "extra": null,
+     "points": [
+      30,
+      40,
+      30
+     ],
+     "events": [
+      {
+       "week": 8,
+       "type": "ДЗ"
+      },
+      {
+       "week": 9,
+       "type": "РК"
+      },
+      {
+       "week": 10,
+       "type": "М"
+      },
+      {
+       "week": 15,
+       "type": "ДЗ"
+      },
+      {
+       "week": 16,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Научно-исследовательская работа",
+     "dept": "ИУ3",
+     "ze": 1,
+     "hours": 36,
+     "contact": {
+      "total": 36,
+      "lectures": 0,
+      "seminars": 0,
+      "labs": 0,
+      "other": 36
+     },
+     "attestation": null,
+     "extra": "НИРС",
+     "points": null,
+     "events": [
+      {
+       "week": 3,
+       "type": "%"
+      },
+      {
+       "week": 9,
+       "type": "%"
+      },
+      {
+       "week": 12,
+       "type": "%"
+      },
+      {
+       "week": 15,
+       "type": "%"
+      }
+     ]
+    },
+    {
+     "title": "Правоведение",
+     "dept": "ЮР",
+     "ze": 3,
+     "hours": 108,
+     "contact": {
+      "total": 55.5,
+      "lectures": 34,
+      "seminars": 17,
+      "labs": 0,
+      "other": 4.5
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      30,
+      30,
+      40
+     ],
+     "events": [
+      {
+       "week": 6,
+       "type": "КР"
+      },
+      {
+       "week": 7,
+       "type": "М"
+      },
+      {
+       "week": 12,
+       "type": "КР"
+      },
+      {
+       "week": 13,
+       "type": "М"
+      },
+      {
+       "week": 16,
+       "type": "ДЗ"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Прикладная механика и основы конструирования приборов",
+     "dept": "РЛ5",
+     "ze": 5,
+     "hours": 180,
+     "contact": {
+      "total": 94.7,
+      "lectures": 34,
+      "seminars": 34,
+      "labs": 17,
+      "other": 9.7
+     },
+     "attestation": "экз",
+     "extra": null,
+     "points": [
+      20,
+      20,
+      30,
+      30
+     ],
+     "events": [
+      {
+       "week": 4,
+       "type": "РК"
+      },
+      {
+       "week": 5,
+       "type": "ДЗ"
+      },
+      {
+       "week": 6,
+       "type": "М"
+      },
+      {
+       "week": 9,
+       "type": "ДЗ"
+      },
+      {
+       "week": 10,
+       "type": "РК"
+      },
+      {
+       "week": 11,
+       "type": "М"
+      },
+      {
+       "week": 15,
+       "type": "РК"
+      },
+      {
+       "week": 16,
+       "type": "ДЗ"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Технологическая практика",
+     "dept": "ИУ3",
+     "ze": 2,
+     "hours": 72,
+     "contact": {
+      "total": 36,
+      "lectures": 0,
+      "seminars": 0,
+      "labs": 0,
+      "other": 36
+     },
+     "attestation": null,
+     "extra": "Пр",
+     "points": null,
+     "events": []
+    },
+    {
+     "title": "Физика",
+     "dept": "ФН4",
+     "ze": 5,
+     "hours": 180,
+     "contact": {
+      "total": 92,
+      "lectures": 34,
+      "seminars": 17,
+      "labs": 34,
+      "other": 7
+     },
+     "attestation": "экз",
+     "extra": null,
+     "points": [
+      40,
+      30,
+      30
+     ],
+     "events": [
+      {
+       "week": 8,
+       "type": "ДЗ"
+      },
+      {
+       "week": 9,
+       "type": "РК"
+      },
+      {
+       "week": 10,
+       "type": "М"
+      },
+      {
+       "week": 15,
+       "type": "ДЗ"
+      },
+      {
+       "week": 16,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Электротехника",
+     "dept": "ФН7",
+     "ze": 5,
+     "hours": 180,
+     "contact": {
+      "total": 109.7,
+      "lectures": 51,
+      "seminars": 34,
+      "labs": 17,
+      "other": 7.7
+     },
+     "attestation": "р.экз",
+     "extra": null,
+     "points": [
+      35,
+      35,
+      30
+     ],
+     "events": [
+      {
+       "week": 7,
+       "type": "ДЗ"
+      },
+      {
+       "week": 9,
+       "type": "М"
+      },
+      {
+       "week": 14,
+       "type": "ДЗ"
+      },
+      {
+       "week": 15,
+       "type": "М"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Физическая культура и спорт",
+     "dept": "ФВ",
+     "ze": 0,
+     "hours": 0,
+     "contact": {
+      "total": 76.5,
+      "lectures": 0,
+      "seminars": 68,
+      "labs": 0,
+      "other": 8.5
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      60,
+      40
+     ],
+     "events": [
+      {
+       "week": 10,
+       "type": "М"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "program": "09.03.02/01",
+   "groups": [
+    "ИУ3-41Б",
+    "ИУ3-42Б",
+    "ИУ3-43Б"
+   ],
+   "semester": 4,
+   "weeks": 17,
+   "theory": "08.02.2027 - 11.06.2027",
+   "exams": "15.06.2027 - 06.07.2027",
+   "research": "08.02.2027 - 11.06.2027",
+   "practice": "08.02.2027 - 11.06.2027",
+   "finalAttestation": null,
+   "holidays": "07.07.2027 - 31.08.2027",
+   "disciplines": [
+    {
+     "title": "Иностранный язык",
+     "dept": "Л2",
+     "ze": 2,
+     "hours": 72,
+     "contact": {
+      "total": 38.9,
+      "lectures": 0,
+      "seminars": 34,
+      "labs": 0,
+      "other": 4.9
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      33,
+      33,
+      34
+     ],
+     "events": [
+      {
+       "week": 5,
+       "type": "РК"
+      },
+      {
+       "week": 6,
+       "type": "М"
+      },
+      {
+       "week": 10,
+       "type": "РК"
+      },
+      {
+       "week": 11,
+       "type": "М"
+      },
+      {
+       "week": 14,
+       "type": "РК"
+      },
+      {
+       "week": 16,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Научно-исследовательская работа",
+     "dept": "ИУ3",
+     "ze": 2,
+     "hours": 72,
+     "contact": {
+      "total": 72,
+      "lectures": 0,
+      "seminars": 0,
+      "labs": 0,
+      "other": 72
+     },
+     "attestation": null,
+     "extra": "НИРС",
+     "points": null,
+     "events": [
+      {
+       "week": 3,
+       "type": "%"
+      },
+      {
+       "week": 9,
+       "type": "%"
+      },
+      {
+       "week": 12,
+       "type": "%"
+      },
+      {
+       "week": 15,
+       "type": "%"
+      }
+     ]
+    },
+    {
+     "title": "Политология",
+     "dept": "СГН3",
+     "ze": 3,
+     "hours": 108,
+     "contact": {
+      "total": 56.9,
+      "lectures": 17,
+      "seminars": 34,
+      "labs": 0,
+      "other": 5.9
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      30,
+      30,
+      40
+     ],
+     "events": [
+      {
+       "week": 4,
+       "type": "КР"
+      },
+      {
+       "week": 5,
+       "type": "М"
+      },
+      {
+       "week": 10,
+       "type": "РК"
+      },
+      {
+       "week": 11,
+       "type": "М"
+      },
+      {
+       "week": 13,
+       "type": "ДЗ"
+      },
+      {
+       "week": 16,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Прикладная механика и основы конструирования приборов",
+     "dept": "РЛ5",
+     "ze": 2,
+     "hours": 72,
+     "contact": {
+      "total": 4.3,
+      "lectures": 0,
+      "seminars": 0,
+      "labs": 0,
+      "other": 4.3
+     },
+     "attestation": null,
+     "extra": "КуР",
+     "points": null,
+     "events": [
+      {
+       "week": 3,
+       "type": "%"
+      },
+      {
+       "week": 9,
+       "type": "%"
+      },
+      {
+       "week": 12,
+       "type": "%"
+      },
+      {
+       "week": 15,
+       "type": "%"
+      }
+     ]
+    },
+    {
+     "title": "Теория вероятностей и логика",
+     "dept": "ФН12",
+     "ze": 6,
+     "hours": 216,
+     "contact": {
+      "total": 114.4,
+      "lectures": 51,
+      "seminars": 51,
+      "labs": 0,
+      "other": 12.4
+     },
+     "attestation": "экз",
+     "extra": null,
+     "points": [
+      25,
+      25,
+      20,
+      30
+     ],
+     "events": [
+      {
+       "week": 3,
+       "type": "ДЗ"
+      },
+      {
+       "week": 4,
+       "type": "РК"
+      },
+      {
+       "week": 5,
+       "type": "М"
+      },
+      {
+       "week": 9,
+       "type": "ДЗ"
+      },
+      {
+       "week": 10,
+       "type": "РК"
+      },
+      {
+       "week": 11,
+       "type": "М"
+      },
+      {
+       "week": 14,
+       "type": "ДЗ"
+      },
+      {
+       "week": 15,
+       "type": "РК"
+      },
+      {
+       "week": 16,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Технологическая практика",
+     "dept": "ИУ3",
+     "ze": 2,
+     "hours": 72,
+     "contact": {
+      "total": 36,
+      "lectures": 0,
+      "seminars": 0,
+      "labs": 0,
+      "other": 36
+     },
+     "attestation": null,
+     "extra": "Пр",
+     "points": null,
+     "events": []
+    },
+    {
+     "title": "Технология приборостроения",
+     "dept": "ИУ4",
+     "ze": 2,
+     "hours": 72,
+     "contact": {
+      "total": 54.5,
+      "lectures": 17,
+      "seminars": 17,
+      "labs": 17,
+      "other": 3.5
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      30,
+      30,
+      40
+     ],
+     "events": [
+      {
+       "week": 6,
+       "type": "РК"
+      },
+      {
+       "week": 7,
+       "type": "М"
+      },
+      {
+       "week": 10,
+       "type": "РК"
+      },
+      {
+       "week": 11,
+       "type": "М"
+      },
+      {
+       "week": 13,
+       "type": "РК"
+      },
+      {
+       "week": 14,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Технология программирования",
+     "dept": "ИУ3",
+     "ze": 3,
+     "hours": 108,
+     "contact": {
+      "total": 71.1,
+      "lectures": 34,
+      "seminars": 0,
+      "labs": 34,
+      "other": 3.1
+     },
+     "attestation": "р.экз",
+     "extra": null,
+     "points": [
+      25,
+      25,
+      25,
+      25
+     ],
+     "events": [
+      {
+       "week": 5,
+       "type": "РК"
+      },
+      {
+       "week": 6,
+       "type": "М"
+      },
+      {
+       "week": 9,
+       "type": "РК"
+      },
+      {
+       "week": 10,
+       "type": "М"
+      },
+      {
+       "week": 12,
+       "type": "ДЗ"
+      },
+      {
+       "week": 13,
+       "type": "РК"
+      },
+      {
+       "week": 14,
+       "type": "М"
+      },
+      {
+       "week": 16,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Управление данными",
+     "dept": "ИУ3",
+     "ze": 3,
+     "hours": 108,
+     "contact": {
+      "total": 54.8,
+      "lectures": 17,
+      "seminars": 17,
+      "labs": 17,
+      "other": 3.8
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      30,
+      40,
+      30
+     ],
+     "events": [
+      {
+       "week": 3,
+       "type": "РК"
+      },
+      {
+       "week": 4,
+       "type": "М"
+      },
+      {
+       "week": 11,
+       "type": "ДЗ"
+      },
+      {
+       "week": 13,
+       "type": "РК"
+      },
+      {
+       "week": 14,
+       "type": "М"
+      },
+      {
+       "week": 16,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Электроника",
+     "dept": "ИУ3",
+     "ze": 5,
+     "hours": 180,
+     "contact": {
+      "total": 125.6,
+      "lectures": 68,
+      "seminars": 17,
+      "labs": 34,
+      "other": 6.6
+     },
+     "attestation": "р.экз",
+     "extra": null,
+     "points": [
+      20,
+      40,
+      40
+     ],
+     "events": [
+      {
+       "week": 5,
+       "type": "РК"
+      },
+      {
+       "week": 6,
+       "type": "М"
+      },
+      {
+       "week": 8,
+       "type": "ДЗ"
+      },
+      {
+       "week": 9,
+       "type": "РК"
+      },
+      {
+       "week": 10,
+       "type": "М"
+      },
+      {
+       "week": 16,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Физическая культура и спорт",
+     "dept": "ФВ",
+     "ze": 0,
+     "hours": 0,
+     "contact": {
+      "total": 76.5,
+      "lectures": 0,
+      "seminars": 68,
+      "labs": 0,
+      "other": 8.5
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      60,
+      40
+     ],
+     "events": [
+      {
+       "week": 10,
+       "type": "М"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "program": "09.03.02/01",
+   "groups": [
+    "ИУ3-51Б",
+    "ИУ3-52Б",
+    "ИУ3-53Б"
+   ],
+   "semester": 5,
+   "weeks": 17,
+   "theory": "01.09.2026 - 29.12.2026",
+   "exams": "30.12.2026 - 24.01.2027",
+   "research": "01.09.2026 - 29.12.2026",
+   "practice": null,
+   "finalAttestation": null,
+   "holidays": "25.01.2027 - 07.02.2027",
+   "disciplines": [
+    {
+     "title": "Дискретная математика",
+     "dept": "ФН12",
+     "ze": 4,
+     "hours": 144,
+     "contact": {
+      "total": 75.8,
+      "lectures": 51,
+      "seminars": 17,
+      "labs": 0,
+      "other": 7.8
+     },
+     "attestation": "экз",
+     "extra": null,
+     "points": [
+      30,
+      40,
+      30
+     ],
+     "events": [
+      {
+       "week": 7,
+       "type": "ДЗ"
+      },
+      {
+       "week": 8,
+       "type": "РК"
+      },
+      {
+       "week": 9,
+       "type": "М"
+      },
+      {
+       "week": 15,
+       "type": "ДЗ"
+      },
+      {
+       "week": 16,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Иностранный язык",
+     "dept": "Л2",
+     "ze": 2,
+     "hours": 72,
+     "contact": {
+      "total": 38.9,
+      "lectures": 0,
+      "seminars": 34,
+      "labs": 0,
+      "other": 4.9
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      33,
+      33,
+      34
+     ],
+     "events": [
+      {
+       "week": 5,
+       "type": "РК"
+      },
+      {
+       "week": 6,
+       "type": "М"
+      },
+      {
+       "week": 10,
+       "type": "РК"
+      },
+      {
+       "week": 11,
+       "type": "М"
+      },
+      {
+       "week": 14,
+       "type": "РК"
+      },
+      {
+       "week": 16,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Метрология и информационно-измерительные устройства",
+     "dept": "ИУ3",
+     "ze": 4,
+     "hours": 144,
+     "contact": {
+      "total": 89.4,
+      "lectures": 34,
+      "seminars": 17,
+      "labs": 34,
+      "other": 4.4
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      35,
+      30,
+      35
+     ],
+     "events": [
+      {
+       "week": 4,
+       "type": "РК"
+      },
+      {
+       "week": 5,
+       "type": "М"
+      },
+      {
+       "week": 8,
+       "type": "РК"
+      },
+      {
+       "week": 9,
+       "type": "М"
+      },
+      {
+       "week": 16,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Научно-исследовательская работа",
+     "dept": "ИУ3",
+     "ze": 3,
+     "hours": 108,
+     "contact": {
+      "total": 108,
+      "lectures": 0,
+      "seminars": 0,
+      "labs": 0,
+      "other": 108
+     },
+     "attestation": null,
+     "extra": "НИРС",
+     "points": null,
+     "events": [
+      {
+       "week": 3,
+       "type": "%"
+      },
+      {
+       "week": 9,
+       "type": "%"
+      },
+      {
+       "week": 12,
+       "type": "%"
+      },
+      {
+       "week": 15,
+       "type": "%"
+      }
+     ]
+    },
+    {
+     "title": "Основы теории управления и цифровой обработки сигналов",
+     "dept": "ИУ3",
+     "ze": 6,
+     "hours": 216,
+     "contact": {
+      "total": 126,
+      "lectures": 68,
+      "seminars": 17,
+      "labs": 34,
+      "other": 7
+     },
+     "attestation": "р.экз",
+     "extra": null,
+     "points": [
+      25,
+      25,
+      25,
+      25
+     ],
+     "events": [
+      {
+       "week": 4,
+       "type": "РК"
+      },
+      {
+       "week": 5,
+       "type": "М"
+      },
+      {
+       "week": 7,
+       "type": "ДЗ"
+      },
+      {
+       "week": 8,
+       "type": "РК"
+      },
+      {
+       "week": 9,
+       "type": "М"
+      },
+      {
+       "week": 12,
+       "type": "РК"
+      },
+      {
+       "week": 13,
+       "type": "М"
+      },
+      {
+       "week": 14,
+       "type": "ДЗ"
+      },
+      {
+       "week": 16,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Схемотехника электронных устройств",
+     "dept": "ИУ3",
+     "ze": 4,
+     "hours": 144,
+     "contact": {
+      "total": 74.9,
+      "lectures": 34,
+      "seminars": 17,
+      "labs": 17,
+      "other": 6.9
+     },
+     "attestation": "экз",
+     "extra": null,
+     "points": [
+      20,
+      30,
+      20,
+      30
+     ],
+     "events": [
+      {
+       "week": 5,
+       "type": "РК"
+      },
+      {
+       "week": 6,
+       "type": "М"
+      },
+      {
+       "week": 11,
+       "type": "РК"
+      },
+      {
+       "week": 12,
+       "type": "ДЗ"
+      },
+      {
+       "week": 13,
+       "type": "М"
+      },
+      {
+       "week": 16,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Теория информационных процессов и систем",
+     "dept": "ИУ3",
+     "ze": 5,
+     "hours": 180,
+     "contact": {
+      "total": 110,
+      "lectures": 51,
+      "seminars": 34,
+      "labs": 17,
+      "other": 8
+     },
+     "attestation": "р.экз",
+     "extra": null,
+     "points": [
+      50,
+      50
+     ],
+     "events": [
+      {
+       "week": 6,
+       "type": "ДЗ"
+      },
+      {
+       "week": 7,
+       "type": "РК"
+      },
+      {
+       "week": 8,
+       "type": "М"
+      },
+      {
+       "week": 14,
+       "type": "ДЗ"
+      },
+      {
+       "week": 15,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Физическая культура и спорт",
+     "dept": "ФВ",
+     "ze": 0,
+     "hours": 0,
+     "contact": {
+      "total": 76.5,
+      "lectures": 0,
+      "seminars": 68,
+      "labs": 0,
+      "other": 8.5
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      60,
+      40
+     ],
+     "events": [
+      {
+       "week": 10,
+       "type": "М"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "program": "09.03.02/01",
+   "groups": [
+    "ИУ3-61Б",
+    "ИУ3-62Б",
+    "ИУ3-63Б"
+   ],
+   "semester": 6,
+   "weeks": 17,
+   "theory": "08.02.2027 - 11.06.2027",
+   "exams": "15.06.2027 - 28.06.2027",
+   "research": "08.02.2027 - 11.06.2027",
+   "practice": "29.06.2027 - 27.07.2027",
+   "finalAttestation": null,
+   "holidays": "28.07.2027 - 31.08.2027",
+   "disciplines": [
+    {
+     "title": "Вычислительная математика",
+     "dept": "ФН12",
+     "ze": 3,
+     "hours": 108,
+     "contact": {
+      "total": 55.9,
+      "lectures": 34,
+      "seminars": 17,
+      "labs": 0,
+      "other": 4.9
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      13,
+      44,
+      43
+     ],
+     "events": [
+      {
+       "week": 5,
+       "type": "РК"
+      },
+      {
+       "week": 6,
+       "type": "М"
+      },
+      {
+       "week": 9,
+       "type": "ДЗ"
+      },
+      {
+       "week": 10,
+       "type": "РК"
+      },
+      {
+       "week": 11,
+       "type": "М"
+      },
+      {
+       "week": 14,
+       "type": "ДЗ"
+      },
+      {
+       "week": 15,
+       "type": "РК"
+      },
+      {
+       "week": 16,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Иностранный язык",
+     "dept": "Л2",
+     "ze": 2,
+     "hours": 72,
+     "contact": {
+      "total": 39.2,
+      "lectures": 0,
+      "seminars": 34,
+      "labs": 0,
+      "other": 5.2
+     },
+     "attestation": "р.экз",
+     "extra": null,
+     "points": [
+      35,
+      35,
+      30
+     ],
+     "events": [
+      {
+       "week": 7,
+       "type": "РК"
+      },
+      {
+       "week": 8,
+       "type": "М"
+      },
+      {
+       "week": 14,
+       "type": "РК"
+      },
+      {
+       "week": 15,
+       "type": "М"
+      },
+      {
+       "week": 16,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Микропроцессорная техника и цифровые автоматы",
+     "dept": "ИУ3",
+     "ze": 6,
+     "hours": 216,
+     "contact": {
+      "total": 128,
+      "lectures": 68,
+      "seminars": 17,
+      "labs": 34,
+      "other": 9
+     },
+     "attestation": "экз",
+     "extra": null,
+     "points": [
+      18,
+      17,
+      18,
+      17,
+      30
+     ],
+     "events": [
+      {
+       "week": 3,
+       "type": "ДЗ"
+      },
+      {
+       "week": 4,
+       "type": "РК"
+      },
+      {
+       "week": 5,
+       "type": "М"
+      },
+      {
+       "week": 7,
+       "type": "ДЗ"
+      },
+      {
+       "week": 8,
+       "type": "РК"
+      },
+      {
+       "week": 9,
+       "type": "М"
+      },
+      {
+       "week": 13,
+       "type": "РК"
+      },
+      {
+       "week": 14,
+       "type": "М"
+      },
+      {
+       "week": 16,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Моделирование и надежность систем",
+     "dept": "ИУ3",
+     "ze": 5,
+     "hours": 180,
+     "contact": {
+      "total": 108.7,
+      "lectures": 68,
+      "seminars": 17,
+      "labs": 17,
+      "other": 6.7
+     },
+     "attestation": "р.экз",
+     "extra": null,
+     "points": [
+      25,
+      25,
+      25,
+      25
+     ],
+     "events": [
+      {
+       "week": 4,
+       "type": "РК"
+      },
+      {
+       "week": 5,
+       "type": "М"
+      },
+      {
+       "week": 7,
+       "type": "ДЗ"
+      },
+      {
+       "week": 8,
+       "type": "РК"
+      },
+      {
+       "week": 9,
+       "type": "М"
+      },
+      {
+       "week": 12,
+       "type": "РК"
+      },
+      {
+       "week": 13,
+       "type": "М"
+      },
+      {
+       "week": 16,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Научно-исследовательская работа",
+     "dept": "ИУ3",
+     "ze": 2,
+     "hours": 72,
+     "contact": {
+      "total": 72,
+      "lectures": 0,
+      "seminars": 0,
+      "labs": 0,
+      "other": 72
+     },
+     "attestation": null,
+     "extra": "НИРС",
+     "points": null,
+     "events": [
+      {
+       "week": 3,
+       "type": "%"
+      },
+      {
+       "week": 9,
+       "type": "%"
+      },
+      {
+       "week": 12,
+       "type": "%"
+      },
+      {
+       "week": 15,
+       "type": "%"
+      }
+     ]
+    },
+    {
+     "title": "Разработка программного обеспечения",
+     "dept": "ИУ3",
+     "ze": 3,
+     "hours": 108,
+     "contact": {
+      "total": 70.9,
+      "lectures": 34,
+      "seminars": 0,
+      "labs": 34,
+      "other": 2.9
+     },
+     "attestation": "р.экз",
+     "extra": null,
+     "points": [
+      33,
+      33,
+      34
+     ],
+     "events": [
+      {
+       "week": 4,
+       "type": "РК"
+      },
+      {
+       "week": 5,
+       "type": "М"
+      },
+      {
+       "week": 8,
+       "type": "РК"
+      },
+      {
+       "week": 9,
+       "type": "М"
+      },
+      {
+       "week": 13,
+       "type": "ДЗ"
+      },
+      {
+       "week": 16,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Схемотехника электронных устройств",
+     "dept": "ИУ3",
+     "ze": 2,
+     "hours": 72,
+     "contact": {
+      "total": 4.3,
+      "lectures": 0,
+      "seminars": 0,
+      "labs": 0,
+      "other": 4.3
+     },
+     "attestation": null,
+     "extra": "КуР",
+     "points": null,
+     "events": [
+      {
+       "week": 3,
+       "type": "%"
+      },
+      {
+       "week": 9,
+       "type": "%"
+      },
+      {
+       "week": 12,
+       "type": "%"
+      },
+      {
+       "week": 15,
+       "type": "%"
+      }
+     ]
+    },
+    {
+     "title": "Философия",
+     "dept": "СГН4",
+     "ze": 3,
+     "hours": 108,
+     "contact": {
+      "total": 56.9,
+      "lectures": 17,
+      "seminars": 34,
+      "labs": 0,
+      "other": 5.9
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      30,
+      30,
+      40
+     ],
+     "events": [
+      {
+       "week": 5,
+       "type": "РК"
+      },
+      {
+       "week": 6,
+       "type": "М"
+      },
+      {
+       "week": 10,
+       "type": "РК"
+      },
+      {
+       "week": 11,
+       "type": "М"
+      },
+      {
+       "week": 15,
+       "type": "ДЗ"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Экология",
+     "dept": "Э9",
+     "ze": 2,
+     "hours": 72,
+     "contact": {
+      "total": 37.4,
+      "lectures": 17,
+      "seminars": 17,
+      "labs": 0,
+      "other": 3.4
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      40,
+      60
+     ],
+     "events": [
+      {
+       "week": 7,
+       "type": "КР"
+      },
+      {
+       "week": 8,
+       "type": "М"
+      },
+      {
+       "week": 15,
+       "type": "КР"
+      },
+      {
+       "week": 16,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Эксплуатационная практика",
+     "dept": "ИУ3",
+     "ze": 4,
+     "hours": 144,
+     "contact": {
+      "total": 144,
+      "lectures": 0,
+      "seminars": 0,
+      "labs": 0,
+      "other": 144
+     },
+     "attestation": null,
+     "extra": "П",
+     "points": null,
+     "events": []
+    },
+    {
+     "title": "Физическая культура и спорт",
+     "dept": "ФВ",
+     "ze": 0,
+     "hours": 0,
+     "contact": {
+      "total": 76.5,
+      "lectures": 0,
+      "seminars": 68,
+      "labs": 0,
+      "other": 8.5
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      60,
+      40
+     ],
+     "events": [
+      {
+       "week": 10,
+       "type": "М"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "program": "09.03.02/01",
+   "groups": [
+    "ИУ3-71Б",
+    "ИУ3-72Б",
+    "ИУ3-73Б"
+   ],
+   "semester": 7,
+   "weeks": 17,
+   "theory": "01.09.2026 - 29.12.2026",
+   "exams": "30.12.2026 - 24.01.2027",
+   "research": "01.09.2026 - 29.12.2026",
+   "practice": null,
+   "finalAttestation": null,
+   "holidays": "25.01.2027 - 07.02.2027",
+   "disciplines": [
+    {
+     "title": "Архитектура информационных систем",
+     "dept": "ИУ3",
+     "ze": 4,
+     "hours": 144,
+     "contact": {
+      "total": 75.2,
+      "lectures": 34,
+      "seminars": 17,
+      "labs": 17,
+      "other": 7.2
+     },
+     "attestation": "экз",
+     "extra": null,
+     "points": [
+      20,
+      30,
+      20,
+      30
+     ],
+     "events": [
+      {
+       "week": 5,
+       "type": "ДЗ"
+      },
+      {
+       "week": 6,
+       "type": "РК"
+      },
+      {
+       "week": 7,
+       "type": "М"
+      },
+      {
+       "week": 11,
+       "type": "ДЗ"
+      },
+      {
+       "week": 12,
+       "type": "РК"
+      },
+      {
+       "week": 13,
+       "type": "М"
+      },
+      {
+       "week": 15,
+       "type": "РК"
+      },
+      {
+       "week": 16,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Безопасность жизнедеятельности",
+     "dept": "Э9",
+     "ze": 3,
+     "hours": 108,
+     "contact": {
+      "total": 72.7,
+      "lectures": 34,
+      "seminars": 17,
+      "labs": 17,
+      "other": 4.7
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      20,
+      50,
+      30
+     ],
+     "events": [
+      {
+       "week": 2,
+       "type": "КР"
+      },
+      {
+       "week": 3,
+       "type": "М"
+      },
+      {
+       "week": 9,
+       "type": "ДЗ"
+      },
+      {
+       "week": 10,
+       "type": "РК"
+      },
+      {
+       "week": 11,
+       "type": "М"
+      },
+      {
+       "week": 16,
+       "type": "КР"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Интеллектуальные системы и технологии",
+     "dept": "ИУ3",
+     "ze": 4,
+     "hours": 144,
+     "contact": {
+      "total": 74.9,
+      "lectures": 34,
+      "seminars": 17,
+      "labs": 17,
+      "other": 6.9
+     },
+     "attestation": "экз",
+     "extra": null,
+     "points": [
+      30,
+      25,
+      15,
+      30
+     ],
+     "events": [
+      {
+       "week": 6,
+       "type": "РК"
+      },
+      {
+       "week": 7,
+       "type": "М"
+      },
+      {
+       "week": 11,
+       "type": "РК"
+      },
+      {
+       "week": 12,
+       "type": "М"
+      },
+      {
+       "week": 14,
+       "type": "ДЗ"
+      },
+      {
+       "week": 16,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Информационные технологии",
+     "dept": "ИУ3",
+     "ze": 5,
+     "hours": 180,
+     "contact": {
+      "total": 93,
+      "lectures": 51,
+      "seminars": 17,
+      "labs": 17,
+      "other": 8
+     },
+     "attestation": "экз",
+     "extra": null,
+     "points": [
+      23,
+      24,
+      23,
+      30
+     ],
+     "events": [
+      {
+       "week": 7,
+       "type": "РК"
+      },
+      {
+       "week": 8,
+       "type": "М"
+      },
+      {
+       "week": 10,
+       "type": "ДЗ"
+      },
+      {
+       "week": 12,
+       "type": "РК"
+      },
+      {
+       "week": 13,
+       "type": "М"
+      },
+      {
+       "week": 14,
+       "type": "ДЗ"
+      },
+      {
+       "week": 15,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Методы и средства проектирования информационных систем и технологий",
+     "dept": "ИУ3",
+     "ze": 6,
+     "hours": 216,
+     "contact": {
+      "total": 79.7,
+      "lectures": 34,
+      "seminars": 17,
+      "labs": 17,
+      "other": 11.7
+     },
+     "attestation": "экз",
+     "extra": "КуР",
+     "points": [
+      22,
+      24,
+      24,
+      30
+     ],
+     "events": [
+      {
+       "week": 3,
+       "type": "%"
+      },
+      {
+       "week": 6,
+       "type": "ДЗ"
+      },
+      {
+       "week": 8,
+       "type": "РК"
+      },
+      {
+       "week": 9,
+       "type": "М"
+      },
+      {
+       "week": 9,
+       "type": "%"
+      },
+      {
+       "week": 10,
+       "type": "ДЗ"
+      },
+      {
+       "week": 12,
+       "type": "РК"
+      },
+      {
+       "week": 12,
+       "type": "%"
+      },
+      {
+       "week": 13,
+       "type": "М"
+      },
+      {
+       "week": 14,
+       "type": "ДЗ"
+      },
+      {
+       "week": 15,
+       "type": "%"
+      },
+      {
+       "week": 16,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Научно-исследовательская работа",
+     "dept": "ИУ3",
+     "ze": 2,
+     "hours": 72,
+     "contact": {
+      "total": 72,
+      "lectures": 0,
+      "seminars": 0,
+      "labs": 0,
+      "other": 72
+     },
+     "attestation": null,
+     "extra": "НИРС",
+     "points": null,
+     "events": [
+      {
+       "week": 3,
+       "type": "%"
+      },
+      {
+       "week": 9,
+       "type": "%"
+      },
+      {
+       "week": 12,
+       "type": "%"
+      },
+      {
+       "week": 15,
+       "type": "%"
+      }
+     ]
+    },
+    {
+     "title": "ДВ №2 Статистический анализ и прогнозирование",
+     "dept": "ИУ3",
+     "ze": 2,
+     "hours": 72,
+     "contact": {
+      "total": 53.5,
+      "lectures": 34,
+      "seminars": 0,
+      "labs": 17,
+      "other": 2.5
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      50,
+      50
+     ],
+     "events": [
+      {
+       "week": 9,
+       "type": "РК"
+      },
+      {
+       "week": 10,
+       "type": "М"
+      },
+      {
+       "week": 14,
+       "type": "ДЗ"
+      },
+      {
+       "week": 15,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Технологии поиска и анализа персонифицированной информации",
+     "dept": "ИУ3",
+     "ze": 2,
+     "hours": 72,
+     "contact": {
+      "total": 35.4,
+      "lectures": 17,
+      "seminars": 0,
+      "labs": 17,
+      "other": 1.4
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      40,
+      60
+     ],
+     "events": [
+      {
+       "week": 5,
+       "type": "РК"
+      },
+      {
+       "week": 6,
+       "type": "М"
+      },
+      {
+       "week": 16,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Экономика часть 1",
+     "dept": "ИБМ3",
+     "ze": 2,
+     "hours": 72,
+     "contact": {
+      "total": 37.6,
+      "lectures": 17,
+      "seminars": 17,
+      "labs": 0,
+      "other": 3.6
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      30,
+      30,
+      40
+     ],
+     "events": [
+      {
+       "week": 5,
+       "type": "РК"
+      },
+      {
+       "week": 6,
+       "type": "М"
+      },
+      {
+       "week": 11,
+       "type": "ДЗ"
+      },
+      {
+       "week": 12,
+       "type": "М"
+      },
+      {
+       "week": 16,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "program": "09.03.02/01",
+   "groups": [
+    "ИУ3-81Б",
+    "ИУ3-82Б",
+    "ИУ3-83Б"
+   ],
+   "semester": 8,
+   "weeks": 12,
+   "theory": "08.02.2027 - 06.05.2027",
+   "exams": "07.05.2027 - 16.05.2027",
+   "research": "08.02.2027 - 06.05.2027",
+   "practice": "17.05.2027 - 30.05.2027",
+   "finalAttestation": "31.05.2027 - 30.06.2027",
+   "holidays": "07.07.2027 - 31.08.2027",
+   "disciplines": [
+    {
+     "title": "Инструментальные средства информационных систем",
+     "dept": "ИУ3",
+     "ze": 3,
+     "hours": 108,
+     "contact": {
+      "total": 63.9,
+      "lectures": 24,
+      "seminars": 12,
+      "labs": 24,
+      "other": 3.9
+     },
+     "attestation": "р.экз",
+     "extra": null,
+     "points": [
+      33,
+      33,
+      34
+     ],
+     "events": [
+      {
+       "week": 3,
+       "type": "РК"
+      },
+      {
+       "week": 4,
+       "type": "М"
+      },
+      {
+       "week": 6,
+       "type": "РК"
+      },
+      {
+       "week": 7,
+       "type": "М"
+      },
+      {
+       "week": 9,
+       "type": "ДЗ"
+      },
+      {
+       "week": 11,
+       "type": "РК"
+      },
+      {
+       "week": 12,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Информационная безопасность и защита информации",
+     "dept": "ИУ3",
+     "ze": 3,
+     "hours": 108,
+     "contact": {
+      "total": 64.7,
+      "lectures": 36,
+      "seminars": 12,
+      "labs": 12,
+      "other": 4.7
+     },
+     "attestation": "р.экз",
+     "extra": null,
+     "points": [
+      50,
+      50
+     ],
+     "events": [
+      {
+       "week": 3,
+       "type": "ДЗ"
+      },
+      {
+       "week": 4,
+       "type": "РК"
+      },
+      {
+       "week": 5,
+       "type": "М"
+      },
+      {
+       "week": 6,
+       "type": "ДЗ"
+      },
+      {
+       "week": 9,
+       "type": "ДЗ"
+      },
+      {
+       "week": 11,
+       "type": "РК"
+      },
+      {
+       "week": 12,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Корпоративные информационные системы",
+     "dept": "ИУ3",
+     "ze": 3,
+     "hours": 108,
+     "contact": {
+      "total": 49.8,
+      "lectures": 24,
+      "seminars": 0,
+      "labs": 24,
+      "other": 1.8
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      50,
+      50
+     ],
+     "events": [
+      {
+       "week": 5,
+       "type": "РК"
+      },
+      {
+       "week": 6,
+       "type": "М"
+      },
+      {
+       "week": 11,
+       "type": "РК"
+      },
+      {
+       "week": 12,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Научно-исследовательская работа",
+     "dept": "ИУ3",
+     "ze": 1,
+     "hours": 36,
+     "contact": {
+      "total": 36,
+      "lectures": 0,
+      "seminars": 0,
+      "labs": 0,
+      "other": 36
+     },
+     "attestation": null,
+     "extra": "НИРС",
+     "points": null,
+     "events": [
+      {
+       "week": 2,
+       "type": "%"
+      },
+      {
+       "week": 6,
+       "type": "%"
+      },
+      {
+       "week": 8,
+       "type": "%"
+      },
+      {
+       "week": 10,
+       "type": "%"
+      }
+     ]
+    },
+    {
+     "title": "ДВ №3 Обработка и распознавание биометрической информации",
+     "dept": "ИУ3",
+     "ze": 2,
+     "hours": 72,
+     "contact": {
+      "total": 37.8,
+      "lectures": 24,
+      "seminars": 0,
+      "labs": 12,
+      "other": 1.8
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      50,
+      50
+     ],
+     "events": [
+      {
+       "week": 4,
+       "type": "РК"
+      },
+      {
+       "week": 5,
+       "type": "М"
+      },
+      {
+       "week": 10,
+       "type": "РК"
+      },
+      {
+       "week": 12,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Подготовка и защита ВКР",
+     "dept": "ИУ3",
+     "ze": 9,
+     "hours": 324,
+     "contact": {
+      "total": 36.5,
+      "lectures": 0,
+      "seminars": 0,
+      "labs": 0,
+      "other": 36.5
+     },
+     "attestation": null,
+     "extra": null,
+     "points": null,
+     "events": []
+    },
+    {
+     "title": "Преддипломная практика",
+     "dept": "ИУ3",
+     "ze": 2,
+     "hours": 72,
+     "contact": {
+      "total": 72,
+      "lectures": 0,
+      "seminars": 0,
+      "labs": 0,
+      "other": 72
+     },
+     "attestation": null,
+     "extra": "ПП",
+     "points": null,
+     "events": []
+    },
+    {
+     "title": "Разработка мультисервисных приложений для мобильных операционных систем",
+     "dept": "ИУ3",
+     "ze": 2,
+     "hours": 72,
+     "contact": {
+      "total": 38,
+      "lectures": 24,
+      "seminars": 0,
+      "labs": 12,
+      "other": 2
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      50,
+      50
+     ],
+     "events": [
+      {
+       "week": 6,
+       "type": "РК"
+      },
+      {
+       "week": 7,
+       "type": "М"
+      },
+      {
+       "week": 10,
+       "type": "ДЗ"
+      },
+      {
+       "week": 11,
+       "type": "РК"
+      },
+      {
+       "week": 12,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Системы управления в информационных сетях",
+     "dept": "ИУ3",
+     "ze": 3,
+     "hours": 108,
+     "contact": {
+      "total": 63.8,
+      "lectures": 36,
+      "seminars": 12,
+      "labs": 12,
+      "other": 3.8
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      35,
+      35,
+      30
+     ],
+     "events": [
+      {
+       "week": 3,
+       "type": "РК"
+      },
+      {
+       "week": 4,
+       "type": "М"
+      },
+      {
+       "week": 7,
+       "type": "РК"
+      },
+      {
+       "week": 8,
+       "type": "М"
+      },
+      {
+       "week": 11,
+       "type": "РК"
+      },
+      {
+       "week": 12,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Экономика часть 2",
+     "dept": "ИБМ6",
+     "ze": 2,
+     "hours": 72,
+     "contact": {
+      "total": 25.9,
+      "lectures": 24,
+      "seminars": 0,
+      "labs": 0,
+      "other": 1.9
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      30,
+      30,
+      40
+     ],
+     "events": [
+      {
+       "week": 3,
+       "type": "РК"
+      },
+      {
+       "week": 4,
+       "type": "М"
+      },
+      {
+       "week": 7,
+       "type": "РК"
+      },
+      {
+       "week": 8,
+       "type": "М"
+      },
+      {
+       "week": 11,
+       "type": "РК"
+      },
+      {
+       "week": 12,
+       "type": "М"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "program": "09.03.02/71",
+   "groups": [
+    "ИУ3И-31Б",
+    "ИУ3И-32Б",
+    "ИУ3И-33Б"
+   ],
+   "semester": 3,
+   "weeks": 17,
+   "theory": "01.09.2026 - 29.12.2026",
+   "exams": "30.12.2026 - 24.01.2027",
+   "research": "01.09.2026 - 29.12.2026",
+   "practice": "01.09.2026 - 29.12.2026",
+   "finalAttestation": null,
+   "holidays": "25.01.2027 - 07.02.2027",
+   "disciplines": [
+    {
+     "title": "Алгоритмы и структуры данных",
+     "dept": "ИУ3",
+     "ze": 2,
+     "hours": 72,
+     "contact": {
+      "total": 35.4,
+      "lectures": 17,
+      "seminars": 0,
+      "labs": 17,
+      "other": 1.4
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      50,
+      50
+     ],
+     "events": [
+      {
+       "week": 8,
+       "type": "РК"
+      },
+      {
+       "week": 9,
+       "type": "М"
+      },
+      {
+       "week": 15,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Кратные интегралы, ряды, теория функций комплексной переменной",
+     "dept": "ФН12",
+     "ze": 5,
+     "hours": 180,
+     "contact": {
+      "total": 95,
+      "lectures": 51,
+      "seminars": 34,
+      "labs": 0,
+      "other": 10
+     },
+     "attestation": "экз",
+     "extra": null,
+     "points": [
+      30,
+      40,
+      30
+     ],
+     "events": [
+      {
+       "week": 8,
+       "type": "ДЗ"
+      },
+      {
+       "week": 9,
+       "type": "РК"
+      },
+      {
+       "week": 10,
+       "type": "М"
+      },
+      {
+       "week": 15,
+       "type": "ДЗ"
+      },
+      {
+       "week": 16,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Научно-исследовательская работа",
+     "dept": "ИУ3",
+     "ze": 1,
+     "hours": 36,
+     "contact": {
+      "total": 36,
+      "lectures": 0,
+      "seminars": 0,
+      "labs": 0,
+      "other": 36
+     },
+     "attestation": null,
+     "extra": "НИРС",
+     "points": null,
+     "events": [
+      {
+       "week": 3,
+       "type": "%"
+      },
+      {
+       "week": 9,
+       "type": "%"
+      },
+      {
+       "week": 12,
+       "type": "%"
+      },
+      {
+       "week": 15,
+       "type": "%"
+      }
+     ]
+    },
+    {
+     "title": "Прикладная механика и основы конструирования приборов",
+     "dept": "РЛ5",
+     "ze": 5,
+     "hours": 180,
+     "contact": {
+      "total": 94.7,
+      "lectures": 34,
+      "seminars": 34,
+      "labs": 17,
+      "other": 9.7
+     },
+     "attestation": "экз",
+     "extra": null,
+     "points": [
+      20,
+      20,
+      30,
+      30
+     ],
+     "events": [
+      {
+       "week": 4,
+       "type": "РК"
+      },
+      {
+       "week": 5,
+       "type": "ДЗ"
+      },
+      {
+       "week": 6,
+       "type": "М"
+      },
+      {
+       "week": 9,
+       "type": "ДЗ"
+      },
+      {
+       "week": 10,
+       "type": "РК"
+      },
+      {
+       "week": 11,
+       "type": "М"
+      },
+      {
+       "week": 15,
+       "type": "РК"
+      },
+      {
+       "week": 16,
+       "type": "ДЗ"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Русский язык как иностранный",
+     "dept": "Л1",
+     "ze": 3,
+     "hours": 108,
+     "contact": {
+      "total": 96.2,
+      "lectures": 0,
+      "seminars": 85,
+      "labs": 0,
+      "other": 11.2
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      33,
+      33,
+      34
+     ],
+     "events": [
+      {
+       "week": 4,
+       "type": "РК"
+      },
+      {
+       "week": 5,
+       "type": "М"
+      },
+      {
+       "week": 9,
+       "type": "РК"
+      },
+      {
+       "week": 10,
+       "type": "М"
+      },
+      {
+       "week": 16,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Технологическая практика",
+     "dept": "ИУ3",
+     "ze": 2,
+     "hours": 72,
+     "contact": {
+      "total": 36,
+      "lectures": 0,
+      "seminars": 0,
+      "labs": 0,
+      "other": 36
+     },
+     "attestation": null,
+     "extra": "Пр",
+     "points": null,
+     "events": []
+    },
+    {
+     "title": "Физика",
+     "dept": "ФН4",
+     "ze": 5,
+     "hours": 180,
+     "contact": {
+      "total": 92,
+      "lectures": 34,
+      "seminars": 17,
+      "labs": 34,
+      "other": 7
+     },
+     "attestation": "экз",
+     "extra": null,
+     "points": [
+      40,
+      30,
+      30
+     ],
+     "events": [
+      {
+       "week": 8,
+       "type": "ДЗ"
+      },
+      {
+       "week": 9,
+       "type": "РК"
+      },
+      {
+       "week": 10,
+       "type": "М"
+      },
+      {
+       "week": 15,
+       "type": "ДЗ"
+      },
+      {
+       "week": 16,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Электротехника",
+     "dept": "ФН7",
+     "ze": 5,
+     "hours": 180,
+     "contact": {
+      "total": 109.7,
+      "lectures": 51,
+      "seminars": 34,
+      "labs": 17,
+      "other": 7.7
+     },
+     "attestation": "р.экз",
+     "extra": null,
+     "points": [
+      35,
+      35,
+      30
+     ],
+     "events": [
+      {
+       "week": 7,
+       "type": "ДЗ"
+      },
+      {
+       "week": 9,
+       "type": "М"
+      },
+      {
+       "week": 14,
+       "type": "ДЗ"
+      },
+      {
+       "week": 15,
+       "type": "М"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Физическая культура и спорт",
+     "dept": "ФВ",
+     "ze": 0,
+     "hours": 0,
+     "contact": {
+      "total": 76.5,
+      "lectures": 0,
+      "seminars": 68,
+      "labs": 0,
+      "other": 8.5
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      60,
+      40
+     ],
+     "events": [
+      {
+       "week": 10,
+       "type": "М"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "program": "09.03.02/71",
+   "groups": [
+    "ИУ3И-41Б",
+    "ИУ3И-42Б",
+    "ИУ3И-43Б"
+   ],
+   "semester": 4,
+   "weeks": 17,
+   "theory": "08.02.2027 - 11.06.2027",
+   "exams": "15.06.2027 - 06.07.2027",
+   "research": "08.02.2027 - 11.06.2027",
+   "practice": "08.02.2027 - 11.06.2027",
+   "finalAttestation": null,
+   "holidays": "07.07.2027 - 31.08.2027",
+   "disciplines": [
+    {
+     "title": "Научно-исследовательская работа",
+     "dept": "ИУ3",
+     "ze": 2,
+     "hours": 72,
+     "contact": {
+      "total": 72,
+      "lectures": 0,
+      "seminars": 0,
+      "labs": 0,
+      "other": 72
+     },
+     "attestation": null,
+     "extra": "НИРС",
+     "points": null,
+     "events": [
+      {
+       "week": 3,
+       "type": "%"
+      },
+      {
+       "week": 9,
+       "type": "%"
+      },
+      {
+       "week": 12,
+       "type": "%"
+      },
+      {
+       "week": 15,
+       "type": "%"
+      }
+     ]
+    },
+    {
+     "title": "Прикладная механика и основы конструирования приборов",
+     "dept": "РЛ5",
+     "ze": 2,
+     "hours": 72,
+     "contact": {
+      "total": 4.3,
+      "lectures": 0,
+      "seminars": 0,
+      "labs": 0,
+      "other": 4.3
+     },
+     "attestation": null,
+     "extra": "КуР",
+     "points": null,
+     "events": [
+      {
+       "week": 3,
+       "type": "%"
+      },
+      {
+       "week": 9,
+       "type": "%"
+      },
+      {
+       "week": 12,
+       "type": "%"
+      },
+      {
+       "week": 15,
+       "type": "%"
+      }
+     ]
+    },
+    {
+     "title": "Русский язык как иностранный",
+     "dept": "Л1",
+     "ze": 2,
+     "hours": 72,
+     "contact": {
+      "total": 58,
+      "lectures": 0,
+      "seminars": 51,
+      "labs": 0,
+      "other": 6.9
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      33,
+      33,
+      34
+     ],
+     "events": [
+      {
+       "week": 4,
+       "type": "РК"
+      },
+      {
+       "week": 5,
+       "type": "М"
+      },
+      {
+       "week": 9,
+       "type": "РК"
+      },
+      {
+       "week": 10,
+       "type": "М"
+      },
+      {
+       "week": 16,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Теория вероятностей и логика",
+     "dept": "ФН12",
+     "ze": 6,
+     "hours": 216,
+     "contact": {
+      "total": 114.4,
+      "lectures": 51,
+      "seminars": 51,
+      "labs": 0,
+      "other": 12.4
+     },
+     "attestation": "экз",
+     "extra": null,
+     "points": [
+      25,
+      25,
+      20,
+      30
+     ],
+     "events": [
+      {
+       "week": 3,
+       "type": "ДЗ"
+      },
+      {
+       "week": 4,
+       "type": "РК"
+      },
+      {
+       "week": 5,
+       "type": "М"
+      },
+      {
+       "week": 9,
+       "type": "ДЗ"
+      },
+      {
+       "week": 10,
+       "type": "РК"
+      },
+      {
+       "week": 11,
+       "type": "М"
+      },
+      {
+       "week": 14,
+       "type": "ДЗ"
+      },
+      {
+       "week": 15,
+       "type": "РК"
+      },
+      {
+       "week": 16,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Технологическая практика",
+     "dept": "ИУ3",
+     "ze": 2,
+     "hours": 72,
+     "contact": {
+      "total": 36,
+      "lectures": 0,
+      "seminars": 0,
+      "labs": 0,
+      "other": 36
+     },
+     "attestation": null,
+     "extra": "Пр",
+     "points": null,
+     "events": []
+    },
+    {
+     "title": "Технология приборостроения",
+     "dept": "ИУ4",
+     "ze": 2,
+     "hours": 72,
+     "contact": {
+      "total": 54.5,
+      "lectures": 17,
+      "seminars": 17,
+      "labs": 17,
+      "other": 3.5
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      30,
+      30,
+      40
+     ],
+     "events": [
+      {
+       "week": 6,
+       "type": "РК"
+      },
+      {
+       "week": 7,
+       "type": "М"
+      },
+      {
+       "week": 10,
+       "type": "РК"
+      },
+      {
+       "week": 11,
+       "type": "М"
+      },
+      {
+       "week": 13,
+       "type": "РК"
+      },
+      {
+       "week": 14,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Технология программирования",
+     "dept": "ИУ3",
+     "ze": 3,
+     "hours": 108,
+     "contact": {
+      "total": 71.1,
+      "lectures": 34,
+      "seminars": 0,
+      "labs": 34,
+      "other": 3.1
+     },
+     "attestation": "р.экз",
+     "extra": null,
+     "points": [
+      25,
+      25,
+      25,
+      25
+     ],
+     "events": [
+      {
+       "week": 5,
+       "type": "РК"
+      },
+      {
+       "week": 6,
+       "type": "М"
+      },
+      {
+       "week": 9,
+       "type": "РК"
+      },
+      {
+       "week": 10,
+       "type": "М"
+      },
+      {
+       "week": 12,
+       "type": "ДЗ"
+      },
+      {
+       "week": 13,
+       "type": "РК"
+      },
+      {
+       "week": 14,
+       "type": "М"
+      },
+      {
+       "week": 16,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Управление данными",
+     "dept": "ИУ3",
+     "ze": 3,
+     "hours": 108,
+     "contact": {
+      "total": 54.8,
+      "lectures": 17,
+      "seminars": 17,
+      "labs": 17,
+      "other": 3.8
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      30,
+      40,
+      30
+     ],
+     "events": [
+      {
+       "week": 3,
+       "type": "РК"
+      },
+      {
+       "week": 4,
+       "type": "М"
+      },
+      {
+       "week": 11,
+       "type": "ДЗ"
+      },
+      {
+       "week": 13,
+       "type": "РК"
+      },
+      {
+       "week": 14,
+       "type": "М"
+      },
+      {
+       "week": 16,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Электроника",
+     "dept": "ИУ3",
+     "ze": 5,
+     "hours": 180,
+     "contact": {
+      "total": 125.6,
+      "lectures": 68,
+      "seminars": 17,
+      "labs": 34,
+      "other": 6.6
+     },
+     "attestation": "р.экз",
+     "extra": null,
+     "points": [
+      20,
+      40,
+      40
+     ],
+     "events": [
+      {
+       "week": 5,
+       "type": "РК"
+      },
+      {
+       "week": 6,
+       "type": "М"
+      },
+      {
+       "week": 8,
+       "type": "ДЗ"
+      },
+      {
+       "week": 9,
+       "type": "РК"
+      },
+      {
+       "week": 10,
+       "type": "М"
+      },
+      {
+       "week": 16,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Физическая культура и спорт",
+     "dept": "ФВ",
+     "ze": 0,
+     "hours": 0,
+     "contact": {
+      "total": 76.5,
+      "lectures": 0,
+      "seminars": 68,
+      "labs": 0,
+      "other": 8.5
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      60,
+      40
+     ],
+     "events": [
+      {
+       "week": 10,
+       "type": "М"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "program": "09.03.02/71",
+   "groups": [
+    "ИУ3И-51Б",
+    "ИУ3И-53Б"
+   ],
+   "semester": 5,
+   "weeks": 17,
+   "theory": "01.09.2026 - 29.12.2026",
+   "exams": "30.12.2026 - 24.01.2027",
+   "research": "01.09.2026 - 29.12.2026",
+   "practice": null,
+   "finalAttestation": null,
+   "holidays": "25.01.2027 - 07.02.2027",
+   "disciplines": [
+    {
+     "title": "Дискретная математика",
+     "dept": "ФН12",
+     "ze": 4,
+     "hours": 144,
+     "contact": {
+      "total": 75.8,
+      "lectures": 51,
+      "seminars": 17,
+      "labs": 0,
+      "other": 7.8
+     },
+     "attestation": "экз",
+     "extra": null,
+     "points": [
+      30,
+      40,
+      30
+     ],
+     "events": [
+      {
+       "week": 7,
+       "type": "ДЗ"
+      },
+      {
+       "week": 8,
+       "type": "РК"
+      },
+      {
+       "week": 9,
+       "type": "М"
+      },
+      {
+       "week": 15,
+       "type": "ДЗ"
+      },
+      {
+       "week": 16,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Метрология и информационно-измерительные устройства",
+     "dept": "ИУ3",
+     "ze": 4,
+     "hours": 144,
+     "contact": {
+      "total": 89.4,
+      "lectures": 34,
+      "seminars": 17,
+      "labs": 34,
+      "other": 4.4
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      35,
+      30,
+      35
+     ],
+     "events": [
+      {
+       "week": 4,
+       "type": "РК"
+      },
+      {
+       "week": 5,
+       "type": "М"
+      },
+      {
+       "week": 8,
+       "type": "РК"
+      },
+      {
+       "week": 9,
+       "type": "М"
+      },
+      {
+       "week": 16,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Научно-исследовательская работа",
+     "dept": "ИУ3",
+     "ze": 3,
+     "hours": 108,
+     "contact": {
+      "total": 108,
+      "lectures": 0,
+      "seminars": 0,
+      "labs": 0,
+      "other": 108
+     },
+     "attestation": null,
+     "extra": "НИРС",
+     "points": null,
+     "events": [
+      {
+       "week": 3,
+       "type": "%"
+      },
+      {
+       "week": 9,
+       "type": "%"
+      },
+      {
+       "week": 12,
+       "type": "%"
+      },
+      {
+       "week": 15,
+       "type": "%"
+      }
+     ]
+    },
+    {
+     "title": "Основы теории управления и цифровой обработки сигналов",
+     "dept": "ИУ3",
+     "ze": 6,
+     "hours": 216,
+     "contact": {
+      "total": 126,
+      "lectures": 68,
+      "seminars": 17,
+      "labs": 34,
+      "other": 7
+     },
+     "attestation": "р.экз",
+     "extra": null,
+     "points": [
+      25,
+      25,
+      25,
+      25
+     ],
+     "events": [
+      {
+       "week": 4,
+       "type": "РК"
+      },
+      {
+       "week": 5,
+       "type": "М"
+      },
+      {
+       "week": 7,
+       "type": "ДЗ"
+      },
+      {
+       "week": 8,
+       "type": "РК"
+      },
+      {
+       "week": 9,
+       "type": "М"
+      },
+      {
+       "week": 12,
+       "type": "РК"
+      },
+      {
+       "week": 13,
+       "type": "М"
+      },
+      {
+       "week": 14,
+       "type": "ДЗ"
+      },
+      {
+       "week": 16,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Русский язык как иностранный",
+     "dept": "Л1",
+     "ze": 3,
+     "hours": 108,
+     "contact": {
+      "total": 96.2,
+      "lectures": 0,
+      "seminars": 85,
+      "labs": 0,
+      "other": 11.2
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      33,
+      33,
+      34
+     ],
+     "events": [
+      {
+       "week": 4,
+       "type": "РК"
+      },
+      {
+       "week": 5,
+       "type": "М"
+      },
+      {
+       "week": 9,
+       "type": "РК"
+      },
+      {
+       "week": 10,
+       "type": "М"
+      },
+      {
+       "week": 16,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Схемотехника электронных устройств",
+     "dept": "ИУ3",
+     "ze": 4,
+     "hours": 144,
+     "contact": {
+      "total": 74.9,
+      "lectures": 34,
+      "seminars": 17,
+      "labs": 17,
+      "other": 6.9
+     },
+     "attestation": "экз",
+     "extra": null,
+     "points": [
+      20,
+      30,
+      20,
+      30
+     ],
+     "events": [
+      {
+       "week": 5,
+       "type": "РК"
+      },
+      {
+       "week": 6,
+       "type": "М"
+      },
+      {
+       "week": 11,
+       "type": "РК"
+      },
+      {
+       "week": 12,
+       "type": "ДЗ"
+      },
+      {
+       "week": 13,
+       "type": "М"
+      },
+      {
+       "week": 16,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Теория информационных процессов и систем",
+     "dept": "ИУ3",
+     "ze": 5,
+     "hours": 180,
+     "contact": {
+      "total": 110,
+      "lectures": 51,
+      "seminars": 34,
+      "labs": 17,
+      "other": 8
+     },
+     "attestation": "р.экз",
+     "extra": null,
+     "points": [
+      50,
+      50
+     ],
+     "events": [
+      {
+       "week": 6,
+       "type": "ДЗ"
+      },
+      {
+       "week": 7,
+       "type": "РК"
+      },
+      {
+       "week": 8,
+       "type": "М"
+      },
+      {
+       "week": 14,
+       "type": "ДЗ"
+      },
+      {
+       "week": 15,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Физическая культура и спорт",
+     "dept": "ФВ",
+     "ze": 0,
+     "hours": 0,
+     "contact": {
+      "total": 76.5,
+      "lectures": 0,
+      "seminars": 68,
+      "labs": 0,
+      "other": 8.5
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      60,
+      40
+     ],
+     "events": [
+      {
+       "week": 10,
+       "type": "М"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "program": "09.03.02/71",
+   "groups": [
+    "ИУ3И-61Б",
+    "ИУ3И-63Б"
+   ],
+   "semester": 6,
+   "weeks": 17,
+   "theory": "08.02.2027 - 11.06.2027",
+   "exams": "15.06.2027 - 28.06.2027",
+   "research": "08.02.2027 - 11.06.2027",
+   "practice": "29.06.2027 - 27.07.2027",
+   "finalAttestation": null,
+   "holidays": "28.07.2027 - 31.08.2027",
+   "disciplines": [
+    {
+     "title": "Вычислительная математика",
+     "dept": "ФН12",
+     "ze": 3,
+     "hours": 108,
+     "contact": {
+      "total": 55.9,
+      "lectures": 34,
+      "seminars": 17,
+      "labs": 0,
+      "other": 4.9
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      13,
+      44,
+      43
+     ],
+     "events": [
+      {
+       "week": 5,
+       "type": "РК"
+      },
+      {
+       "week": 6,
+       "type": "М"
+      },
+      {
+       "week": 9,
+       "type": "ДЗ"
+      },
+      {
+       "week": 10,
+       "type": "РК"
+      },
+      {
+       "week": 11,
+       "type": "М"
+      },
+      {
+       "week": 14,
+       "type": "ДЗ"
+      },
+      {
+       "week": 15,
+       "type": "РК"
+      },
+      {
+       "week": 16,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Микропроцессорная техника и цифровые автоматы",
+     "dept": "ИУ3",
+     "ze": 6,
+     "hours": 216,
+     "contact": {
+      "total": 128,
+      "lectures": 68,
+      "seminars": 17,
+      "labs": 34,
+      "other": 9
+     },
+     "attestation": "экз",
+     "extra": null,
+     "points": [
+      18,
+      17,
+      18,
+      17,
+      30
+     ],
+     "events": [
+      {
+       "week": 3,
+       "type": "ДЗ"
+      },
+      {
+       "week": 4,
+       "type": "РК"
+      },
+      {
+       "week": 5,
+       "type": "М"
+      },
+      {
+       "week": 7,
+       "type": "ДЗ"
+      },
+      {
+       "week": 8,
+       "type": "РК"
+      },
+      {
+       "week": 9,
+       "type": "М"
+      },
+      {
+       "week": 13,
+       "type": "РК"
+      },
+      {
+       "week": 14,
+       "type": "М"
+      },
+      {
+       "week": 16,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Моделирование и надежность систем",
+     "dept": "ИУ3",
+     "ze": 5,
+     "hours": 180,
+     "contact": {
+      "total": 108.7,
+      "lectures": 68,
+      "seminars": 17,
+      "labs": 17,
+      "other": 6.7
+     },
+     "attestation": "р.экз",
+     "extra": null,
+     "points": [
+      25,
+      25,
+      25,
+      25
+     ],
+     "events": [
+      {
+       "week": 4,
+       "type": "РК"
+      },
+      {
+       "week": 5,
+       "type": "М"
+      },
+      {
+       "week": 7,
+       "type": "ДЗ"
+      },
+      {
+       "week": 8,
+       "type": "РК"
+      },
+      {
+       "week": 9,
+       "type": "М"
+      },
+      {
+       "week": 12,
+       "type": "РК"
+      },
+      {
+       "week": 13,
+       "type": "М"
+      },
+      {
+       "week": 16,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Научно-исследовательская работа",
+     "dept": "ИУ3",
+     "ze": 2,
+     "hours": 72,
+     "contact": {
+      "total": 72,
+      "lectures": 0,
+      "seminars": 0,
+      "labs": 0,
+      "other": 72
+     },
+     "attestation": null,
+     "extra": "НИРС",
+     "points": null,
+     "events": [
+      {
+       "week": 3,
+       "type": "%"
+      },
+      {
+       "week": 9,
+       "type": "%"
+      },
+      {
+       "week": 12,
+       "type": "%"
+      },
+      {
+       "week": 15,
+       "type": "%"
+      }
+     ]
+    },
+    {
+     "title": "Разработка программного обеспечения",
+     "dept": "ИУ3",
+     "ze": 3,
+     "hours": 108,
+     "contact": {
+      "total": 70.9,
+      "lectures": 34,
+      "seminars": 0,
+      "labs": 34,
+      "other": 2.9
+     },
+     "attestation": "р.экз",
+     "extra": null,
+     "points": [
+      33,
+      33,
+      34
+     ],
+     "events": [
+      {
+       "week": 4,
+       "type": "РК"
+      },
+      {
+       "week": 5,
+       "type": "М"
+      },
+      {
+       "week": 8,
+       "type": "РК"
+      },
+      {
+       "week": 9,
+       "type": "М"
+      },
+      {
+       "week": 13,
+       "type": "ДЗ"
+      },
+      {
+       "week": 16,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Русский язык как иностранный",
+     "dept": "Л1",
+     "ze": 2,
+     "hours": 72,
+     "contact": {
+      "total": 58.2,
+      "lectures": 0,
+      "seminars": 51,
+      "labs": 0,
+      "other": 7.2
+     },
+     "attestation": "р.экз",
+     "extra": null,
+     "points": [
+      33,
+      33,
+      34
+     ],
+     "events": [
+      {
+       "week": 4,
+       "type": "РК"
+      },
+      {
+       "week": 5,
+       "type": "М"
+      },
+      {
+       "week": 9,
+       "type": "РК"
+      },
+      {
+       "week": 10,
+       "type": "М"
+      },
+      {
+       "week": 16,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Схемотехника электронных устройств",
+     "dept": "ИУ3",
+     "ze": 2,
+     "hours": 72,
+     "contact": {
+      "total": 4.3,
+      "lectures": 0,
+      "seminars": 0,
+      "labs": 0,
+      "other": 4.3
+     },
+     "attestation": null,
+     "extra": "КуР",
+     "points": null,
+     "events": [
+      {
+       "week": 3,
+       "type": "%"
+      },
+      {
+       "week": 9,
+       "type": "%"
+      },
+      {
+       "week": 12,
+       "type": "%"
+      },
+      {
+       "week": 15,
+       "type": "%"
+      }
+     ]
+    },
+    {
+     "title": "Философия",
+     "dept": "СГН4",
+     "ze": 3,
+     "hours": 108,
+     "contact": {
+      "total": 56.9,
+      "lectures": 17,
+      "seminars": 34,
+      "labs": 0,
+      "other": 5.9
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      30,
+      30,
+      40
+     ],
+     "events": [
+      {
+       "week": 5,
+       "type": "РК"
+      },
+      {
+       "week": 6,
+       "type": "М"
+      },
+      {
+       "week": 10,
+       "type": "РК"
+      },
+      {
+       "week": 11,
+       "type": "М"
+      },
+      {
+       "week": 15,
+       "type": "ДЗ"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Экология",
+     "dept": "Э9",
+     "ze": 2,
+     "hours": 72,
+     "contact": {
+      "total": 37.4,
+      "lectures": 17,
+      "seminars": 17,
+      "labs": 0,
+      "other": 3.4
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      40,
+      60
+     ],
+     "events": [
+      {
+       "week": 7,
+       "type": "КР"
+      },
+      {
+       "week": 8,
+       "type": "М"
+      },
+      {
+       "week": 15,
+       "type": "КР"
+      },
+      {
+       "week": 16,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Эксплуатационная практика",
+     "dept": "ИУ3",
+     "ze": 4,
+     "hours": 144,
+     "contact": {
+      "total": 144,
+      "lectures": 0,
+      "seminars": 0,
+      "labs": 0,
+      "other": 144
+     },
+     "attestation": null,
+     "extra": "П",
+     "points": null,
+     "events": []
+    },
+    {
+     "title": "Физическая культура и спорт",
+     "dept": "ФВ",
+     "ze": 0,
+     "hours": 0,
+     "contact": {
+      "total": 76.5,
+      "lectures": 0,
+      "seminars": 68,
+      "labs": 0,
+      "other": 8.5
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      60,
+      40
+     ],
+     "events": [
+      {
+       "week": 10,
+       "type": "М"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "program": "09.03.02/71",
+   "groups": [
+    "ИУ3И-72Б"
+   ],
+   "semester": 7,
+   "weeks": 17,
+   "theory": "01.09.2026 - 29.12.2026",
+   "exams": "30.12.2026 - 24.01.2027",
+   "research": "01.09.2026 - 29.12.2026",
+   "practice": null,
+   "finalAttestation": null,
+   "holidays": "25.01.2027 - 07.02.2027",
+   "disciplines": [
+    {
+     "title": "Архитектура информационных систем",
+     "dept": "ИУ3",
+     "ze": 4,
+     "hours": 144,
+     "contact": {
+      "total": 75.2,
+      "lectures": 34,
+      "seminars": 17,
+      "labs": 17,
+      "other": 7.2
+     },
+     "attestation": "экз",
+     "extra": null,
+     "points": [
+      20,
+      30,
+      20,
+      30
+     ],
+     "events": [
+      {
+       "week": 5,
+       "type": "ДЗ"
+      },
+      {
+       "week": 6,
+       "type": "РК"
+      },
+      {
+       "week": 7,
+       "type": "М"
+      },
+      {
+       "week": 11,
+       "type": "ДЗ"
+      },
+      {
+       "week": 12,
+       "type": "РК"
+      },
+      {
+       "week": 13,
+       "type": "М"
+      },
+      {
+       "week": 15,
+       "type": "РК"
+      },
+      {
+       "week": 16,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Безопасность жизнедеятельности",
+     "dept": "Э9",
+     "ze": 3,
+     "hours": 108,
+     "contact": {
+      "total": 72.7,
+      "lectures": 34,
+      "seminars": 17,
+      "labs": 17,
+      "other": 4.7
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      20,
+      50,
+      30
+     ],
+     "events": [
+      {
+       "week": 2,
+       "type": "КР"
+      },
+      {
+       "week": 3,
+       "type": "М"
+      },
+      {
+       "week": 9,
+       "type": "ДЗ"
+      },
+      {
+       "week": 10,
+       "type": "РК"
+      },
+      {
+       "week": 11,
+       "type": "М"
+      },
+      {
+       "week": 16,
+       "type": "КР"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Иностранный язык",
+     "dept": "Л2",
+     "ze": 2,
+     "hours": 72,
+     "contact": {
+      "total": 38.9,
+      "lectures": 0,
+      "seminars": 34,
+      "labs": 0,
+      "other": 4.9
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      33,
+      33,
+      34
+     ],
+     "events": [
+      {
+       "week": 6,
+       "type": "РК"
+      },
+      {
+       "week": 7,
+       "type": "М"
+      },
+      {
+       "week": 13,
+       "type": "РК"
+      },
+      {
+       "week": 14,
+       "type": "М"
+      },
+      {
+       "week": 16,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Интеллектуальные системы и технологии",
+     "dept": "ИУ3",
+     "ze": 4,
+     "hours": 144,
+     "contact": {
+      "total": 74.9,
+      "lectures": 34,
+      "seminars": 17,
+      "labs": 17,
+      "other": 6.9
+     },
+     "attestation": "экз",
+     "extra": null,
+     "points": [
+      30,
+      25,
+      15,
+      30
+     ],
+     "events": [
+      {
+       "week": 6,
+       "type": "РК"
+      },
+      {
+       "week": 7,
+       "type": "М"
+      },
+      {
+       "week": 11,
+       "type": "РК"
+      },
+      {
+       "week": 12,
+       "type": "М"
+      },
+      {
+       "week": 14,
+       "type": "ДЗ"
+      },
+      {
+       "week": 16,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Информационные технологии",
+     "dept": "ИУ3",
+     "ze": 5,
+     "hours": 180,
+     "contact": {
+      "total": 93,
+      "lectures": 51,
+      "seminars": 17,
+      "labs": 17,
+      "other": 8
+     },
+     "attestation": "экз",
+     "extra": null,
+     "points": [
+      23,
+      24,
+      23,
+      30
+     ],
+     "events": [
+      {
+       "week": 7,
+       "type": "РК"
+      },
+      {
+       "week": 8,
+       "type": "М"
+      },
+      {
+       "week": 10,
+       "type": "ДЗ"
+      },
+      {
+       "week": 12,
+       "type": "РК"
+      },
+      {
+       "week": 13,
+       "type": "М"
+      },
+      {
+       "week": 14,
+       "type": "ДЗ"
+      },
+      {
+       "week": 15,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Методы и средства проектирования информационных систем и технологий",
+     "dept": "ИУ3",
+     "ze": 6,
+     "hours": 216,
+     "contact": {
+      "total": 79.7,
+      "lectures": 34,
+      "seminars": 17,
+      "labs": 17,
+      "other": 11.7
+     },
+     "attestation": "экз",
+     "extra": "КуР",
+     "points": [
+      22,
+      24,
+      24,
+      30
+     ],
+     "events": [
+      {
+       "week": 3,
+       "type": "%"
+      },
+      {
+       "week": 6,
+       "type": "ДЗ"
+      },
+      {
+       "week": 8,
+       "type": "РК"
+      },
+      {
+       "week": 9,
+       "type": "М"
+      },
+      {
+       "week": 9,
+       "type": "%"
+      },
+      {
+       "week": 10,
+       "type": "ДЗ"
+      },
+      {
+       "week": 12,
+       "type": "РК"
+      },
+      {
+       "week": 12,
+       "type": "%"
+      },
+      {
+       "week": 13,
+       "type": "М"
+      },
+      {
+       "week": 14,
+       "type": "ДЗ"
+      },
+      {
+       "week": 15,
+       "type": "%"
+      },
+      {
+       "week": 16,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Научно-исследовательская работа",
+     "dept": "ИУ3",
+     "ze": 2,
+     "hours": 72,
+     "contact": {
+      "total": 72,
+      "lectures": 0,
+      "seminars": 0,
+      "labs": 0,
+      "other": 72
+     },
+     "attestation": null,
+     "extra": "НИРС",
+     "points": null,
+     "events": [
+      {
+       "week": 3,
+       "type": "%"
+      },
+      {
+       "week": 9,
+       "type": "%"
+      },
+      {
+       "week": 12,
+       "type": "%"
+      },
+      {
+       "week": 15,
+       "type": "%"
+      }
+     ]
+    },
+    {
+     "title": "Правоведение",
+     "dept": "ЮР",
+     "ze": 1,
+     "hours": 36,
+     "contact": {
+      "total": 18.1,
+      "lectures": 17,
+      "seminars": 0,
+      "labs": 0,
+      "other": 1.1
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      100
+     ],
+     "events": [
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "ДВ №2 Статистический анализ и прогнозирование",
+     "dept": "ИУ3",
+     "ze": 2,
+     "hours": 72,
+     "contact": {
+      "total": 53.5,
+      "lectures": 34,
+      "seminars": 0,
+      "labs": 17,
+      "other": 2.5
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      50,
+      50
+     ],
+     "events": [
+      {
+       "week": 9,
+       "type": "РК"
+      },
+      {
+       "week": 10,
+       "type": "М"
+      },
+      {
+       "week": 14,
+       "type": "ДЗ"
+      },
+      {
+       "week": 15,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Технологии поиска и анализа персонифицированной информации",
+     "dept": "ИУ3",
+     "ze": 2,
+     "hours": 72,
+     "contact": {
+      "total": 35.4,
+      "lectures": 17,
+      "seminars": 0,
+      "labs": 17,
+      "other": 1.4
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      40,
+      60
+     ],
+     "events": [
+      {
+       "week": 5,
+       "type": "РК"
+      },
+      {
+       "week": 6,
+       "type": "М"
+      },
+      {
+       "week": 16,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Экономика часть 1",
+     "dept": "ИБМ3",
+     "ze": 2,
+     "hours": 72,
+     "contact": {
+      "total": 37.6,
+      "lectures": 17,
+      "seminars": 17,
+      "labs": 0,
+      "other": 3.6
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      30,
+      30,
+      40
+     ],
+     "events": [
+      {
+       "week": 5,
+       "type": "РК"
+      },
+      {
+       "week": 6,
+       "type": "М"
+      },
+      {
+       "week": 11,
+       "type": "ДЗ"
+      },
+      {
+       "week": 12,
+       "type": "М"
+      },
+      {
+       "week": 16,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "program": "09.03.02/71",
+   "groups": [
+    "ИУ3И-82Б"
+   ],
+   "semester": 8,
+   "weeks": 12,
+   "theory": "08.02.2027 - 06.05.2027",
+   "exams": "07.05.2027 - 16.05.2027",
+   "research": "08.02.2027 - 06.05.2027",
+   "practice": "17.05.2027 - 30.05.2027",
+   "finalAttestation": "31.05.2027 - 30.06.2027",
+   "holidays": "07.07.2027 - 31.08.2027",
+   "disciplines": [
+    {
+     "title": "Инструментальные средства информационных систем",
+     "dept": "ИУ3",
+     "ze": 3,
+     "hours": 108,
+     "contact": {
+      "total": 63.9,
+      "lectures": 24,
+      "seminars": 12,
+      "labs": 24,
+      "other": 3.9
+     },
+     "attestation": "р.экз",
+     "extra": null,
+     "points": [
+      33,
+      33,
+      34
+     ],
+     "events": [
+      {
+       "week": 3,
+       "type": "РК"
+      },
+      {
+       "week": 4,
+       "type": "М"
+      },
+      {
+       "week": 6,
+       "type": "РК"
+      },
+      {
+       "week": 7,
+       "type": "М"
+      },
+      {
+       "week": 9,
+       "type": "ДЗ"
+      },
+      {
+       "week": 11,
+       "type": "РК"
+      },
+      {
+       "week": 12,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Информационная безопасность и защита информации",
+     "dept": "ИУ3",
+     "ze": 3,
+     "hours": 108,
+     "contact": {
+      "total": 64.7,
+      "lectures": 36,
+      "seminars": 12,
+      "labs": 12,
+      "other": 4.7
+     },
+     "attestation": "р.экз",
+     "extra": null,
+     "points": [
+      50,
+      50
+     ],
+     "events": [
+      {
+       "week": 3,
+       "type": "ДЗ"
+      },
+      {
+       "week": 4,
+       "type": "РК"
+      },
+      {
+       "week": 5,
+       "type": "М"
+      },
+      {
+       "week": 6,
+       "type": "ДЗ"
+      },
+      {
+       "week": 9,
+       "type": "ДЗ"
+      },
+      {
+       "week": 11,
+       "type": "РК"
+      },
+      {
+       "week": 12,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Корпоративные информационные системы",
+     "dept": "ИУ3",
+     "ze": 3,
+     "hours": 108,
+     "contact": {
+      "total": 49.8,
+      "lectures": 24,
+      "seminars": 0,
+      "labs": 24,
+      "other": 1.8
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      50,
+      50
+     ],
+     "events": [
+      {
+       "week": 5,
+       "type": "РК"
+      },
+      {
+       "week": 6,
+       "type": "М"
+      },
+      {
+       "week": 11,
+       "type": "РК"
+      },
+      {
+       "week": 12,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Научно-исследовательская работа",
+     "dept": "ИУ3",
+     "ze": 1,
+     "hours": 36,
+     "contact": {
+      "total": 36,
+      "lectures": 0,
+      "seminars": 0,
+      "labs": 0,
+      "other": 36
+     },
+     "attestation": null,
+     "extra": "НИРС",
+     "points": null,
+     "events": [
+      {
+       "week": 2,
+       "type": "%"
+      },
+      {
+       "week": 6,
+       "type": "%"
+      },
+      {
+       "week": 8,
+       "type": "%"
+      },
+      {
+       "week": 10,
+       "type": "%"
+      }
+     ]
+    },
+    {
+     "title": "ДВ №3 Обработка и распознавание биометрической информации",
+     "dept": "ИУ3",
+     "ze": 2,
+     "hours": 72,
+     "contact": {
+      "total": 37.8,
+      "lectures": 24,
+      "seminars": 0,
+      "labs": 12,
+      "other": 1.8
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      50,
+      50
+     ],
+     "events": [
+      {
+       "week": 4,
+       "type": "РК"
+      },
+      {
+       "week": 5,
+       "type": "М"
+      },
+      {
+       "week": 10,
+       "type": "РК"
+      },
+      {
+       "week": 12,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Подготовка и защита ВКР",
+     "dept": "ИУ3",
+     "ze": 9,
+     "hours": 324,
+     "contact": {
+      "total": 36.5,
+      "lectures": 0,
+      "seminars": 0,
+      "labs": 0,
+      "other": 36.5
+     },
+     "attestation": null,
+     "extra": null,
+     "points": null,
+     "events": []
+    },
+    {
+     "title": "Преддипломная практика",
+     "dept": "ИУ3",
+     "ze": 2,
+     "hours": 72,
+     "contact": {
+      "total": 72,
+      "lectures": 0,
+      "seminars": 0,
+      "labs": 0,
+      "other": 72
+     },
+     "attestation": null,
+     "extra": "ПП",
+     "points": null,
+     "events": []
+    },
+    {
+     "title": "Разработка мультисервисных приложений для мобильных операционных систем",
+     "dept": "ИУ3",
+     "ze": 2,
+     "hours": 72,
+     "contact": {
+      "total": 38,
+      "lectures": 24,
+      "seminars": 0,
+      "labs": 12,
+      "other": 2
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      50,
+      50
+     ],
+     "events": [
+      {
+       "week": 6,
+       "type": "РК"
+      },
+      {
+       "week": 7,
+       "type": "М"
+      },
+      {
+       "week": 10,
+       "type": "ДЗ"
+      },
+      {
+       "week": 11,
+       "type": "РК"
+      },
+      {
+       "week": 12,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Системы управления в информационных сетях",
+     "dept": "ИУ3",
+     "ze": 3,
+     "hours": 108,
+     "contact": {
+      "total": 63.8,
+      "lectures": 36,
+      "seminars": 12,
+      "labs": 12,
+      "other": 3.8
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      35,
+      35,
+      30
+     ],
+     "events": [
+      {
+       "week": 3,
+       "type": "РК"
+      },
+      {
+       "week": 4,
+       "type": "М"
+      },
+      {
+       "week": 7,
+       "type": "РК"
+      },
+      {
+       "week": 8,
+       "type": "М"
+      },
+      {
+       "week": 11,
+       "type": "РК"
+      },
+      {
+       "week": 12,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Экономика часть 2",
+     "dept": "ИБМ6",
+     "ze": 2,
+     "hours": 72,
+     "contact": {
+      "total": 25.9,
+      "lectures": 24,
+      "seminars": 0,
+      "labs": 0,
+      "other": 1.9
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      30,
+      30,
+      40
+     ],
+     "events": [
+      {
+       "week": 3,
+       "type": "РК"
+      },
+      {
+       "week": 4,
+       "type": "М"
+      },
+      {
+       "week": 7,
+       "type": "РК"
+      },
+      {
+       "week": 8,
+       "type": "М"
+      },
+      {
+       "week": 11,
+       "type": "РК"
+      },
+      {
+       "week": 12,
+       "type": "М"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "program": "09.04.02/02",
+   "groups": [
+    "ИУ3-11М"
+   ],
+   "semester": 1,
+   "weeks": 17,
+   "theory": "01.09.2026 - 29.12.2026",
+   "exams": "30.12.2026 - 24.01.2027",
+   "research": "01.09.2026 - 29.12.2026",
+   "practice": "01.09.2026 - 29.12.2026",
+   "finalAttestation": null,
+   "holidays": "25.01.2027 - 07.02.2027",
+   "disciplines": [
+    {
+     "title": "Анализ и прогнозирование временных рядов",
+     "dept": "ИУ3",
+     "ze": 2,
+     "hours": 72,
+     "contact": {
+      "total": 35.5,
+      "lectures": 17,
+      "seminars": 0,
+      "labs": 17,
+      "other": 1.5
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      34,
+      34,
+      32
+     ],
+     "events": [
+      {
+       "week": 5,
+       "type": "РК"
+      },
+      {
+       "week": 6,
+       "type": "М"
+      },
+      {
+       "week": 11,
+       "type": "РК"
+      },
+      {
+       "week": 12,
+       "type": "М"
+      },
+      {
+       "week": 16,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Иностранный язык",
+     "dept": "Л2",
+     "ze": 2,
+     "hours": 72,
+     "contact": {
+      "total": 38.9,
+      "lectures": 0,
+      "seminars": 34,
+      "labs": 0,
+      "other": 4.9
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      33,
+      33,
+      34
+     ],
+     "events": [
+      {
+       "week": 5,
+       "type": "РК"
+      },
+      {
+       "week": 6,
+       "type": "М"
+      },
+      {
+       "week": 9,
+       "type": "РК"
+      },
+      {
+       "week": 11,
+       "type": "М"
+      },
+      {
+       "week": 14,
+       "type": "РК"
+      },
+      {
+       "week": 16,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Методология научного познания",
+     "dept": "СГН4",
+     "ze": 2,
+     "hours": 72,
+     "contact": {
+      "total": 36.4,
+      "lectures": 34,
+      "seminars": 0,
+      "labs": 0,
+      "other": 2.4
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      50,
+      50
+     ],
+     "events": [
+      {
+       "week": 8,
+       "type": "РК"
+      },
+      {
+       "week": 9,
+       "type": "М"
+      },
+      {
+       "week": 16,
+       "type": "ДЗ"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Научно-исследовательская работа",
+     "dept": "ИУ3",
+     "ze": 8,
+     "hours": 288,
+     "contact": {
+      "total": 288,
+      "lectures": 0,
+      "seminars": 0,
+      "labs": 0,
+      "other": 288
+     },
+     "attestation": null,
+     "extra": "НИРС",
+     "points": null,
+     "events": [
+      {
+       "week": 3,
+       "type": "%"
+      },
+      {
+       "week": 9,
+       "type": "%"
+      },
+      {
+       "week": 12,
+       "type": "%"
+      },
+      {
+       "week": 15,
+       "type": "%"
+      }
+     ]
+    },
+    {
+     "title": "Нейронные сети",
+     "dept": "ИУ3",
+     "ze": 3,
+     "hours": 108,
+     "contact": {
+      "total": 37.9,
+      "lectures": 17,
+      "seminars": 0,
+      "labs": 17,
+      "other": 3.9
+     },
+     "attestation": "экз",
+     "extra": null,
+     "points": [
+      30,
+      40,
+      30
+     ],
+     "events": [
+      {
+       "week": 8,
+       "type": "РК"
+      },
+      {
+       "week": 9,
+       "type": "М"
+      },
+      {
+       "week": 15,
+       "type": "РК"
+      },
+      {
+       "week": 16,
+       "type": "ДЗ"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Педагогическая практика",
+     "dept": "ИУ3",
+     "ze": 2,
+     "hours": 72,
+     "contact": {
+      "total": 72,
+      "lectures": 0,
+      "seminars": 0,
+      "labs": 0,
+      "other": 72
+     },
+     "attestation": null,
+     "extra": "Пр",
+     "points": null,
+     "events": []
+    },
+    {
+     "title": "Программное обеспечение встроенных систем",
+     "dept": "ИУ3",
+     "ze": 3,
+     "hours": 108,
+     "contact": {
+      "total": 54.5,
+      "lectures": 17,
+      "seminars": 17,
+      "labs": 17,
+      "other": 3.5
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      30,
+      30,
+      40
+     ],
+     "events": [
+      {
+       "week": 4,
+       "type": "РК"
+      },
+      {
+       "week": 5,
+       "type": "М"
+      },
+      {
+       "week": 10,
+       "type": "РК"
+      },
+      {
+       "week": 11,
+       "type": "М"
+      },
+      {
+       "week": 16,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Проектирование информационных и телекоммуникационных систем",
+     "dept": "ИУ3",
+     "ze": 5,
+     "hours": 180,
+     "contact": {
+      "total": 42.3,
+      "lectures": 17,
+      "seminars": 0,
+      "labs": 17,
+      "other": 8.3
+     },
+     "attestation": "экз",
+     "extra": "КуР",
+     "points": [
+      20,
+      30,
+      20,
+      30
+     ],
+     "events": [
+      {
+       "week": 3,
+       "type": "%"
+      },
+      {
+       "week": 6,
+       "type": "РК"
+      },
+      {
+       "week": 7,
+       "type": "М"
+      },
+      {
+       "week": 9,
+       "type": "%"
+      },
+      {
+       "week": 11,
+       "type": "РК"
+      },
+      {
+       "week": 12,
+       "type": "М"
+      },
+      {
+       "week": 12,
+       "type": "%"
+      },
+      {
+       "week": 15,
+       "type": "ДЗ"
+      },
+      {
+       "week": 15,
+       "type": "%"
+      },
+      {
+       "week": 16,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Юзабилити",
+     "dept": "ИУ3",
+     "ze": 3,
+     "hours": 108,
+     "contact": {
+      "total": 37.6,
+      "lectures": 17,
+      "seminars": 0,
+      "labs": 17,
+      "other": 3.6
+     },
+     "attestation": "экз",
+     "extra": null,
+     "points": [
+      35,
+      35,
+      30
+     ],
+     "events": [
+      {
+       "week": 8,
+       "type": "РК"
+      },
+      {
+       "week": 9,
+       "type": "М"
+      },
+      {
+       "week": 16,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "program": "09.04.02/02",
+   "groups": [
+    "ИУ3-21М"
+   ],
+   "semester": 2,
+   "weeks": 17,
+   "theory": "08.02.2027 - 11.06.2027",
+   "exams": "15.06.2027 - 28.06.2027",
+   "research": "08.02.2027 - 11.06.2027",
+   "practice": "08.02.2027 - 11.06.2027; 29.06.2027 - 27.07.2027",
+   "finalAttestation": null,
+   "holidays": "28.07.2027 - 31.08.2027",
+   "disciplines": [
+    {
+     "title": "Иностранный язык",
+     "dept": "Л2",
+     "ze": 2,
+     "hours": 72,
+     "contact": {
+      "total": 38.9,
+      "lectures": 0,
+      "seminars": 34,
+      "labs": 0,
+      "other": 4.9
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      33,
+      33,
+      34
+     ],
+     "events": [
+      {
+       "week": 5,
+       "type": "РК"
+      },
+      {
+       "week": 6,
+       "type": "М"
+      },
+      {
+       "week": 9,
+       "type": "РК"
+      },
+      {
+       "week": 11,
+       "type": "М"
+      },
+      {
+       "week": 14,
+       "type": "РК"
+      },
+      {
+       "week": 16,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Методы исследования и моделирования информационных процессов и технологий",
+     "dept": "ИУ3",
+     "ze": 6,
+     "hours": 216,
+     "contact": {
+      "total": 61,
+      "lectures": 17,
+      "seminars": 17,
+      "labs": 17,
+      "other": 10
+     },
+     "attestation": "экз",
+     "extra": "КуР",
+     "points": [
+      20,
+      20,
+      30,
+      30
+     ],
+     "events": [
+      {
+       "week": 3,
+       "type": "%"
+      },
+      {
+       "week": 8,
+       "type": "РК"
+      },
+      {
+       "week": 9,
+       "type": "М"
+      },
+      {
+       "week": 9,
+       "type": "%"
+      },
+      {
+       "week": 12,
+       "type": "%"
+      },
+      {
+       "week": 13,
+       "type": "РК"
+      },
+      {
+       "week": 14,
+       "type": "М"
+      },
+      {
+       "week": 15,
+       "type": "%"
+      },
+      {
+       "week": 16,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Микропроцессорные устройства обработки сигналов",
+     "dept": "ИУ3",
+     "ze": 3,
+     "hours": 108,
+     "contact": {
+      "total": 54.2,
+      "lectures": 34,
+      "seminars": 0,
+      "labs": 17,
+      "other": 3.2
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      32,
+      34,
+      34
+     ],
+     "events": [
+      {
+       "week": 6,
+       "type": "ДЗ"
+      },
+      {
+       "week": 7,
+       "type": "РК"
+      },
+      {
+       "week": 8,
+       "type": "М"
+      },
+      {
+       "week": 10,
+       "type": "ДЗ"
+      },
+      {
+       "week": 11,
+       "type": "РК"
+      },
+      {
+       "week": 12,
+       "type": "М"
+      },
+      {
+       "week": 15,
+       "type": "ДЗ"
+      },
+      {
+       "week": 16,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Научно-исследовательская работа",
+     "dept": "ИУ3",
+     "ze": 3,
+     "hours": 108,
+     "contact": {
+      "total": 108,
+      "lectures": 0,
+      "seminars": 0,
+      "labs": 0,
+      "other": 108
+     },
+     "attestation": null,
+     "extra": "НИРС",
+     "points": null,
+     "events": [
+      {
+       "week": 3,
+       "type": "%"
+      },
+      {
+       "week": 9,
+       "type": "%"
+      },
+      {
+       "week": 12,
+       "type": "%"
+      },
+      {
+       "week": 15,
+       "type": "%"
+      }
+     ]
+    },
+    {
+     "title": "Представление знаний в информационных системах",
+     "dept": "ИУ3",
+     "ze": 4,
+     "hours": 144,
+     "contact": {
+      "total": 72.4,
+      "lectures": 34,
+      "seminars": 17,
+      "labs": 17,
+      "other": 4.4
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      30,
+      40,
+      30
+     ],
+     "events": [
+      {
+       "week": 7,
+       "type": "РК"
+      },
+      {
+       "week": 8,
+       "type": "М"
+      },
+      {
+       "week": 11,
+       "type": "РК"
+      },
+      {
+       "week": 12,
+       "type": "М"
+      },
+      {
+       "week": 16,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Проектно-технологическая практика",
+     "dept": "ИУ3",
+     "ze": 2,
+     "hours": 72,
+     "contact": {
+      "total": 72,
+      "lectures": 0,
+      "seminars": 0,
+      "labs": 0,
+      "other": 72
+     },
+     "attestation": null,
+     "extra": "Пр",
+     "points": null,
+     "events": []
+    },
+    {
+     "title": "Технологическая практика",
+     "dept": "ИУ3",
+     "ze": 4,
+     "hours": 144,
+     "contact": {
+      "total": 144,
+      "lectures": 0,
+      "seminars": 0,
+      "labs": 0,
+      "other": 144
+     },
+     "attestation": null,
+     "extra": "П",
+     "points": null,
+     "events": []
+    },
+    {
+     "title": "Цифровая обработка изображений",
+     "dept": "ИУ3",
+     "ze": 4,
+     "hours": 144,
+     "contact": {
+      "total": 56.9,
+      "lectures": 17,
+      "seminars": 17,
+      "labs": 17,
+      "other": 5.9
+     },
+     "attestation": "экз",
+     "extra": null,
+     "points": [
+      35,
+      35,
+      30
+     ],
+     "events": [
+      {
+       "week": 8,
+       "type": "РК"
+      },
+      {
+       "week": 9,
+       "type": "М"
+      },
+      {
+       "week": 12,
+       "type": "ДЗ"
+      },
+      {
+       "week": 16,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Экономика и управление инновационными проектами",
+     "dept": "ИБМ3",
+     "ze": 2,
+     "hours": 72,
+     "contact": {
+      "total": 36.4,
+      "lectures": 34,
+      "seminars": 0,
+      "labs": 0,
+      "other": 2.4
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      30,
+      30,
+      40
+     ],
+     "events": [
+      {
+       "week": 5,
+       "type": "РК"
+      },
+      {
+       "week": 6,
+       "type": "М"
+      },
+      {
+       "week": 9,
+       "type": "РК"
+      },
+      {
+       "week": 10,
+       "type": "М"
+      },
+      {
+       "week": 14,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "program": "09.04.02/03",
+   "groups": [
+    "ИУ3-12М"
+   ],
+   "semester": 1,
+   "weeks": 17,
+   "theory": "01.09.2026 - 29.12.2026",
+   "exams": "30.12.2026 - 24.01.2027",
+   "research": "01.09.2026 - 29.12.2026",
+   "practice": "01.09.2026 - 29.12.2026",
+   "finalAttestation": null,
+   "holidays": "25.01.2027 - 07.02.2027",
+   "disciplines": [
+    {
+     "title": "Анализ и прогнозирование временных рядов",
+     "dept": "ИУ3",
+     "ze": 2,
+     "hours": 72,
+     "contact": {
+      "total": 35.5,
+      "lectures": 17,
+      "seminars": 0,
+      "labs": 17,
+      "other": 1.5
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      34,
+      34,
+      32
+     ],
+     "events": [
+      {
+       "week": 5,
+       "type": "РК"
+      },
+      {
+       "week": 6,
+       "type": "М"
+      },
+      {
+       "week": 11,
+       "type": "РК"
+      },
+      {
+       "week": 12,
+       "type": "М"
+      },
+      {
+       "week": 16,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Иностранный язык",
+     "dept": "Л2",
+     "ze": 2,
+     "hours": 72,
+     "contact": {
+      "total": 38.9,
+      "lectures": 0,
+      "seminars": 34,
+      "labs": 0,
+      "other": 4.9
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      33,
+      33,
+      34
+     ],
+     "events": [
+      {
+       "week": 5,
+       "type": "РК"
+      },
+      {
+       "week": 6,
+       "type": "М"
+      },
+      {
+       "week": 9,
+       "type": "РК"
+      },
+      {
+       "week": 11,
+       "type": "М"
+      },
+      {
+       "week": 14,
+       "type": "РК"
+      },
+      {
+       "week": 16,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Креативные технологии",
+     "dept": "ИУ3",
+     "ze": 3,
+     "hours": 108,
+     "contact": {
+      "total": 56,
+      "lectures": 0,
+      "seminars": 34,
+      "labs": 17,
+      "other": 4.9
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      30,
+      30,
+      40
+     ],
+     "events": [
+      {
+       "week": 4,
+       "type": "РК"
+      },
+      {
+       "week": 5,
+       "type": "М"
+      },
+      {
+       "week": 10,
+       "type": "РК"
+      },
+      {
+       "week": 11,
+       "type": "М"
+      },
+      {
+       "week": 16,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Методология научного познания",
+     "dept": "СГН4",
+     "ze": 2,
+     "hours": 72,
+     "contact": {
+      "total": 36.4,
+      "lectures": 34,
+      "seminars": 0,
+      "labs": 0,
+      "other": 2.4
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      50,
+      50
+     ],
+     "events": [
+      {
+       "week": 8,
+       "type": "РК"
+      },
+      {
+       "week": 9,
+       "type": "М"
+      },
+      {
+       "week": 16,
+       "type": "ДЗ"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Научно-исследовательская работа",
+     "dept": "ИУ3",
+     "ze": 8,
+     "hours": 288,
+     "contact": {
+      "total": 288,
+      "lectures": 0,
+      "seminars": 0,
+      "labs": 0,
+      "other": 288
+     },
+     "attestation": null,
+     "extra": "НИРС",
+     "points": null,
+     "events": [
+      {
+       "week": 3,
+       "type": "%"
+      },
+      {
+       "week": 9,
+       "type": "%"
+      },
+      {
+       "week": 12,
+       "type": "%"
+      },
+      {
+       "week": 15,
+       "type": "%"
+      }
+     ]
+    },
+    {
+     "title": "Нейронные сети",
+     "dept": "ИУ3",
+     "ze": 3,
+     "hours": 108,
+     "contact": {
+      "total": 37.9,
+      "lectures": 17,
+      "seminars": 0,
+      "labs": 17,
+      "other": 3.9
+     },
+     "attestation": "экз",
+     "extra": null,
+     "points": [
+      30,
+      40,
+      30
+     ],
+     "events": [
+      {
+       "week": 8,
+       "type": "РК"
+      },
+      {
+       "week": 9,
+       "type": "М"
+      },
+      {
+       "week": 15,
+       "type": "РК"
+      },
+      {
+       "week": 16,
+       "type": "ДЗ"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Педагогическая практика",
+     "dept": "ИУ3",
+     "ze": 2,
+     "hours": 72,
+     "contact": {
+      "total": 72,
+      "lectures": 0,
+      "seminars": 0,
+      "labs": 0,
+      "other": 72
+     },
+     "attestation": null,
+     "extra": "Пр",
+     "points": null,
+     "events": []
+    },
+    {
+     "title": "Проектирование игр и геймдизайн",
+     "dept": "ИУ3",
+     "ze": 5,
+     "hours": 180,
+     "contact": {
+      "total": 43.4,
+      "lectures": 0,
+      "seminars": 17,
+      "labs": 17,
+      "other": 9.4
+     },
+     "attestation": "экз",
+     "extra": "КуР",
+     "points": [
+      20,
+      30,
+      20,
+      30
+     ],
+     "events": [
+      {
+       "week": 3,
+       "type": "%"
+      },
+      {
+       "week": 6,
+       "type": "РК"
+      },
+      {
+       "week": 7,
+       "type": "М"
+      },
+      {
+       "week": 9,
+       "type": "%"
+      },
+      {
+       "week": 11,
+       "type": "РК"
+      },
+      {
+       "week": 12,
+       "type": "М"
+      },
+      {
+       "week": 12,
+       "type": "%"
+      },
+      {
+       "week": 15,
+       "type": "ДЗ"
+      },
+      {
+       "week": 15,
+       "type": "%"
+      },
+      {
+       "week": 16,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Юзабилити",
+     "dept": "ИУ3",
+     "ze": 3,
+     "hours": 108,
+     "contact": {
+      "total": 37.6,
+      "lectures": 17,
+      "seminars": 0,
+      "labs": 17,
+      "other": 3.6
+     },
+     "attestation": "экз",
+     "extra": null,
+     "points": [
+      35,
+      35,
+      30
+     ],
+     "events": [
+      {
+       "week": 8,
+       "type": "РК"
+      },
+      {
+       "week": 9,
+       "type": "М"
+      },
+      {
+       "week": 16,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "program": "09.04.02/03",
+   "groups": [
+    "ИУ3-22М"
+   ],
+   "semester": 2,
+   "weeks": 17,
+   "theory": "08.02.2027 - 11.06.2027",
+   "exams": "15.06.2027 - 28.06.2027",
+   "research": "08.02.2027 - 11.06.2027",
+   "practice": "08.02.2027 - 11.06.2027; 29.06.2027 - 27.07.2027",
+   "finalAttestation": null,
+   "holidays": "28.07.2027 - 31.08.2027",
+   "disciplines": [
+    {
+     "title": "Архитектуры игровых движков",
+     "dept": "ИУ3",
+     "ze": 6,
+     "hours": 216,
+     "contact": {
+      "total": 62.5,
+      "lectures": 0,
+      "seminars": 34,
+      "labs": 17,
+      "other": 11.4
+     },
+     "attestation": "экз",
+     "extra": "КуР",
+     "points": [
+      20,
+      20,
+      30,
+      30
+     ],
+     "events": [
+      {
+       "week": 3,
+       "type": "%"
+      },
+      {
+       "week": 8,
+       "type": "РК"
+      },
+      {
+       "week": 9,
+       "type": "М"
+      },
+      {
+       "week": 9,
+       "type": "%"
+      },
+      {
+       "week": 12,
+       "type": "%"
+      },
+      {
+       "week": 13,
+       "type": "РК"
+      },
+      {
+       "week": 14,
+       "type": "М"
+      },
+      {
+       "week": 15,
+       "type": "%"
+      },
+      {
+       "week": 16,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Иностранный язык",
+     "dept": "Л2",
+     "ze": 2,
+     "hours": 72,
+     "contact": {
+      "total": 38.9,
+      "lectures": 0,
+      "seminars": 34,
+      "labs": 0,
+      "other": 4.9
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      33,
+      33,
+      34
+     ],
+     "events": [
+      {
+       "week": 5,
+       "type": "РК"
+      },
+      {
+       "week": 6,
+       "type": "М"
+      },
+      {
+       "week": 9,
+       "type": "РК"
+      },
+      {
+       "week": 11,
+       "type": "М"
+      },
+      {
+       "week": 14,
+       "type": "РК"
+      },
+      {
+       "week": 16,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Нарративный дизайн",
+     "dept": "ИУ3",
+     "ze": 3,
+     "hours": 108,
+     "contact": {
+      "total": 56.7,
+      "lectures": 0,
+      "seminars": 34,
+      "labs": 17,
+      "other": 5.7
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      32,
+      34,
+      34
+     ],
+     "events": [
+      {
+       "week": 6,
+       "type": "ДЗ"
+      },
+      {
+       "week": 7,
+       "type": "РК"
+      },
+      {
+       "week": 8,
+       "type": "М"
+      },
+      {
+       "week": 10,
+       "type": "ДЗ"
+      },
+      {
+       "week": 11,
+       "type": "РК"
+      },
+      {
+       "week": 12,
+       "type": "М"
+      },
+      {
+       "week": 15,
+       "type": "ДЗ"
+      },
+      {
+       "week": 16,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Научно-исследовательская работа",
+     "dept": "ИУ3",
+     "ze": 3,
+     "hours": 108,
+     "contact": {
+      "total": 108,
+      "lectures": 0,
+      "seminars": 0,
+      "labs": 0,
+      "other": 108
+     },
+     "attestation": null,
+     "extra": "НИРС",
+     "points": null,
+     "events": [
+      {
+       "week": 3,
+       "type": "%"
+      },
+      {
+       "week": 9,
+       "type": "%"
+      },
+      {
+       "week": 12,
+       "type": "%"
+      },
+      {
+       "week": 15,
+       "type": "%"
+      }
+     ]
+    },
+    {
+     "title": "Представление знаний в информационных системах",
+     "dept": "ИУ3",
+     "ze": 4,
+     "hours": 144,
+     "contact": {
+      "total": 72.4,
+      "lectures": 34,
+      "seminars": 17,
+      "labs": 17,
+      "other": 4.4
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      30,
+      40,
+      30
+     ],
+     "events": [
+      {
+       "week": 7,
+       "type": "РК"
+      },
+      {
+       "week": 8,
+       "type": "М"
+      },
+      {
+       "week": 11,
+       "type": "РК"
+      },
+      {
+       "week": 12,
+       "type": "М"
+      },
+      {
+       "week": 16,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Проектно-технологическая практика",
+     "dept": "ИУ3",
+     "ze": 2,
+     "hours": 72,
+     "contact": {
+      "total": 72,
+      "lectures": 0,
+      "seminars": 0,
+      "labs": 0,
+      "other": 72
+     },
+     "attestation": null,
+     "extra": "Пр",
+     "points": null,
+     "events": []
+    },
+    {
+     "title": "Технологическая практика",
+     "dept": "ИУ3",
+     "ze": 4,
+     "hours": 144,
+     "contact": {
+      "total": 144,
+      "lectures": 0,
+      "seminars": 0,
+      "labs": 0,
+      "other": 144
+     },
+     "attestation": null,
+     "extra": "П",
+     "points": null,
+     "events": []
+    },
+    {
+     "title": "Цифровая обработка изображений",
+     "dept": "ИУ3",
+     "ze": 4,
+     "hours": 144,
+     "contact": {
+      "total": 56.9,
+      "lectures": 17,
+      "seminars": 17,
+      "labs": 17,
+      "other": 5.9
+     },
+     "attestation": "экз",
+     "extra": null,
+     "points": [
+      35,
+      35,
+      30
+     ],
+     "events": [
+      {
+       "week": 8,
+       "type": "РК"
+      },
+      {
+       "week": 9,
+       "type": "М"
+      },
+      {
+       "week": 12,
+       "type": "ДЗ"
+      },
+      {
+       "week": 16,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    },
+    {
+     "title": "Экономика и управление инновационными проектами",
+     "dept": "ИБМ3",
+     "ze": 2,
+     "hours": 72,
+     "contact": {
+      "total": 36.4,
+      "lectures": 34,
+      "seminars": 0,
+      "labs": 0,
+      "other": 2.4
+     },
+     "attestation": "зач",
+     "extra": null,
+     "points": [
+      30,
+      30,
+      40
+     ],
+     "events": [
+      {
+       "week": 5,
+       "type": "РК"
+      },
+      {
+       "week": 6,
+       "type": "М"
+      },
+      {
+       "week": 9,
+       "type": "РК"
+      },
+      {
+       "week": 10,
+       "type": "М"
+      },
+      {
+       "week": 14,
+       "type": "РК"
+      },
+      {
+       "week": 17,
+       "type": "М"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

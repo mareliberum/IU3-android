@@ -1,0 +1,29 @@
+<resources>
+    <string name="schedule_before">Скоро на учёбу</string>
+    <string name="schedule_cancel">Отмена</string>
+    <string name="schedule_choose">Выбрать</string>
+    <string name="schedule_choose_date">Выбрать дату</string>
+    <string name="schedule_choose_group">Выбрать группу</string>
+    <string name="schedule_denominator">знаменатель</string>
+    <string name="schedule_events">События</string>
+    <string name="schedule_find_group">Например, ИУ3-51Б</string>
+    <string name="schedule_group">Группа</string>
+    <string name="schedule_holidays">Сессия и каникулы</string>
+    <string name="schedule_lab">Лаб.</string>
+    <string name="schedule_lecture">Лек.</string>
+    <string name="schedule_lessons">Пары</string>
+    <string name="schedule_next">Позже</string>
+    <string name="schedule_no_events">Ближайших событий пока нет</string>
+    <string name="schedule_no_lessons">Нет занятий</string>
+    <string name="schedule_numerator">числитель</string>
+    <string name="schedule_other">Занятие</string>
+    <string name="schedule_practice">Прак.</string>
+    <string name="schedule_previous">Раньше</string>
+    <string name="schedule_room">Ауд. %1$s</string>
+    <string name="schedule_schedule">Расписание</string>
+    <string name="schedule_select_group">Выберите группу</string>
+    <string name="schedule_self_study">Сам.</string>
+    <string name="schedule_seminar">Сем.</string>
+    <string name="schedule_today">Сегодня</string>
+    <string name="schedule_week">%1$d неделя, %2$s</string>
+</resources>

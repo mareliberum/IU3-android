@@ -1,0 +1,23 @@
+<resources>
+    <string name="search_achievements">Достижения</string>
+    <string name="search_admissions">Поступающим</string>
+    <string name="search_contacts">Контакты</string>
+    <string name="search_courses">Курсы</string>
+    <string name="search_enter_query">Введите запрос</string>
+    <string name="search_events">События</string>
+    <string name="search_hint">Поиск по кафедре</string>
+    <string name="search_honor">Доска почёта</string>
+    <string name="search_news">Новости</string>
+    <string name="search_nothing">Ничего не найдено</string>
+    <string name="search_plan">Учебный план</string>
+    <string name="search_popular">Популярное</string>
+    <string name="search_popular_teacher">Алфимцев</string>
+    <string name="search_projects">Проекты</string>
+    <string name="search_recent">Недавние запросы</string>
+    <string name="search_remove">Удалить запрос</string>
+    <string name="search_search">Поиск</string>
+    <string name="search_stacks">Стеки</string>
+    <string name="search_teachers">Преподаватели</string>
+    <string name="search_try_again">Попробуйте изменить запрос или проверьте правильность написания</string>
+    <string name="search_clear_query">Очистить запрос</string>
+</resources>

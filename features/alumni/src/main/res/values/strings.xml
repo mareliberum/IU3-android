@@ -1,0 +1,24 @@
+<resources>
+    <string name="alumni_alumni">Выпускникам ИУ3</string>
+    <string name="alumni_become">Стать</string>
+    <string name="alumni_brotherhood">Бауманское братство</string>
+    <string name="alumni_center">Центр выпускников</string>
+    <string name="alumni_chat">Чат выпускников ИУ3</string>
+    <string name="alumni_contact_subject">Помощь кафедре ИУ3</string>
+    <string name="alumni_department_help">Помощь кафедре</string>
+    <string name="alumni_diploma_subject">Руководство или рецензия диплома</string>
+    <string name="alumni_find">Найти</string>
+    <string name="alumni_internship">Стажировка или вакансия</string>
+    <string name="alumni_internship_body">Компания:\nПозиция и требования:\nКонтакт для связи:</string>
+    <string name="alumni_internship_subject">Стажировка для студентов ИУ3</string>
+    <string name="alumni_lecture_body">Тема:\nКомпания:\nКонтакт для связи:</string>
+    <string name="alumni_lecture_subject">Гостевая лекция или мастер-класс</string>
+    <string name="alumni_meeting">Встреча выпускников</string>
+    <string name="alumni_meeting_dates">19 апреля 2025 · 18 апреля 2026\nАпрель %1$d · скоро</string>
+    <string name="alumni_mentoring">Наставничество</string>
+    <string name="alumni_recommendation">Рекомендация на Доску почёта</string>
+    <string name="alumni_students_help">Помощь студентам</string>
+    <string name="alumni_telegram">Telegram</string>
+    <string name="alumni_tell">Рассказать кафедре</string>
+    <string name="alumni_vk">VK</string>
+</resources>

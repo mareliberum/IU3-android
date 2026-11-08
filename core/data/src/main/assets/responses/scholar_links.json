@@ -1,0 +1,3299 @@
+{
+ "source": "OpenAlex, Crossref, ORCID, Google Scholar, ResearchGate, eLibrary, КиберЛенинка; проверено вручную по аффилиации МГТУ им. Н.Э. Баумана",
+ "teachers": {
+  "Алфимцев Александр Николаевич": {
+   "profiles": [
+    {
+     "kind": "researchgate",
+     "url": "https://www.researchgate.net/profile/Alexander_Alfimtsev"
+    },
+    {
+     "kind": "orcid",
+     "url": "https://orcid.org/0000-0002-3805-4499"
+    },
+    {
+     "kind": "dblp",
+     "url": "https://dblp.org/pid/122/6764.html"
+    }
+   ],
+   "links": {
+    "Повышение эффективности поиска информации в интернете на основе формирования метакогнитивной стратегии": "https://doi.org/10.14489/vkit.2022.01.pp.026-036",
+    "Powerpoint Presentation Evaluation Based on Aggregation of Quality Criteria": "https://doi.org/10.4018/ijicte.2021010101",
+    "Выявление аномалий сетевого трафика с использованием ансамбля классификаторов": "https://doi.org/10.14489/vkit.2020.10.pp.038-046",
+    "Защита изображения человека от распознавания нейросетевой системой на основе состязательных примеров": "https://doi.org/10.14489/vkit.2020.02.pp.032-038",
+    "Hostis humani ET mashinae: Adversarial camouflage generation": "https://www.jardcs.org/abstract.php?id=296",
+    "User Interface Distribution Method Based on Pi-Calculus": "https://doi.org/10.4018/ijdst.2019070101",
+    "Выбор агрегирования пользовательских критериев для оценки удобства веб-страниц": "https://doi.org/10.21285/1814-3520-2017-1-90-102",
+    "Адаптивный мобильный пользовательский интерфейс": "https://doi.org/10.25791/asu.7.2022.1374"
+   },
+   "extra": [
+    {
+     "title": "Нейросетевой метод идентификации номинальной эмерджентности в дискретной системе",
+     "type": "journal",
+     "year": 2026,
+     "url": "https://doi.org/10.33693/2313-223X-2026-13-1-114-124"
+    },
+    {
+     "title": "Интерфейс информационной системы по работе со структурированными электронными медицинскими документами",
+     "type": "journal",
+     "year": 2025,
+     "url": "https://doi.org/10.52190/2073-2597_2025_2_33"
+    },
+    {
+     "title": "Повышение эффективности управления беспилотными автомобилями на основе уточнения функции награды в обучении с подкреплением",
+     "type": "journal",
+     "year": 2025,
+     "url": "https://doi.org/10.14489/vkit.2025.06.pp.019-028"
+    },
+    {
+     "title": "Система поддержки принятия решений по подбору персонала",
+     "type": "journal",
+     "year": 2025,
+     "url": "https://doi.org/10.52190/2073-2597_2025_2_38"
+    },
+    {
+     "title": "An Approach to Selecting an E-Commerce Warehouse Location Based on Suitability Maps: The Case of Samara Region",
+     "type": "journal",
+     "year": 2025,
+     "url": "https://doi.org/10.3390/ijgi14090326"
+    },
+    {
+     "title": "Improvement of Computer Science Student’s Online Search by Metacognitive Instructions",
+     "type": "journal",
+     "year": 2025,
+     "url": "https://doi.org/10.28991/ESJ-2025-SIED1-03"
+    },
+    {
+     "title": "Кандидатская диссертация по ИИ: новый вызов цифровой эпохи / PhD Thesis on AI: a New Challenge of the Digital Era",
+     "type": "journal",
+     "year": 2024,
+     "url": "https://doi.org/10.31992/0869-3617-2024-33-4-33-48"
+    },
+    {
+     "title": "Мультиагентная разработка программных средств цифровой обработки изображений",
+     "type": "journal",
+     "year": 2024,
+     "url": "https://doi.org/10.34219/2078-8320-2024-15-5-100-107"
+    },
+    {
+     "title": "Collective Intrinsic Motivation of a Multi-agent System Based on Reinforcement Learning Algorithms",
+     "type": "conference",
+     "year": 2024,
+     "url": "https://doi.org/10.1007/978-3-031-47718-8_42"
+    },
+    {
+     "title": "The «Stag Hunt» Social Dilemma in Multi-Agent Reinforcement Learning",
+     "type": "conference",
+     "year": 2024,
+     "url": "https://doi.org/10.1109/REEPE60449.2024.10479770"
+    },
+    {
+     "title": "Multicriteria Decision Making in Tourism Industry Based on Visualization of Aggregation Operators",
+     "type": "journal",
+     "year": 2024,
+     "url": "https://doi.org/10.3390/asi6050074"
+    },
+    {
+     "title": "Visualization of Bipolar Aggregation Operators Based on a Modified 3D Balance Model",
+     "type": "conference",
+     "year": 2024,
+     "url": "https://doi.org/10.1109/REEPE60449.2024.10479745"
+    },
+    {
+     "title": "Intelligent Analysis of the User Interface of Mobile Applications to Search for Functions and Services",
+     "type": "conference",
+     "year": 2024,
+     "url": "https://doi.org/10.1109/REEPE60449.2024.10479774"
+    },
+    {
+     "title": "Mobile User Interface Adaptation Based on Usability Reward Model and Multi-Agent Reinforcement Learning",
+     "type": "journal",
+     "year": 2024,
+     "url": "https://doi.org/10.3390/mti8040026"
+    },
+    {
+     "title": "Automatic generation of neurocoomics based on computer vision system data",
+     "type": "conference",
+     "year": 2024,
+     "url": "https://doi.org/10.1109/ACDSA59508.2024.10467698"
+    },
+    {
+     "title": "Эмерджентные свойства мультиагентного обучения с подкреплением",
+     "type": "journal",
+     "year": 2023,
+     "url": "https://doi.org/10.26731/2658-3704.2023.1(17).1-10"
+    },
+    {
+     "title": "Иерархический метод кооперативного мультиагентного обучения с подкреплением в марковских процессах принятия решений",
+     "type": "journal",
+     "year": 2023,
+     "url": "https://doi.org/10.31857/S2686954323601501"
+    },
+    {
+     "title": "Мультиагентное обучение с подкреплением с использованием коллективной внутренней мотивации",
+     "type": "journal",
+     "year": 2023,
+     "url": "https://doi.org/10.18698/0236-3933-2023-4-61-84"
+    },
+    {
+     "title": "Подход к поддержке принятия решений по выбору поставщика телекоммуникационного оборудования на основе операторов агрегирования",
+     "type": "journal",
+     "year": 2023,
+     "url": "https://doi.org/10.14489/vkit.2023.11.pp.046-053"
+    },
+    {
+     "title": "Hierarchical Method for Cooperative Multiagent Reinforcement Learning in Markov Decision Processes",
+     "type": "journal",
+     "year": 2023,
+     "url": "https://doi.org/10.1134/S1064562423701132"
+    },
+    {
+     "title": "Hybrid Network Anomaly Detection Based on Weighted Aggregation Using Endpoint Parameters",
+     "type": "conference",
+     "year": 2023,
+     "url": "https://doi.org/10.1007/978-981-99-3091-3_21"
+    },
+    {
+     "title": "MARLMUI: Multi-Agent Reinforcement Learning Approach in Mobile Adaptive User Interface",
+     "type": "conference",
+     "year": 2023,
+     "url": "https://doi.org/10.1109/REEPE57272.2023.10086785"
+    },
+    {
+     "title": "Метод решения социальных дилемм на основе репутации и глубокого мультиагентного обучения с подкреплением",
+     "type": "journal",
+     "year": 2022,
+     "url": "https://doi.org/10.18127/j19998554-202201-01"
+    },
+    {
+     "title": "Выявление сетевых аномалий на основе взвешенного агрегирования с учетом узловых параметров",
+     "type": "journal",
+     "year": 2022,
+     "url": "https://doi.org/10.14489/vkit.2022.07.pp.048-056"
+    },
+    {
+     "title": "Синтез функции награды в обучении с подкреплением средствами когнитивной графики",
+     "type": "journal",
+     "year": 2022,
+     "url": "https://doi.org/10.14489/vkit.2022.08.pp.026-036"
+    },
+    {
+     "title": "Deep Reinforcement Ant Colony Optimization for Swarm Learning",
+     "type": "conference",
+     "year": 2022,
+     "url": "https://doi.org/10.1007/978-3-030-91581-0_2"
+    },
+    {
+     "title": "Network Anomalies Detection Approach Based on Weighted Voting",
+     "type": "journal",
+     "year": 2022,
+     "url": "https://doi.org/10.4018/IJISP.2022010105"
+    },
+    {
+     "title": "Commerce Web-Portal Redesigning Based on Usability Evaluation",
+     "type": "journal",
+     "year": 2021,
+     "url": "https://doi.org/10.4018/IJWP.2021070101"
+    },
+    {
+     "title": "Верификация распределения пользовательского интерфейса на основе пи-исчисления",
+     "type": "journal",
+     "year": 2018,
+     "url": "https://doi.org/10.30987/article_5bd17b42b1a236.42909295"
+    },
+    {
+     "title": "Multicamera Human Re-Identification based on Covariance Descriptor",
+     "type": "journal",
+     "year": 2018,
+     "url": "https://doi.org/10.1134/S1054661818020025"
+    },
+    {
+     "title": "Tracking of Moving Objects with Regeneration of Object Feature Points",
+     "type": "conference",
+     "year": 2018,
+     "url": "https://doi.org/10.1109/GloSIC.2018.8570061"
+    },
+    {
+     "title": "Web Page Interface Optimization Based on Nature-Inspired Algorithms",
+     "type": "journal",
+     "year": 2018,
+     "url": "https://doi.org/10.4018/IJSIR.2018040103"
+    },
+    {
+     "title": "Выбор операторов агрегирования пользовательских критериев для оценки удобства веб-страниц",
+     "type": "journal",
+     "year": 2017,
+     "url": "https://doi.org/10.21285/1814-3520-2017-1-90-102"
+    },
+    {
+     "title": "Селективно-ковариационный метод локализации, классификации и отслеживания людей в видеопотоках от множества видеокамер",
+     "type": "journal",
+     "year": 2016,
+     "url": "https://doi.org/10.18698/0236-3933-2016-6-54-70"
+    },
+    {
+     "title": "Formalization of Expert Knowledge About the Usability of Web Pages Based on User Criteria Aggregation",
+     "type": "journal",
+     "year": 2016,
+     "url": "https://doi.org/10.4018/IJSI.2016070103"
+    },
+    {
+     "title": "Gesture Recognition by Analyzing Muscle Activity",
+     "type": "journal",
+     "year": 2014,
+     "url": "https://doi.org/10.4028/www.scientific.net/AMM.618.410"
+    },
+    {
+     "title": "Нечеткий процессно-ориентированный подход к недетерминированному проектированию интеллектуальных мультимодальных интерфейсов",
+     "type": "journal",
+     "year": 2012,
+     "url": "https://doi.org/10.7463/1112.0495687"
+    },
+    {
+     "title": "Web personalization based on fuzzy aggregation and recognition of user activity",
+     "type": "journal",
+     "year": 2012,
+     "url": "https://doi.org/10.4018/jwp.2012010103"
+    },
+    {
+     "title": "Трансфер знаний для LLM-ориентированных алгоритмов машинного обучения в мультиагентных системах",
+     "type": "journal",
+     "year": 2026,
+     "url": "https://vestnikprib.bmstu.ru/catalog/icec/msoft/1384.html"
+    },
+    {
+     "title": "Технологии высокопроизводительных интеллектуальных систем мультимодальной аналитической обработки разнородных данных",
+     "type": "book",
+     "year": 2025,
+     "url": "https://press.bmstu.ru/catalog/item/8499/"
+    },
+    {
+     "title": "Мультиагентная микросервисная архитектура",
+     "type": "journal",
+     "year": 2025,
+     "url": "https://vestnikprib.bmstu.ru/catalog/icec/msoft/1361.html"
+    },
+    {
+     "title": "Повышение эффективности студенческого поиска информации в контексте проблемного использования интернета",
+     "type": "conference",
+     "year": 2025,
+     "url": null
+    },
+    {
+     "title": "Мультиагентное обучение с подкреплением 2-е изд., испр.",
+     "type": "book",
+     "year": 2022,
+     "url": "https://press.bmstu.ru/catalog/item/7425/"
+    },
+    {
+     "title": "Оптимизация интерфейсов веб-страниц с использованием инспирированных природой алгоритмов",
+     "type": "journal",
+     "year": 2018,
+     "url": null
+    },
+    {
+     "title": "Selective covariance-based human localization, classification and tracking in video streams from multiple cameras",
+     "type": "conference",
+     "year": 2018,
+     "url": "https://www.scopus.com/record/display.uri?eid=2-s2.0-85051714448&amp;origin=resultslist&amp;sort=plf-f&amp;src=s&amp;st1=alfimtsev&amp;st2=&amp;sid=d9581a9876563afb32576183e9786a69&amp;sot=b&amp;sdt=b&amp;sl=22&amp;s=AUTHOR-NAME%28alfimtsev%29&amp;relpos=2&amp;citeCnt=0&amp;searchTerm="
+    },
+    {
+     "title": "Формальная оценка изменений удобства веб-страниц на примере интернет-магазина OZON.RU",
+     "type": "journal",
+     "year": 2017,
+     "url": null
+    },
+    {
+     "title": "Automatic chronological ordering of audio data using spectograms",
+     "type": "journal",
+     "year": 2017,
+     "url": "http://www.jatit.org/volumes/Vol95No21/18Vol95No21.pdf"
+    },
+    {
+     "title": "Автоматизация визуальной оценки городского пейзажа методами компьютерного зрения",
+     "type": "journal",
+     "year": 2016,
+     "url": "http://www.mashin.ru/eshop/journals/avtomatizaciya_i_sovremennye_tehnologii/2020/07/"
+    },
+    {
+     "title": "Гендерные различия в восприятии информации и организации пользовательского интерфейса компьютерных систем",
+     "type": "journal",
+     "year": 2015,
+     "url": null
+    },
+    {
+     "title": "Увеличение конверсии пользовательского интерфейса путём объективного юзабилити-тестирования на основе анализа электроэнцефалограммы пользователя",
+     "type": "journal",
+     "year": 2015,
+     "url": "http://iedtech.ru/journal/2015/1/conversion-increase-usability/"
+    },
+    {
+     "title": "Хронологическое упорядочение аудиофрагментов с использованием двухмерных спектрограмм",
+     "type": "journal",
+     "year": 2015,
+     "url": "http://vestnikprib.bmstu.ru/catalog/iemimis/imsou/784.html"
+    },
+    {
+     "title": "Приемы преподавания дисциплины «Цифровая обработка изображений» в техническом университете",
+     "type": "journal",
+     "year": 2014,
+     "url": "http://engbul.bmstu.ru/doc/711880.html"
+    },
+    {
+     "title": "Пути преодоления баннерной слепоты в Веб-интерфейсах",
+     "type": "journal",
+     "year": 2014,
+     "url": "http://vestnikprib.bmstu.ru/catalog/it/hidden/502.html"
+    },
+    {
+     "title": "Формализация экспертных знаний об удобстве веб-страниц на основе агрегирования пользовательских критериев",
+     "type": "journal",
+     "year": 2014,
+     "url": null
+    },
+    {
+     "title": "Захват и отслеживание удаленных объектов в видеопотоке",
+     "type": "journal",
+     "year": 2013,
+     "url": "http://engjournal.ru/authors/1545.html"
+    },
+    {
+     "title": "Реализация пользовательского интерфейса системы видеомониторинга на основе онтологического подхода",
+     "type": "journal",
+     "year": 2013,
+     "url": "http://www.mfua.ru/ob_akademii/vestnik.php"
+    },
+    {
+     "title": "Сравнение методологий разработки систем интеллектуального взаимодействия",
+     "type": "journal",
+     "year": 2013,
+     "url": "http://vestnikmgsu.ru/files/archive/ru/issues/VestnikMGSU_last.pdf"
+    },
+    {
+     "title": "Измерение расстояния до движущегося объекта с помощью комплексной системы видеомониторинга",
+     "type": "journal",
+     "year": 2013,
+     "url": "http://engjournal.ru/catalog/it/hidden/996.html"
+    },
+    {
+     "title": "Problems of Choquet Integral Practical Applications",
+     "type": "journal",
+     "year": 2013,
+     "url": "http://portalgaruda.org/journals/index.php/IJEEI"
+    },
+    {
+     "title": "Математическое описание бизнес-процесса с помощью пи-исчисления",
+     "type": "journal",
+     "year": 2012,
+     "url": "http://sntbul.bmstu.ru/doc/458023.html"
+    },
+    {
+     "title": "Метод отслеживания транспортных средств в видеопотоке",
+     "type": "journal",
+     "year": 2012,
+     "url": null
+    },
+    {
+     "title": "Недетерминированное проектирование интеллектуальных мультимодальных интерфейсов",
+     "type": "journal",
+     "year": 2012,
+     "url": null
+    },
+    {
+     "title": "Персонализация в гипертекствых сетях на основе распознавания действий пользователей и нечеткого агрегирования",
+     "type": "journal",
+     "year": 2012,
+     "url": null
+    },
+    {
+     "title": "Принципы формализации методологии детерминированного проектирования интеллектуального мультимодального интерфейса",
+     "type": "journal",
+     "year": 2012,
+     "url": null
+    },
+    {
+     "title": "Разработка пользовательского интерфейса комплексной системы видеомониторинга",
+     "type": "journal",
+     "year": 2012,
+     "url": null
+    },
+    {
+     "title": "Алгоритмы определения положения в локальных беспроводных сетях",
+     "type": "journal",
+     "year": 2012,
+     "url": "http://sntbul.bmstu.ru/doc/458066.html"
+    },
+    {
+     "title": "Проблемы определения пола и возраста человека по фотографии с помощью обучающихся моделей",
+     "type": "journal",
+     "year": 2012,
+     "url": "http://sntbul.bmstu.ru/doc/458028.html"
+    },
+    {
+     "title": "Алгоритм размещения видеокамер и его программная реализация",
+     "type": "journal",
+     "year": 2012,
+     "url": null
+    },
+    {
+     "title": "Алгоритм распознавания объектов",
+     "type": "journal",
+     "year": 2012,
+     "url": null
+    },
+    {
+     "title": "Оценка сложности алгоритма автоматического расположения видеокамер системы наблюдения",
+     "type": "journal",
+     "year": 2012,
+     "url": "http://sntbul.bmstu.ru/doc/458038.html"
+    },
+    {
+     "title": "К вопросу о практическом применении нечетких мер и интеграла Шоке",
+     "type": "journal",
+     "year": 2012,
+     "url": null
+    },
+    {
+     "title": "Развитие метода определения весов для взвешенного зонного ранжирования в информационном поиске",
+     "type": "journal",
+     "year": 2012,
+     "url": null
+    },
+    {
+     "title": "Автоматическое принятие решений в информационном модуле покерного агента",
+     "type": "journal",
+     "year": 2012,
+     "url": "http://sntbul.bmstu.ru/doc/458227.html"
+    },
+    {
+     "title": "Методы современного искусственного интеллекта в борьбе против классических коррупционных схем в Российской Федерации",
+     "type": "journal",
+     "year": 2012,
+     "url": "http://sntbul.bmstu.ru/doc/458247.html"
+    },
+    {
+     "title": "The properties of intelligent human-machine interface",
+     "type": "journal",
+     "year": 2012,
+     "url": null
+    },
+    {
+     "title": "Нечеткая конечно-автоматная модель интеллектуального мультимодального интерфейса",
+     "type": "journal",
+     "year": 2011,
+     "url": null
+    }
+   ]
+  },
+  "Тихомирова Елизавета Алексеевна": {
+   "profiles": [],
+   "links": {
+    "Карл Фридрих Гаусс (240-летие со дня рождения)": "https://doi.org/10.24108/0917.0001302",
+    "Идентификация передаточной функции динамической системы по результатам эксперимента": "https://doi.org/10.7463/0517.0001249",
+    "Генрих Рудольф Герц (160-летие со дня рождения)": "https://doi.org/10.7463/0517.0001233",
+    "Томас Альва Эдисон (170-летие со дня рождения)": "https://doi.org/10.7463/0217.0000963",
+    "Борис Павлович Грабовский (1901-1966)": "https://doi.org/10.7463/1216.0853204",
+    "К. В. Памяти С.И. Катаева (1904 - 1991)": "https://doi.org/10.7463/1016.0849238",
+    "Лев Сергеевич Термен (120-летие со дня рождения)": "https://doi.org/10.7463/1116.0850377"
+   },
+   "extra": [
+    {
+     "title": "Интерфейс информационной системы по работе со структурированными электронными медицинскими документами",
+     "type": "journal",
+     "year": 2025,
+     "url": "https://doi.org/10.52190/2073-2597_2025_2_33"
+    },
+    {
+     "title": "Система поддержки принятия решений по подбору персонала",
+     "type": "journal",
+     "year": 2025,
+     "url": "https://doi.org/10.52190/2073-2597_2025_2_38"
+    },
+    {
+     "title": "Идентификация динамической системы с зоной нечувствительности упругого элемента и квадратичным трением",
+     "type": "journal",
+     "year": 2023,
+     "url": "https://doi.org/10.18127/j0700814-202301-01"
+    },
+    {
+     "title": "Идентификация динамической системы с зоной нечувствительности упругого элемента и сухим трением по годографам",
+     "type": "journal",
+     "year": 2022,
+     "url": "https://doi.org/10.30987/2782-5957-2022-7-9-18"
+    },
+    {
+     "title": "Идентификация параметров динамической системы с зоной нечувствительности упругого элемента с сухим и вязким трением",
+     "type": "journal",
+     "year": 2022,
+     "url": "https://doi.org/10.18127/j19997493-202201-06"
+    },
+    {
+     "title": "Идентификация нелинейной системы с зоной нечувствительности упругого элемента",
+     "type": "journal",
+     "year": 2021,
+     "url": "https://doi.org/10.18127/j19997493-202104-05"
+    },
+    {
+     "title": "Выявление значимых признаков противоправных текстов",
+     "type": "journal",
+     "year": 2020,
+     "url": "https://doi.org/10.21681/2311-3456-2020-04-76-84"
+    },
+    {
+     "title": "Сравнительный анализ специальных корпусов текстов для задач безопасности",
+     "type": "journal",
+     "year": 2020,
+     "url": "https://doi.org/10.21681/2311-3456-2020-03-58-65"
+    },
+    {
+     "title": "Идентификация параметров динамического гасителя колебаний с сухим трением",
+     "type": "journal",
+     "year": 2019,
+     "url": "https://doi.org/10.18127/j19997493-201901-10"
+    },
+    {
+     "title": "Минимизация резонансных колебаний в системе с переменной структурой",
+     "type": "journal",
+     "year": 2018,
+     "url": "https://doi.org/10.18127/j19997493-201804-08"
+    },
+    {
+     "title": "На заре радиосвязи",
+     "type": "journal",
+     "year": 2017,
+     "url": "https://doi.org/10.7463/0617.0001273"
+    },
+    {
+     "title": "Шарль Огюстен Кулон (280 лет со дня рождения)",
+     "type": "journal",
+     "year": 2016,
+     "url": "https://doi.org/10.7463/0616.0842567"
+    },
+    {
+     "title": "Идентификация нелинейных динамических систем, имеющих в своём составе несколько нелинейностей",
+     "type": "journal",
+     "year": 2015,
+     "url": "https://doi.org/10.7463/0715.0789774"
+    },
+    {
+     "title": "Метод повышения точности идентификации при экспериментальных испытаниях динамический объектов",
+     "type": "journal",
+     "year": 2015,
+     "url": "https://doi.org/10.7463/0915.0810583"
+    },
+    {
+     "title": "Андре-Мари Ампер (к 240-летию со дня рождения)",
+     "type": "journal",
+     "year": 2015,
+     "url": "https://doi.org/10.7463/0115.0755871"
+    },
+    {
+     "title": "Павел Васильевич Шмаков (1885 – 1982)",
+     "type": "journal",
+     "year": 2015,
+     "url": "https://doi.org/10.7463/1115.0822281"
+    },
+    {
+     "title": "Памяти Бенджамина Франклина (1706 – 1790)",
+     "type": "journal",
+     "year": 2015,
+     "url": "https://doi.org/10.7463/0415.0770515"
+    },
+    {
+     "title": "Памяти Оливера Хевисайда (1850 – 1925)",
+     "type": "journal",
+     "year": 2015,
+     "url": "https://doi.org/10.7463/0215.0757600"
+    },
+    {
+     "title": "Идентификация нелинейных динамических систем с заданными типами нелинейности по годографам",
+     "type": "journal",
+     "year": 2014,
+     "url": "https://doi.org/10.7463/1014.0727229"
+    },
+    {
+     "title": "Метод гармонической линеаризации в задаче идентификации нелинейных динамических систем",
+     "type": "journal",
+     "year": 2014,
+     "url": "https://doi.org/10.7463/0414.0704613"
+    },
+    {
+     "title": "Оценка точности работы методики автоматизированной идентификации лексем с применением виртуальных текстов",
+     "type": "journal",
+     "year": 2013,
+     "url": "https://doi.org/10.7463/0813.0583389"
+    },
+    {
+     "title": "Основы теории управления и цифровой обработки сигналов. Лабораторная работа 1 \"Простейшие динамические звенья\"",
+     "type": "book",
+     "year": 2025,
+     "url": "https://press.bmstu.ru/catalog/item/8569/"
+    },
+    {
+     "title": "Интерфейс системы \"1С: Предприятие\" и организация базы данных нового предприятия",
+     "type": "book",
+     "year": 2025,
+     "url": "https://press.bmstu.ru/catalog/item/8372/"
+    },
+    {
+     "title": "Создание конфигурации для организации заданного учёта на малом предприятии в среде пакета \"1С: Предприятие\"",
+     "type": "book",
+     "year": 2025,
+     "url": "https://press.bmstu.ru/catalog/item/8601/"
+    },
+    {
+     "title": "Памяти Эмиля Берлинера (1851 – 1929)",
+     "type": "journal",
+     "year": 2014,
+     "url": "http://technomag.bmstu.ru/doc/722845.html"
+    }
+   ]
+  },
+  "Локтев Даниил Алексеевич": {
+   "profiles": [
+    {
+     "kind": "orcid",
+     "url": "https://orcid.org/0000-0002-8742-7837"
+    }
+   ],
+   "links": {
+    "Image Blur Simulation for the Estimation of the Behavior of Real Objects by Monitoring Systems": "https://doi.org/10.5281/zenodo.7562515",
+    "Mathematical Modeling of Blur of Object in Image for Using It as Information Criterion": "https://doi.org/10.1007/978-3-030-81619-3_30",
+    "Снижение влияния человеческого фактора на основе определения эмоционального состояния работника путем обработки его изображений": "https://ntt.elpub.ru/jour/article/view/196",
+    "Определение состояния грунтового массива с помощью обработки изображений, полученных георадаром": "https://doi.org/10.25791/aviakosmos.12.2021.1256",
+    "Возможность определения усталости оператора путем обработки серии его изображений": "https://doi.org/10.25791/pribor.6.2021.1267",
+    "Image blurring function as an informative criterion": "https://doi.org/10.1007/978-3-030-57450-5_16"
+   },
+   "extra": [
+    {
+     "title": "Modeling the Propagation of Acoustic Disturbances from Motor Vehicles",
+     "type": "conference",
+     "year": 2026,
+     "url": "https://doi.org/10.1109/ICIEAM69213.2026.11549763"
+    },
+    {
+     "title": "Determining the strained state of structures by using the optical fiber monitoring system through the example of transport infrastructure facilities",
+     "type": "journal",
+     "year": 2026,
+     "url": "https://doi.org/10.1108/MEQ-05-2025-0370"
+    },
+    {
+     "title": "Analysis of the influence of different arrangements of software receptors in the retinal simulation module layer on the ability of a neural network to recognize images",
+     "type": "conference",
+     "year": 2026,
+     "url": "https://doi.org/10.1109/ICIICE69672.2026.11565244"
+    },
+    {
+     "title": "Обзор методов детекции изображений, сгенерированных диффузионными моделями, на основе анализа низкоуровневых признаков",
+     "type": "journal",
+     "year": 2025,
+     "url": "https://doi.org/10.25791/asu.9.2025.1612"
+    },
+    {
+     "title": "Мера размытия как информативный параметр при решении задач распознавания объектов",
+     "type": "journal",
+     "year": 2025,
+     "url": "https://doi.org/10.25791/asu.8.2025.1602"
+    },
+    {
+     "title": "Influence of Defects in Railway Transport System on Increase of Noise Exposure",
+     "type": "conference",
+     "year": 2025,
+     "url": "https://doi.org/10.1109/REEPE63962.2025.10970857"
+    },
+    {
+     "title": "An Approach to Developing an Information System for Medical Diagnostics of a Patient",
+     "type": "conference",
+     "year": 2025,
+     "url": "https://doi.org/10.1109/REEPE63962.2025.10971078"
+    },
+    {
+     "title": "Image Blur as an Informative Parameter in Solving Object Recognition Problems",
+     "type": "conference",
+     "year": 2025,
+     "url": "https://doi.org/10.1109/ICECET63943.2025.11472529"
+    },
+    {
+     "title": "Wi-Fi Signal Propagation Modeling",
+     "type": "conference",
+     "year": 2025,
+     "url": "https://doi.org/10.1109/REEPE63962.2025.10971051"
+    },
+    {
+     "title": "Обзор методов обнаружения, отслеживания и классификации объектов в ограниченном пространстве",
+     "type": "journal",
+     "year": 2024,
+     "url": "https://doi.org/10.25791/asu.3.2024.1495"
+    },
+    {
+     "title": "Stabilization of a Dynamic Video Stream Taking Into Account Vehicle Movement Characteristics",
+     "type": "conference",
+     "year": 2024,
+     "url": "https://doi.org/10.1109/REEPE60449.2024.10479789"
+    },
+    {
+     "title": "Моделирование воздействия городского рельсового транспорта на окружающую застройку",
+     "type": "journal",
+     "year": 2023,
+     "url": "https://doi.org/10.15593/24111678/2023.01.07"
+    },
+    {
+     "title": "Развитие волоконно-оптических технологий для определения деформаций объектов искусственных сооружений в железнодорожной отрасли",
+     "type": "journal",
+     "year": 2023,
+     "url": "https://doi.org/10.25791/asu.2.2023.1419"
+    },
+    {
+     "title": "Determination of rail deformations using fiber optic technologies",
+     "type": "conference",
+     "year": 2023,
+     "url": "https://doi.org/10.1051/e3sconf/202338905045"
+    },
+    {
+     "title": "Automation of the Behavioral Safety Audit of a Transport Operator Based on the Recognition of His Emotional State in Real Time",
+     "type": "conference",
+     "year": 2023,
+     "url": "https://doi.org/10.1109/REEPE57272.2023.10086820"
+    },
+    {
+     "title": "Determination of Deformations of Transport Infrastructure Objects Using Optical Information Technologies",
+     "type": "conference",
+     "year": 2023,
+     "url": "https://doi.org/10.1109/REEPE57272.2023.10086799"
+    },
+    {
+     "title": "Determining the Dynamic Characteristics of Moving Vehicles Using Image Blur Analysis",
+     "type": "conference",
+     "year": 2023,
+     "url": "https://doi.org/10.1109/REEPE57272.2023.10086893"
+    },
+    {
+     "title": "Измерительная волоконнооптическая система мониторинга рельсовых плетей железнодорожного пути",
+     "type": "journal",
+     "year": 2022,
+     "url": "https://doi.org/10.25791/asu.10.2022.1388"
+    },
+    {
+     "title": "Алгоритм определения параметров основания зданий и сооружений с помощью обработки георадиолокационных изображений",
+     "type": "journal",
+     "year": 2022,
+     "url": "https://doi.org/10.25791/pribor.4.2022.1331"
+    },
+    {
+     "title": "Особенности динамического поведения пролетного строения низководных мостов",
+     "type": "journal",
+     "year": 2022,
+     "url": "https://doi.org/10.15593/24111678/2022.02.09"
+    },
+    {
+     "title": "Автоматизация поведенческого аудита на основе распознавания эмоций человека с использованием нейронной сети",
+     "type": "journal",
+     "year": 2022,
+     "url": "https://doi.org/10.25791/asu.10.2022.1390"
+    },
+    {
+     "title": "The System Simulating the State of the Objects and the Process of Their Monitoring with the Help of the Convolutional Neural Network",
+     "type": "journal",
+     "year": 2022,
+     "url": "https://doi.org/10.15866/iremos.v15i1.19567"
+    },
+    {
+     "title": "Preservation of human capital by achieving the \"zero\" indicator in labor protection in transport",
+     "type": "conference",
+     "year": 2022,
+     "url": "https://doi.org/10.1016/j.trpro.2022.06.203"
+    },
+    {
+     "title": "Автоматизация диагностирования верхнего строения железнодорожного пути на основе обработки его изображений",
+     "type": "journal",
+     "year": 2020,
+     "url": "https://doi.org/10.25791/pribor.08.2020.1195"
+    },
+    {
+     "title": "Верификация пользователя на основе анализа его первичного и вторичного изображений в автоматизированных системах контроля",
+     "type": "journal",
+     "year": 2020,
+     "url": "https://doi.org/10.34832/ELSV2020.2.1.011"
+    },
+    {
+     "title": "Исследование пограничного слоя визуального образа объекта для определения его характеристик",
+     "type": "journal",
+     "year": 2020,
+     "url": "https://doi.org/10.22184/2227-572X.2020.10.5.418.422"
+    },
+    {
+     "title": "Моделирование системы мониторинга объектов с использованием сверточной нейронной сети",
+     "type": "journal",
+     "year": 2020,
+     "url": "https://doi.org/10.25791/asu.9.2020.1219"
+    },
+    {
+     "title": "Определение характеристик движущихся объектов с использованием \"контролируемого\" размытия изображения",
+     "type": "journal",
+     "year": 2020,
+     "url": "https://doi.org/10.18698/0236-3933-2020-2-98-116"
+    },
+    {
+     "title": "Оценка параметров состояния объектов по их образам в системах неразрушающего контроля",
+     "type": "journal",
+     "year": 2020,
+     "url": "https://doi.org/10.25791/pribor.10.2020.1212"
+    },
+    {
+     "title": "Размытие образа как информативный параметр состояния объекта исследования",
+     "type": "journal",
+     "year": 2020,
+     "url": "https://doi.org/10.18127/j20700814-202004-09"
+    },
+    {
+     "title": "Способ получения информации об объекте на основе анализа его изображений",
+     "type": "journal",
+     "year": 2020,
+     "url": "https://doi.org/10.25728/datsys.2020.3.5"
+    },
+    {
+     "title": "Защита изображения человека от распознавания нейросетевой системой на основе состязательных примеров",
+     "type": "journal",
+     "year": 2020,
+     "url": "https://doi.org/10.14489/vkit.2020.02.pp.032-038"
+    },
+    {
+     "title": "Counter-rail special profile for new generation railroad switch",
+     "type": "conference",
+     "year": 2020,
+     "url": "https://doi.org/10.1007/978-3-030-19756-8_54"
+    },
+    {
+     "title": "New lining with cushion for energy efficient railway turnouts",
+     "type": "conference",
+     "year": 2020,
+     "url": "https://doi.org/10.1007/978-3-030-19756-8_53"
+    },
+    {
+     "title": "Modeling of railway track sections on approaches to constructive works and selection of track parameters for its normal functioning",
+     "type": "conference",
+     "year": 2020,
+     "url": "https://doi.org/10.1007/978-3-030-19756-8_30"
+    },
+    {
+     "title": "Perspective Constructions of Bridge Crossings on Transport Lines",
+     "type": "conference",
+     "year": 2020,
+     "url": "https://doi.org/10.1007/978-3-030-37919-3_20"
+    },
+    {
+     "title": "Automated System for Monitoring the Upper Structure of the Railway Track for Extreme Arctic Conditions",
+     "type": "conference",
+     "year": 2020,
+     "url": "https://doi.org/10.1007/978-981-15-0450-1_21"
+    },
+    {
+     "title": "Calculating model allowing to keep the authenticity of transport infrastructure objects",
+     "type": "conference",
+     "year": 2020,
+     "url": "https://doi.org/10.1088/1757-899X/918/1/012013"
+    },
+    {
+     "title": "Image processing of transport objects using neural networks",
+     "type": "conference",
+     "year": 2020,
+     "url": "https://doi.org/10.1051/e3sconf/202016403036"
+    },
+    {
+     "title": "The system of facial recognition in the infrared range",
+     "type": "journal",
+     "year": 2020,
+     "url": "https://doi.org/10.26552/com.c.2020.1.95-101"
+    },
+    {
+     "title": "Система распознавания лиц в инфракрасном диапазоне",
+     "type": "journal",
+     "year": 2019,
+     "url": "https://doi.org/10.18127/j19997493-201902-02"
+    },
+    {
+     "title": "Recognition of objects in infrared band",
+     "type": "conference",
+     "year": 2019,
+     "url": "https://doi.org/10.1051/e3sconf/201913502029"
+    },
+    {
+     "title": "User Verification Based on the Analysis of His Images in the Distance Learning System",
+     "type": "conference",
+     "year": 2019,
+     "url": "https://doi.org/10.12753/2066-026X-19-142"
+    },
+    {
+     "title": "Energy efficiency of temperature distribution in electromagnetic welding of rolling stock parts",
+     "type": "conference",
+     "year": 2019,
+     "url": "https://doi.org/10.1051/e3sconf/201911001017"
+    },
+    {
+     "title": "Влияние формы светового импульса на параметры функционирования волоконно-оптической линии связи",
+     "type": "journal",
+     "year": 2018,
+     "url": "https://doi.org/10.24411/2072-8735-2018-10134"
+    },
+    {
+     "title": "Вязкоупругое демпфирование элементов мостовых переходов при динамическом воздействии",
+     "type": "journal",
+     "year": 2018,
+     "url": "https://doi.org/10.18127/j20700970-201805-04"
+    },
+    {
+     "title": "Построение математической модели перспективной конструкции мостотоннеля для пропуска легкового автотранспорта",
+     "type": "journal",
+     "year": 2018,
+     "url": "https://doi.org/10.15862/15SATS118"
+    },
+    {
+     "title": "Возможность увеличения интенсивности использования объектов транспортной инфраструктуры, являющихся памятниками истории и архитектуры, в области регионального туризма",
+     "type": "journal",
+     "year": 2018,
+     "url": "https://doi.org/10.15862/23SATS418"
+    },
+    {
+     "title": "Метод определения динамических параметров транспортных средств в автоматизированной системе мониторинга и измерений",
+     "type": "journal",
+     "year": 2018,
+     "url": "https://doi.org/10.18127/j19997493-201803-05"
+    },
+    {
+     "title": "Calculation of track component failure caused by the most dangerous defects on change of their design and operational conditions",
+     "type": "conference",
+     "year": 2018,
+     "url": "https://doi.org/10.1051/matecconf/201823901054"
+    },
+    {
+     "title": "The possibility of increasing the bandwidth of fiber-optic communication lines",
+     "type": "conference",
+     "year": 2018,
+     "url": "https://doi.org/10.1109/MWENT.2018.8337243"
+    },
+    {
+     "title": "An Aggregated Method for Determining Railway Defects and Obstacle Parameters",
+     "type": "conference",
+     "year": 2018,
+     "url": "https://doi.org/10.1088/1757-899X/317/1/012021"
+    },
+    {
+     "title": "Diagnostics of External Defects of Railway Infrastructure by Analysis of its Images",
+     "type": "conference",
+     "year": 2018,
+     "url": "https://doi.org/10.1109/GloSIC.2018.8570083"
+    },
+    {
+     "title": "Моделирование температурных полей при наплавке с использованием линейного источника тепла",
+     "type": "journal",
+     "year": 2017,
+     "url": "https://doi.org/10.15862/02TS417"
+    },
+    {
+     "title": "Особенности развития риск-ориентированного подхода на железной дороге",
+     "type": "journal",
+     "year": 2017,
+     "url": "https://doi.org/10.15862/08TS417"
+    },
+    {
+     "title": "Turbine Blades Profile and Surface Roughness Measurement",
+     "type": "conference",
+     "year": 2017,
+     "url": "https://doi.org/10.1016/j.proeng.2017.10.664"
+    },
+    {
+     "title": "Determination of object location by analyzing the image blur",
+     "type": "journal",
+     "year": 2015,
+     "url": "https://doi.org/10.12988/ces.2015.52198"
+    },
+    {
+     "title": "Development of a user interface for an integrated system of video monitoring based on ontologies",
+     "type": "journal",
+     "year": 2015,
+     "url": "https://doi.org/10.12988/ces.2015.57196"
+    },
+    {
+     "title": "Использование Python и Excel для автоматизации анализа инженерных данных",
+     "type": "conference",
+     "year": 2026,
+     "url": "https://press.bmstu.ru/catalog/item/8645/"
+    },
+    {
+     "title": "Мультимедиа технологии. Лабораторная работа № 5. Разработка мультимедийных приложений под операционную систему «Аврора»",
+     "type": "book",
+     "year": 2025,
+     "url": "https://press.bmstu.ru/catalog/item/8501/"
+    },
+    {
+     "title": "Разработка мультисервисных приложений для мобильных операционных систем. Лабораторная работа № 3. Разработка мобильного приложения под операционную систему «Аврора»",
+     "type": "book",
+     "year": 2025,
+     "url": "https://press.bmstu.ru/catalog/item/8487/"
+    },
+    {
+     "title": "Численный метод определения деформированного состояния элементов конструкций объектов транспортной инфраструктуры на основе применения волоконно-оптической системы мониторинга",
+     "type": "journal",
+     "year": 2025,
+     "url": null
+    },
+    {
+     "title": "Оценка возможности защиты от акустического шума в условиях развития городских агломераций",
+     "type": "journal",
+     "year": 2025,
+     "url": null
+    },
+    {
+     "title": "Основные меры по совершенствованию системы наставничества",
+     "type": "journal",
+     "year": 2025,
+     "url": null
+    },
+    {
+     "title": "Формирование культуры безопасности труда в транспортной отрасли",
+     "type": "journal",
+     "year": 2025,
+     "url": null
+    },
+    {
+     "title": "Влияние модуля имитации сетчатки глаза человека на качество распознавания образов нейронной сетью",
+     "type": "journal",
+     "year": 2025,
+     "url": "https://vestnikprib.bmstu.ru/catalog/icec/msoft/1377.html"
+    },
+    {
+     "title": "Предварительная обработка изображений с помощью модуля имитации сетчатки",
+     "type": "conference",
+     "year": 2025,
+     "url": "https://press.bmstu.ru/catalog/item/8490/"
+    },
+    {
+     "title": "Способы защиты от шумового воздействия на железнодорожном и трамвайном транспорте",
+     "type": "journal",
+     "year": 2024,
+     "url": null
+    },
+    {
+     "title": "Распознавание речевых эмоций человека с помощью нейронных сетей",
+     "type": "journal",
+     "year": 2024,
+     "url": null
+    },
+    {
+     "title": "Использование нейронных сетей для распознавания объектов в транспортной отрасли",
+     "type": "journal",
+     "year": 2024,
+     "url": null
+    },
+    {
+     "title": "Метод стабилизации видео с использованием параметров движения транспортного средства",
+     "type": "journal",
+     "year": 2024,
+     "url": null
+    },
+    {
+     "title": "Моделирование и графические возможности языков программирования 2-е изд., испр.",
+     "type": "book",
+     "year": 2024,
+     "url": "https://press.bmstu.ru/catalog/item/8171/"
+    },
+    {
+     "title": "Разработка кроссплатформенного мобильного приложения для работы с картами 2-е изд., испр.",
+     "type": "book",
+     "year": 2024,
+     "url": "https://press.bmstu.ru/catalog/item/8237/"
+    },
+    {
+     "title": "Стабилизация видеопотока с учетом колебаний транспортного средства",
+     "type": "journal",
+     "year": 2024,
+     "url": null
+    },
+    {
+     "title": "Протокол удаленного вызова процедур JSON — RPC 2-е изд., испр.",
+     "type": "book",
+     "year": 2024,
+     "url": "https://press.bmstu.ru/catalog/item/8170/"
+    },
+    {
+     "title": "Основы моделирования в автоматизированном программном комплексе AUTOCAD самостоятельное электронное издание",
+     "type": "book",
+     "year": 2024,
+     "url": "https://rusneb.ru/catalog/000199_000009_013195553/?ysclid=maqtsp2fzq421145268"
+    },
+    {
+     "title": "Информатика 2-е издание, исправленное",
+     "type": "book",
+     "year": 2023,
+     "url": "https://press.bmstu.ru/catalog/item/7982/"
+    },
+    {
+     "title": "Представление культуры офисного корпоративного здоровья в качестве одного из направлений достижения нулевого травматизма",
+     "type": "journal",
+     "year": 2022,
+     "url": null
+    },
+    {
+     "title": "Влияние факторов занятий спортом на качество и производительность труда в транспортной отрасли",
+     "type": "journal",
+     "year": 2021,
+     "url": null
+    },
+    {
+     "title": "Возможность определения усталости работника при обработке серии его изображений",
+     "type": "journal",
+     "year": 2021,
+     "url": null
+    },
+    {
+     "title": "Значение железнодорожных сооружений в развитии регионального туризма",
+     "type": "journal",
+     "year": 2020,
+     "url": null
+    },
+    {
+     "title": "Моделирование функции размытия образов на изображениях, используемых в системах мониторинга транспортных объектов",
+     "type": "journal",
+     "year": 2020,
+     "url": null
+    },
+    {
+     "title": "Представление функции размытия изображения в виде информативного параметра состояния и поведения анализируемого объекта",
+     "type": "journal",
+     "year": 2020,
+     "url": null
+    },
+    {
+     "title": "Влияние факторов занятия спортом на укрепление здоровья работника в целях безопасного труда",
+     "type": "journal",
+     "year": 2020,
+     "url": null
+    },
+    {
+     "title": "Участок переменной жесткости на основе разрядно-импульсной технологии",
+     "type": "journal",
+     "year": 2019,
+     "url": null
+    },
+    {
+     "title": "Влияние проведения аудита на информационную безопасность предприятий",
+     "type": "journal",
+     "year": 2019,
+     "url": null
+    },
+    {
+     "title": "Моделирование транспортных средств для определения параметров их движения и состояния путем обработки серии изображений",
+     "type": "journal",
+     "year": 2019,
+     "url": null
+    },
+    {
+     "title": "Автоматизированное распознавание поверхностных дефектов верхнего строения пути с использованием примитивов Хаара и модифицированного алгоритма Лукаса-Канаде",
+     "type": "journal",
+     "year": 2019,
+     "url": null
+    },
+    {
+     "title": "Возможность распознавания лиц в инфракрасном диапазоне",
+     "type": "journal",
+     "year": 2019,
+     "url": null
+    },
+    {
+     "title": "Применение модифицированного алгоритма Лукаса-Канаде и примитивов Хаара в системе мониторинга состояния железнодорожного пути",
+     "type": "journal",
+     "year": 2019,
+     "url": null
+    },
+    {
+     "title": "Безопасный труд как основа государственно-частного партнерства на железной дороге",
+     "type": "journal",
+     "year": 2019,
+     "url": null
+    },
+    {
+     "title": "Особенности развития социального партнерства в высших учебных заведениях",
+     "type": "journal",
+     "year": 2019,
+     "url": null
+    },
+    {
+     "title": "Возможность совершенствования системы диагностики железнодорожного пути на примере московского метрополитена",
+     "type": "journal",
+     "year": 2019,
+     "url": null
+    },
+    {
+     "title": "Использование логики тайлов при анализе эргономичности интерфейсов в системах диагностирования объектов",
+     "type": "journal",
+     "year": 2019,
+     "url": null
+    },
+    {
+     "title": "Реализация технологии блокчейн в системах хранения данных об объектах путевого хозяйства",
+     "type": "journal",
+     "year": 2019,
+     "url": null
+    },
+    {
+     "title": "Hostis humani ET mashinae: Adversarial camouflage generation",
+     "type": "journal",
+     "year": 2019,
+     "url": null
+    },
+    {
+     "title": "Determination of the dynamic vehicle model parameters by means of computer vision",
+     "type": "journal",
+     "year": 2019,
+     "url": "http://komunikacie.uniza.sk/index.php/communications/article/view/1501"
+    },
+    {
+     "title": "Использование объектов промышленных предприятий, имеющих признаки памятников истории и архитектуры, для организации региональных коворкинг-центров",
+     "type": "journal",
+     "year": 2018,
+     "url": null
+    },
+    {
+     "title": "Определение габаритов транспортных средств и их положения на проезжей части в системе видеомониторинга",
+     "type": "journal",
+     "year": 2018,
+     "url": null
+    },
+    {
+     "title": "Определение типа автотранспортных средств и параметров их движения в автоматизированной системе мониторинга",
+     "type": "journal",
+     "year": 2018,
+     "url": null
+    },
+    {
+     "title": "Социальное партнерство при организации взаимодействия промышленных предприятий и ОАО \"РЖД\"",
+     "type": "journal",
+     "year": 2018,
+     "url": null
+    },
+    {
+     "title": "Риск-ориентированный подход как основа системы управления охраной труда",
+     "type": "journal",
+     "year": 2018,
+     "url": null
+    },
+    {
+     "title": "Социальное партнерство - фундамент риск - ориентированного подхода в охране труда на транспорте",
+     "type": "journal",
+     "year": 2018,
+     "url": null
+    },
+    {
+     "title": "Автоматизированная система выявления дефектов колес подвижного состава на основе оценки ударного неосесимметричного воздействия колеса на рельс при моделировании верхнего строения пути ортотропной пластиной",
+     "type": "journal",
+     "year": 2017,
+     "url": null
+    },
+    {
+     "title": "К задаче проектирования модуля визуального распознавания элементов верхнего строения пути на высокоскоростных магистралях",
+     "type": "journal",
+     "year": 2017,
+     "url": null
+    },
+    {
+     "title": "Выявление и детектирование внешних дефектов верхнего строения пути агрегированным методом на основе стереозрения и анализа размытия образа",
+     "type": "journal",
+     "year": 2017,
+     "url": null
+    },
+    {
+     "title": "Детектирование движущихся объектов в высокошумовом видеопотоке, получаемом системой ультразвукового мониторинга",
+     "type": "journal",
+     "year": 2017,
+     "url": null
+    },
+    {
+     "title": "Безопасность труда в транспортной отрасли",
+     "type": "journal",
+     "year": 2017,
+     "url": null
+    },
+    {
+     "title": "Социальное партнерство как инструмент увеличения безопасности труда в транспортной отрасли",
+     "type": "journal",
+     "year": 2017,
+     "url": null
+    },
+    {
+     "title": "Повышение информативности оценки содержания железнодорожного пути",
+     "type": "journal",
+     "year": 2017,
+     "url": null
+    },
+    {
+     "title": "Организация доступа через браузер к виртуальному прибору LabVIEW",
+     "type": "journal",
+     "year": 2016,
+     "url": "http://old.technomag.edu.ru/doc/845237.html"
+    },
+    {
+     "title": "Использование метода анализа размытия изображения для определения внешних дефектов железнодорожного пути",
+     "type": "journal",
+     "year": 2016,
+     "url": null
+    },
+    {
+     "title": "Оценка измерений расстояния до объекта при исследовании его графического образа",
+     "type": "journal",
+     "year": 2015,
+     "url": "http://vestnikmgsu.ru/index.php/ru/archive"
+    },
+    {
+     "title": "Определение параметров объекта по серии его изображений в комплексной системе мониторинга",
+     "type": "journal",
+     "year": 2015,
+     "url": null
+    },
+    {
+     "title": "Реализация пользовательского интерфейса системы видеомониторинга на основе онтологического подхода",
+     "type": "journal",
+     "year": 2013,
+     "url": "http://www.mfua.ru/ob_akademii/vestnik.php"
+    },
+    {
+     "title": "Сравнение методологий разработки систем интеллектуального взаимодействия",
+     "type": "journal",
+     "year": 2013,
+     "url": "http://vestnikmgsu.ru/files/archive/ru/issues/VestnikMGSU_last.pdf"
+    },
+    {
+     "title": "Разработка пользовательского интерфейса комплексной системы видеомониторинга",
+     "type": "journal",
+     "year": 2012,
+     "url": null
+    },
+    {
+     "title": "Алгоритм размещения видеокамер и его программная реализация",
+     "type": "journal",
+     "year": 2012,
+     "url": null
+    },
+    {
+     "title": "Алгоритм распознавания объектов",
+     "type": "journal",
+     "year": 2012,
+     "url": null
+    },
+    {
+     "title": "Оценка сложности алгоритма автоматического расположения видеокамер системы наблюдения",
+     "type": "journal",
+     "year": 2012,
+     "url": "http://sntbul.bmstu.ru/doc/458038.html"
+    }
+   ]
+  },
+  "Амурский Владислав Брониславович": {
+   "profiles": [],
+   "links": {},
+   "extra": [
+    {
+     "title": "Frequency distribution of media content in the HTML tags representation",
+     "type": "conference",
+     "year": 2024,
+     "url": "https://doi.org/10.30932/9785002446094-2024-107-110"
+    },
+    {
+     "title": "Частотное распределение медиаконтента в представлении тегов HTML",
+     "type": "conference",
+     "year": 2024,
+     "url": "https://doi.org/10.30932/9785002446094-2024-107-110"
+    }
+   ]
+  },
+  "Асмарян Альберт Эдуардович": {
+   "profiles": [],
+   "links": {},
+   "extra": [
+    {
+     "title": "Research of Multichannel User Data to Identify the Degree of Similarity",
+     "type": "book",
+     "year": 2019,
+     "url": "https://doi.org/10.4018/978-1-5225-8188-8.ch002"
+    },
+    {
+     "title": "Smart Ads for Better User Targeting",
+     "type": "book",
+     "year": 2019,
+     "url": "https://doi.org/10.4018/978-1-5225-8188-8.ch003"
+    },
+    {
+     "title": "Smart Advertising",
+     "type": "book",
+     "year": 2018,
+     "url": "https://doi.org/10.4018/978-1-5225-7116-2.ch028"
+    },
+    {
+     "title": "Social and Location Analysis for Similarity Assessment",
+     "type": "journal",
+     "year": 2016,
+     "url": "https://doi.org/10.4018/ijitn.2016100103"
+    },
+    {
+     "title": "Smart Advertising",
+     "type": "journal",
+     "year": 2016,
+     "url": "https://doi.org/10.4018/ijitn.2016100102"
+    },
+    {
+     "title": "On a Way to the Self-Optimizing LTE Networks",
+     "type": "journal",
+     "year": 2014,
+     "url": "https://doi.org/10.4028/www.scientific.net/amm.618.538"
+    },
+    {
+     "title": "Методы оптимизации беспроводных сетей четвертого поколения",
+     "type": "journal",
+     "year": 2013,
+     "url": "https://web.archive.org/web/20160815184348/http://sntbul.bmstu.ru/doc/635706.html",
+     "pinned": true
+    }
+   ]
+  },
+  "Бабкин Павел Сергеевич": {
+   "profiles": [],
+   "links": {
+    "Анализ и сравнение объективных методов оценки качества изображений.": "https://doi.org/10.7463/0914.0726368",
+    "Исследование методов объективной оценки качества тепловизионных изображений": "https://cyberleninka.ru/article/n/issledovanie-metodov-obektivnoy-otsenki-kachestva-teplovizionnyh-izobrazheniy"
+   },
+   "extra": [
+    {
+     "title": "Применение двухточечного метода калибровки для тепловизионных матриц фирмы ULIS",
+     "type": "journal",
+     "year": 2017,
+     "url": "https://doi.org/10.7463/rdopt.0615.0820469"
+    }
+   ]
+  },
+  "Баскаков Сергей Сергеевич": {
+   "profiles": [
+    {
+     "kind": "researchgate",
+     "url": "https://www.researchgate.net/profile/Sergey-Baskakov-2"
+    }
+   ],
+   "links": {
+    "The technology of a long-term environmental monitoring of gas emission in the Arctic region of Russia by WSN equipment": "https://ceur-ws.org/Vol-2527/short1.pdf"
+   },
+   "extra": [
+    {
+     "title": "The Experimental WSN Network for Underground Monitoring H2 Abundance in the Mine Atmosphere Karnasurt Mine Lovozero Layered Alkaline Intrusion",
+     "type": "journal",
+     "year": 2020,
+     "url": "https://doi.org/10.30564/jeisr.v1i2.1656"
+    },
+    {
+     "title": "Использование технологий беспроводных сенсорных сетей для создания автономного долговременного мониторинга эмиссии литосферных газов в условиях Арктики",
+     "type": "journal",
+     "year": 2017,
+     "url": null
+    },
+    {
+     "title": "Локализация объектов в беспроводных сенсорных сетях",
+     "type": "journal",
+     "year": 2012,
+     "url": "http://sntbul.bmstu.ru/doc/458206.html"
+    }
+   ]
+  },
+  "Большаков Владислав Эдуардович": {
+   "profiles": [],
+   "links": {},
+   "extra": [
+    {
+     "title": "Collective Intrinsic Motivation of a Multi-agent System Based on Reinforcement Learning Algorithms",
+     "type": "conference",
+     "year": 2024,
+     "url": "https://doi.org/10.1007/978-3-031-47718-8_42"
+    },
+    {
+     "title": "Иерархический метод кооперативного мультиагентного обучения с подкреплением в марковских процессах принятия решений",
+     "type": "journal",
+     "year": 2023,
+     "url": "https://doi.org/10.31857/S2686954323601501"
+    },
+    {
+     "title": "Мультиагентное обучение с подкреплением с использованием коллективной внутренней мотивации",
+     "type": "journal",
+     "year": 2023,
+     "url": "https://doi.org/10.18698/0236-3933-2023-4-61-84"
+    },
+    {
+     "title": "Hierarchical Method for Cooperative Multiagent Reinforcement Learning in Markov Decision Processes",
+     "type": "journal",
+     "year": 2023,
+     "url": "https://doi.org/10.1134/S1064562423701132"
+    },
+    {
+     "title": "Mathematical modeling and predicting of the addiction of tobacco smoking among female students of medical university",
+     "type": "journal",
+     "year": 2022,
+     "url": "https://doi.org/10.26347/1607-2502202209-10021-025"
+    }
+   ]
+  },
+  "Боровик Ирина Геннадьевна": {
+   "profiles": [],
+   "links": {},
+   "extra": [
+    {
+     "title": "Современные алгоритмы обнаружения малых объектов с их частичным перекрытием",
+     "type": "journal",
+     "year": 2024,
+     "url": "https://doi.org/10.5281/zenodo.11490219"
+    },
+    {
+     "title": "Сравнение функций активации softmax и сигмоида в контексте многоклассовой классификации распознавания объектов",
+     "type": "journal",
+     "year": 2024,
+     "url": "https://doi.org/10.60797/IRJ.2024.144.174"
+    },
+    {
+     "title": "Универсальная архитектура хранилища данных для CRM систем",
+     "type": "journal",
+     "year": 2024,
+     "url": null
+    },
+    {
+     "title": "Частотное распределение медиаконтента в представлении тегов HTML",
+     "type": "conference",
+     "year": 2024,
+     "url": "https://doi.org/10.30932/9785002446094-2024-107-110"
+    },
+    {
+     "title": "Практическая разработка информационной системы",
+     "type": "book",
+     "year": 2023,
+     "url": "https://press.bmstu.ru/catalog/item/7959/"
+    },
+    {
+     "title": "Идентификация динамической системы с зоной нечувствительности упругого элемента и квадратичным трением",
+     "type": "journal",
+     "year": 2023,
+     "url": null
+    },
+    {
+     "title": "Автоматизация бизнес-процессов в компании",
+     "type": "journal",
+     "year": 2023,
+     "url": null
+    },
+    {
+     "title": "Идентификация динамической системы с зоной нечувствительности упругого элемента и сухим трением по годографам",
+     "type": "journal",
+     "year": 2022,
+     "url": "https://doi.org/10.30987/2782-5957-2022-7-9-18"
+    },
+    {
+     "title": "Идентификация параметров динамической системы с зоной нечувствительности упругого элемента с сухим и вязким трением",
+     "type": "journal",
+     "year": 2022,
+     "url": "https://doi.org/10.18127/j19997493-202201-06"
+    },
+    {
+     "title": "Разработка информационной системы с использованием объектно-ориентированных технологий",
+     "type": "book",
+     "year": 2021,
+     "url": "https://press.bmstu.ru/catalog/item/7106/"
+    },
+    {
+     "title": "Идентификация нелинейной системы с зоной нечувствительности упругого элемента",
+     "type": "journal",
+     "year": 2021,
+     "url": "https://doi.org/10.18127/j19997493-202104-05"
+    },
+    {
+     "title": "Применение нейронных сетей для графологического анализа почерка",
+     "type": "journal",
+     "year": 2020,
+     "url": "https://moluch.ru/archive/312/70702/"
+    },
+    {
+     "title": "Research of Multichannel User Data to Identify the Degree of Similarity",
+     "type": "book",
+     "year": 2019,
+     "url": "https://doi.org/10.4018/978-1-5225-8188-8.ch002"
+    },
+    {
+     "title": "Smart Ads for Better User Targeting",
+     "type": "book",
+     "year": 2019,
+     "url": "https://doi.org/10.4018/978-1-5225-8188-8.ch003"
+    },
+    {
+     "title": "Smart Advertising",
+     "type": "book",
+     "year": 2018,
+     "url": "https://doi.org/10.4018/978-1-5225-7116-2.ch028"
+    },
+    {
+     "title": "Модуль подавления шумов для систем звукозаписи",
+     "type": "journal",
+     "year": 2017,
+     "url": "https://moluch.ru/archive/150/42662/"
+    },
+    {
+     "title": "Smart Advertising",
+     "type": "journal",
+     "year": 2016,
+     "url": "https://doi.org/10.4018/ijitn.2016100102"
+    },
+    {
+     "title": "Social and Location Analysis for Similarity Assessment",
+     "type": "journal",
+     "year": 2016,
+     "url": "https://doi.org/10.4018/ijitn.2016100103"
+    },
+    {
+     "title": "Обнаружение и ведение движущихся объектов на примере спортивного мероприятия",
+     "type": "journal",
+     "year": 2016,
+     "url": "https://moluch.ru/archive/110/26905/"
+    },
+    {
+     "title": "Прогнозирование индивидуальных черт характера человека на основе анализа почерка",
+     "type": "journal",
+     "year": 2016,
+     "url": "https://moluch.ru/archive/115/30584/"
+    },
+    {
+     "title": "Использование нейросетевого подхода для верификации рукописной подписи",
+     "type": "journal",
+     "year": 2016,
+     "url": "https://moluch.ru/archive/115/30581/"
+    },
+    {
+     "title": "On a Way to the Self-Optimizing LTE Networks",
+     "type": "journal",
+     "year": 2014,
+     "url": "https://doi.org/10.4028/www.scientific.net/amm.618.538"
+    }
+   ]
+  },
+  "Боровик Константин": {
+   "profiles": [
+    {
+     "kind": "orcid",
+     "url": "https://orcid.org/0009-0002-1198-4941"
+    }
+   ],
+   "links": {},
+   "extra": [
+    {
+     "title": "Neural network-based method for identifying nominal emergence in a discrete system",
+     "type": "journal",
+     "year": 2026,
+     "url": "https://doi.org/10.33693/2313-223x-2026-13-1-114-124"
+    }
+   ]
+  },
+  "Варфоломеев Александр Алексеевич": {
+   "profiles": [
+    {
+     "kind": "website",
+     "url": "https://home.mephi.ru/en/users/14059/public"
+    }
+   ],
+   "links": {
+    "On the comparison of methods for asymmetric execution of cryptographic primitives and protocols in the context of using small parameters and short keys": "https://doi.org/10.1007/s11416-021-00407-w",
+    "Extended Classification of Signature-only Signature Models": "https://doi.org/10.1109/elconrus51938.2021.9396682",
+    "About Asymmetric Execution of the Asymmetric ElGamal Cipher": "https://doi.org/10.1109/eiconrus49466.2020.9039508"
+   },
+   "extra": [
+    {
+     "title": "Некоторые рекомендации по повышению стойкости шифра с малым размером ключа к методу полного опробования",
+     "type": "journal",
+     "year": 2015,
+     "url": "http://cyberrus.com/wp-content/uploads/2015/12/60-62-513-15_12.-Варфоломеев.pdf"
+    },
+    {
+     "title": "О схемах «анонимной цифровой подписи» и схемах цифровой подписи, обеспечивающих анонимность",
+     "type": "journal",
+     "year": 2015,
+     "url": null
+    }
+   ]
+  },
+  "Величко Никита Алексеевич": {
+   "profiles": [],
+   "links": {},
+   "extra": [
+    {
+     "title": "Reward Shaping based on Information Design in Multi-Agent Reinforcement Learning",
+     "type": "conference",
+     "year": 2025,
+     "url": "https://doi.org/10.1109/reepe63962.2025.10971091"
+    },
+    {
+     "title": "Distributed Multi-Agent Reinforcement Learning Based on Feudal Networks",
+     "type": "conference",
+     "year": 2024,
+     "url": "https://doi.org/10.1109/reepe60449.2024.10479775"
+    }
+   ]
+  },
+  "Видьманов Дмитрий Александрович": {
+   "profiles": [
+    {
+     "kind": "google_scholar",
+     "url": "https://scholar.google.com/citations?hl=ru&user=kLMKK_UAAAAJ"
+    },
+    {
+     "kind": "orcid",
+     "url": "https://orcid.org/0000-0001-6453-8764"
+    },
+    {
+     "kind": "scopus",
+     "url": "https://www.scopus.com/authid/detail.uri?authorId=56825962500"
+    }
+   ],
+   "links": {
+    "Адаптивный мобильный пользовательский интерфейс": "https://doi.org/10.25791/asu.7.2022.1374",
+    "Визуализация академической успеваемости в электронных таблицах облачных сервисов с использованием веб-приложения и мобильных устройств": "https://doi.org/10.25791/pribor.3.2022.1327",
+    "Организация доступа через браузер к виртуальному прибору LabVIEW": "https://cyberleninka.ru/article/n/organizatsiya-dostupa-cherez-brauzer-k-virtualnomu-priboru-labview"
+   },
+   "extra": [
+    {
+     "title": "Программные средства адаптивного пользовательского интерфейса на основе межпроцессного взаимодействия в отечественной мобильной ОС Аврора",
+     "type": "journal",
+     "year": 2025,
+     "url": "https://doi.org/10.34219/2078-8320-2025-16-4-122-134"
+    },
+    {
+     "title": "Generative User Interface for the Mobile Apps: Image Synthesis with VAEs, GANs, and Stable Diffusion",
+     "type": "conference",
+     "year": 2025,
+     "url": "https://doi.org/10.1109/REEPE63962.2025.10970899"
+    },
+    {
+     "title": "Implementation of a Neural Network Model on the Aurora Operating System Using ARM Architecture",
+     "type": "conference",
+     "year": 2025,
+     "url": "https://doi.org/10.1109/REEPE63962.2025.10970852"
+    },
+    {
+     "title": "Intelligent Analysis of the User Interface of Mobile Applications to Search for Functions and Services",
+     "type": "conference",
+     "year": 2024,
+     "url": "https://doi.org/10.1109/REEPE60449.2024.10479774"
+    },
+    {
+     "title": "Mobile User Interface Adaptation Based on Usability Reward Model and Multi-Agent Reinforcement Learning",
+     "type": "journal",
+     "year": 2024,
+     "url": "https://doi.org/10.3390/mti8040026"
+    },
+    {
+     "title": "MARLMUI: Multi-Agent Reinforcement Learning Approach in Mobile Adaptive User Interface",
+     "type": "conference",
+     "year": 2023,
+     "url": "https://doi.org/10.1109/REEPE57272.2023.10086785"
+    },
+    {
+     "title": "Мультимедиа технологии. Лабораторная работа № 5. Разработка мультимедийных приложений под операционную систему «Аврора»",
+     "type": "book",
+     "year": 2025,
+     "url": "https://press.bmstu.ru/catalog/item/8501/"
+    },
+    {
+     "title": "Разработка мультисервисных приложений для мобильных операционных систем. Лабораторная работа № 3. Разработка мобильного приложения под операционную систему «Аврора»",
+     "type": "book",
+     "year": 2025,
+     "url": "https://press.bmstu.ru/catalog/item/8487/"
+    },
+    {
+     "title": "Моделирование и графические возможности языков программирования 2-е изд., испр.",
+     "type": "book",
+     "year": 2024,
+     "url": "https://press.bmstu.ru/catalog/item/8171/"
+    },
+    {
+     "title": "Разработка кроссплатформенного мобильного приложения для работы с картами 2-е изд., испр.",
+     "type": "book",
+     "year": 2024,
+     "url": "https://press.bmstu.ru/catalog/item/8237/"
+    },
+    {
+     "title": "Разработка пользовательского интерфейса с помощью специализированных библиотек на примере планировщика задач",
+     "type": "journal",
+     "year": 2024,
+     "url": null
+    },
+    {
+     "title": "Разработка информационной системы управления мероприятиями с использованием RSS запросов и алгоритма логического анализа данных",
+     "type": "journal",
+     "year": 2024,
+     "url": null
+    },
+    {
+     "title": "Информатика 2-е издание, исправленное",
+     "type": "book",
+     "year": 2023,
+     "url": "https://press.bmstu.ru/catalog/item/7982/"
+    },
+    {
+     "title": "Моделирование процесса подводного резания грунтов с помощью виртуального прибора в среде LabVIEW и пример визуализации задачи",
+     "type": "journal",
+     "year": 2018,
+     "url": null
+    },
+    {
+     "title": "Исследование погрешностей модульно-рейтинговой системы оценивания компетенций при помощи аппроксимирующей функции",
+     "type": "journal",
+     "year": 2017,
+     "url": null
+    }
+   ]
+  },
+  "Выхованец Валерий Святославович": {
+   "profiles": [
+    {
+     "kind": "orcid",
+     "url": "https://orcid.org/0000-0001-8269-6520"
+    },
+    {
+     "kind": "website",
+     "url": "http://valery.vykhovanets.ru"
+    }
+   ],
+   "links": {
+    "Понятийный анализ и понятийное моделирование": "http://ubs.mtas.ru/search/search_results_ubs_new.php?publication_id=22950",
+    "Intelligent Information Systems Based on Notional Models Without Relationships": "https://doi.org/10.1007/978-3-030-80478-7_3",
+    "Large-Scale Information Systems based on Conceptual Models": "https://doi.org/10.1109/MLSD.2019.8911106",
+    "Обзор алгоритмов фонетического кодирования": "https://doi.org/10.25728/ubs.2018.73.4",
+    "Ортохаотическая передача данных": "http://jre.cplire.ru/jre/dec17/4/abstract.html",
+    "Отложенная слоговая сегментация и распознавание слитной речи": "https://cyberleninka.ru/article/n/otlozhennaya-slogovaya-segmentatsiya-pri-raspoznavanii-slitnoy-rechi",
+    "Совмещенные сети управления и данных": "https://cyberleninka.ru/article/n/sovmeschennye-seti-upravleniya-i-dannyh",
+    "Оценка трудности и сложности учебных задач на основе синтаксического анализа текстов": "https://cyberleninka.ru/article/n/otsenka-trudnosti-i-slozhnosti-uchebnyh-zadach-na-osnove-sintaksicheskogo-analiza-tekstov"
+   },
+   "extra": [
+    {
+     "title": "Концептуальный и понятийный анализы: общий подход",
+     "type": "journal",
+     "year": 2025,
+     "url": "https://doi.org/10.18287/2223-9537-2025-15-1-34-44"
+    },
+    {
+     "title": "Понятийная модель знаний",
+     "type": "journal",
+     "year": 2024,
+     "url": "https://doi.org/10.14357/20718594240302"
+    },
+    {
+     "title": "Управление конфигурацией продукции",
+     "type": "journal",
+     "year": 2024,
+     "url": "https://doi.org/10.36652/0869-4931-2024-78-7-317-321"
+    },
+    {
+     "title": "Методика понятийного анализа сложных предметных областей",
+     "type": "journal",
+     "year": 2022,
+     "url": "https://doi.org/10.18127/j19998465-202208-07"
+    },
+    {
+     "title": "The Knowledge Description Language",
+     "type": "conference",
+     "year": 2021,
+     "url": "https://doi.org/10.1109/MLSD52249.2021.9600103"
+    },
+    {
+     "title": "The Notional Model of Knowledge Representation",
+     "type": "conference",
+     "year": 2021,
+     "url": "https://doi.org/10.1088/1742-6596/1864/1/012058"
+    },
+    {
+     "title": "An Overview of Phonetic Encoding Algorithms",
+     "type": "journal",
+     "year": 2020,
+     "url": "https://doi.org/10.1134/S0005117920100082"
+    },
+    {
+     "title": "Using syntactic text analysis to estimate educational tasks' difficulty and complexity",
+     "type": "journal",
+     "year": 2016,
+     "url": "https://doi.org/10.1134/S0005117916010100"
+    },
+    {
+     "title": "Analytical identification of discrete objects",
+     "type": "journal",
+     "year": 2011,
+     "url": "https://doi.org/10.1134/S0005117911070174"
+    },
+    {
+     "title": "Формализованная экспертная оценка качества образовательных мультимедиа-ресурсов",
+     "type": "journal",
+     "year": 2017,
+     "url": "http://journals.istu.edu/vestnik_irgtu/journals/2017/09/articles/07"
+    },
+    {
+     "title": "Корпусной подход к идентификации социальных и экологических явлений",
+     "type": "journal",
+     "year": 2013,
+     "url": "http://engbul.bmstu.ru/doc/645453.html"
+    },
+    {
+     "title": "Динамическое управление бизнес-процессами на основе совмещенных сетей управления и данных",
+     "type": "journal",
+     "year": 2013,
+     "url": "http://engjournal.ru/catalog/mathmodel/social/530.html"
+    }
+   ]
+  },
+  "Гончар Константин Валерьевич": {
+   "profiles": [],
+   "links": {},
+   "extra": [
+    {
+     "title": "Разработка рекомендательных систем для повышения эффективности регулируемых закупок в электроэнергетике",
+     "type": "journal",
+     "year": 2025,
+     "url": "https://doi.org/10.17323/2587-814X.2025.2.25.40"
+    },
+    {
+     "title": "Инструменты развития конкурентной среды в регулируемых закупках Дальневосточного региона",
+     "type": "journal",
+     "year": 2025,
+     "url": "https://doi.org/10.37791/2687-0657-2025-19-6-76-93"
+    },
+    {
+     "title": "Анализ факторов незакрытая торгов по госзакупкам лекарственных препаратов",
+     "type": "journal",
+     "year": 2024,
+     "url": "https://doi.org/10.47711/0868-6351-203-178-191"
+    },
+    {
+     "title": "Analysis of factors of failure of public procurement of medicines",
+     "type": "journal",
+     "year": 2024,
+     "url": "https://doi.org/10.1134/S1075700724020023"
+    },
+    {
+     "title": "Совершенствование методологии оценки экономической эффективности государственных закупок лекарственных средств",
+     "type": "journal",
+     "year": 2023,
+     "url": "https://doi.org/10.31107/2075-1990-2023-4-63-81"
+    },
+    {
+     "title": "Консерватизм, мобильность, изоляция: подход к исследованию поведения агентов рынка государственных закупок",
+     "type": "journal",
+     "year": 2023,
+     "url": "https://doi.org/10.31857/S042473880026993-1"
+    },
+    {
+     "title": "Конкурентные стратегии участников торгов по госзакупкам",
+     "type": "journal",
+     "year": 2022,
+     "url": "https://doi.org/10.37791/2687-0657-2022-16-3-91-104"
+    },
+    {
+     "title": "Исследование влияния особых условий госзакупок для малого и среднего бизнеса на ключевые параметры торгов",
+     "type": "journal",
+     "year": 2021,
+     "url": "https://doi.org/10.46486/0234-4505-2021-11-108-125"
+    },
+    {
+     "title": "От стагнации к суверенитету: госзакупки как фактор экономической безопасности Дальнего Востока",
+     "type": "journal",
+     "year": 2025,
+     "url": null
+    },
+    {
+     "title": "Инновационные подходы к обучению ИТ-специалистов для цифровой экономики",
+     "type": "book",
+     "year": 2024,
+     "url": "https://book.ru/books/954658"
+    },
+    {
+     "title": "Исследование рисков расторжения контрактов, заключенных по результатам госзакупок",
+     "type": "journal",
+     "year": 2022,
+     "url": null
+    },
+    {
+     "title": "Архитектура информационной системы раннего предупреждения киберугроз с использованием методов DataMining и WebUsageMining",
+     "type": "journal",
+     "year": 2019,
+     "url": null
+    }
+   ]
+  },
+  "Гребенюк Елена Алексеевна": {
+   "profiles": [],
+   "links": {
+    "Construction of Multi-step Price Forecasts in Commodity Markets Based on Qualitative and Quantitative Data Analysis Methods": "https://doi.org/10.1007/978-3-030-85874-2_68",
+    "Forecasting of Key Indicators of the Manufacturing System in Changing External Environment": "https://doi.org/10.1016/j.ifacol.2020.12.2851",
+    "Monitoring and identification of structural shifts in processes with a unit root": "https://doi.org/10.1109/MLSD49919.2020.9247829",
+    "Comparative Analysis of the Efficiency of Multi-Dimensional and Unbound One-Dimensional Control Charts Used for Process Indicator Change Tracking": "https://doi.org/10.1134/S0005117920020149"
+   },
+   "extra": [
+    {
+     "title": "Моделирование бизнес-процесса закупки изделий у известных поставщиков",
+     "type": "journal",
+     "year": 2026,
+     "url": "https://doi.org/10.56584/1560-8816-2026-3-57-60"
+    },
+    {
+     "title": "Формирование среднесрочных помесячных прогнозов цен на сырье на основе экспертной и количественной информации",
+     "type": "journal",
+     "year": 2022,
+     "url": "https://doi.org/10.25728/avtprom.2022.05.10"
+    },
+    {
+     "title": "Cognitive modelling-driven time series forecasting for predicting target indicators in non-stationary Processes",
+     "type": "conference",
+     "year": 2021,
+     "url": "https://doi.org/10.1016/j.ifacol.2021.10.425"
+    },
+    {
+     "title": "Identification of Significant Factors for Improving the Efficiency of Enterprises Based on the Construction of an Efficient Frontier",
+     "type": "conference",
+     "year": 2021,
+     "url": "https://doi.org/10.1088/1742-6596/1864/1/012101"
+    },
+    {
+     "title": "Econometrics Methods for Predictability of Financial Crises on Example Asian Crisis",
+     "type": "conference",
+     "year": 2018,
+     "url": "https://doi.org/10.1109/MLSD.2018.8551878"
+    }
+   ]
+  },
+  "Кадырбаева Анастасия Рустемовна": {
+   "profiles": [
+    {
+     "kind": "orcid",
+     "url": "https://orcid.org/0000-0003-1030-8992"
+    }
+   ],
+   "links": {
+    "Верификация знаний, полученных при изучении моделей бизнес-процессов": "https://doi.org/10.18698/0236-3933-2020-4-99-113",
+    "Определение зон распространения сигнала беспроводной локальной сети": "https://cyberleninka.ru/article/n/opredelenie-zon-rasprostraneniya-signala-besprovodnoy-lokalnoy-seti",
+    "Статистические характеристики уровня сигнала беспроводной локальной сети": "https://cyberleninka.ru/article/n/statisticheskie-harakteristiki-urovnya-signala-besprovodnoy-lokalnoy-seti",
+    "Логарифмически-нормальная модель распространения сигнала беспроводного канала связи для стандарта связи VirtualWore 433МГц": "https://cyberleninka.ru/article/n/logarifmicheski-normalnaya-model-rasprostraneniya-signala-besprovodnogo-kanala-svyazi-dlya-standarta-svyazi-virtualwire-433mgts",
+    "Особенности моделей каналов связи беспроводной локальной сети.": "https://cyberleninka.ru/article/n/osobennosti-modeley-kanalov-svyazi-besprovodnoy-lokalnoy-seti"
+   },
+   "extra": [
+    {
+     "title": "Интерфейс информационной системы по работе со структурированными электронными медицинскими документами",
+     "type": "journal",
+     "year": 2025,
+     "url": "https://doi.org/10.52190/2073-2597_2025_2_33"
+    },
+    {
+     "title": "Система поддержки принятия решений по подбору персонала",
+     "type": "journal",
+     "year": 2025,
+     "url": "https://doi.org/10.52190/2073-2597_2025_2_38"
+    },
+    {
+     "title": "Autonomous Low-Cost DIY Dust Sensor Prototype: Development and Operations",
+     "type": "book",
+     "year": 2024,
+     "url": "https://doi.org/10.1007/978-3-031-95796-3_12"
+    },
+    {
+     "title": "Прикладная механика и основы конструирования. Исследование параметров оптических энкодеров",
+     "type": "book",
+     "year": 2025,
+     "url": "https://press.bmstu.ru/catalog/item/8473/"
+    },
+    {
+     "title": "Основы теории управления и цифровой обработки сигналов. Лабораторная работа 1 \"Простейшие динамические звенья\"",
+     "type": "book",
+     "year": 2025,
+     "url": "https://press.bmstu.ru/catalog/item/8569/"
+    },
+    {
+     "title": "Интерфейс системы \"1С: Предприятие\" и организация базы данных нового предприятия",
+     "type": "book",
+     "year": 2025,
+     "url": "https://press.bmstu.ru/catalog/item/8372/"
+    },
+    {
+     "title": "Создание конфигурации для организации заданного учёта на малом предприятии в среде пакета \"1С: Предприятие\"",
+     "type": "book",
+     "year": 2025,
+     "url": "https://press.bmstu.ru/catalog/item/8601/"
+    }
+   ]
+  },
+  "Левиев Дмитрий Олегович": {
+   "profiles": [],
+   "links": {},
+   "extra": [
+    {
+     "title": "Цифровизация и автоматизация внутреннего документооборота кафедры на примере организации производственной практики",
+     "type": "journal",
+     "year": 2025,
+     "url": null
+    }
+   ]
+  },
+  "Лычков Игорь Игоревич": {
+   "profiles": [
+    {
+     "kind": "orcid",
+     "url": "https://orcid.org/0000-0002-2585-8893"
+    }
+   ],
+   "links": {
+    "Метод обнаружения объекта в видеопотоке в реальном времени": "https://vestnik.tstu.ru/rus/t_17/pdf/17_1_006.pdf"
+   },
+   "extra": [
+    {
+     "title": "Современные методы автономной навигации беспилотных надводных аппаратов",
+     "type": "journal",
+     "year": 2025,
+     "url": "https://doi.org/10.25728/ubs.2025.118.7"
+    },
+    {
+     "title": "Влияние сдвига распределения на точность сегментации объектов с помощью свёрточной нейронной сети",
+     "type": "journal",
+     "year": 2025,
+     "url": "https://doi.org/10.47813/2782-2818-2025-5-2-3077-3085"
+    },
+    {
+     "title": "Application of Ontology for Civil Aviation Route Planning Based on Navigation Points",
+     "type": "conference",
+     "year": 2025,
+     "url": "https://doi.org/10.1109/REEPE63962.2025.10971129"
+    },
+    {
+     "title": "Объединение признаков для распознавания жанров музыкальных произведений",
+     "type": "journal",
+     "year": 2024,
+     "url": "https://doi.org/10.5281/zenodo.11486253"
+    },
+    {
+     "title": "Визуализация биполярных операторов агрегирования на основе модифицированной трехмерной модели баланса",
+     "type": "journal",
+     "year": 2024,
+     "url": "https://doi.org/10.14489/vkit.2024.07.pp.021-028"
+    },
+    {
+     "title": "Сокращение объема вычислений в алгоритме расчета дескриптора характерных участков изображения ORB",
+     "type": "journal",
+     "year": 2024,
+     "url": "https://doi.org/10.18411/trnio-06-2024-891"
+    },
+    {
+     "title": "Visualization of Bipolar Aggregation Operators Based on a Modified 3D Balance Model",
+     "type": "conference",
+     "year": 2024,
+     "url": "https://doi.org/10.1109/REEPE60449.2024.10479745"
+    },
+    {
+     "title": "Консерватизм, мобильность, изоляция: подход к исследованию поведения агентов рынка государственных закупок",
+     "type": "journal",
+     "year": 2023,
+     "url": "https://doi.org/10.31857/S042473880026993-1"
+    },
+    {
+     "title": "Network Anomalies Detection Approach Based on Weighted Voting",
+     "type": "journal",
+     "year": 2022,
+     "url": "https://doi.org/10.4018/IJISP.2022010105"
+    },
+    {
+     "title": "Tracking of Moving Objects with Regeneration of Object Feature Points",
+     "type": "conference",
+     "year": 2018,
+     "url": "https://doi.org/10.1109/GloSIC.2018.8570061"
+    },
+    {
+     "title": "Распознавание ситуаций на множестве движущихся объектов с использованием нечетких конечных автоматов и динамического программирования",
+     "type": "journal",
+     "year": 2017,
+     "url": "https://doi.org/10.18698/0236-3933-2017-4-64-78"
+    },
+    {
+     "title": "Расчет оптического потока Лукаса - Канаде с применением конечномерных теорем отсчетов",
+     "type": "journal",
+     "year": 2025,
+     "url": null
+    },
+    {
+     "title": "Автоматизация и диспетчеризация комплекса блочно-модульного типа для очистки сточных вод",
+     "type": "journal",
+     "year": 2022,
+     "url": null
+    },
+    {
+     "title": "Моделирование и анализ ситуаций в виртуальной среде движущихся объектов",
+     "type": "journal",
+     "year": 2013,
+     "url": "http://vestnikprib.bmstu.ru/catalog/it/hidden/76.html"
+    },
+    {
+     "title": "Метод отслеживания транспортных средств в видеопотоке",
+     "type": "journal",
+     "year": 2012,
+     "url": null
+    }
+   ]
+  },
+  "Магомедов Вали Олегович": {
+   "profiles": [
+    {
+     "kind": "researchgate",
+     "url": "https://www.researchgate.net/profile/Vali-Magomedov"
+    }
+   ],
+   "links": {},
+   "extra": [
+    {
+     "title": "Fast and Lightweight Multiagent Image Generation Based on the Evolution Methods",
+     "type": "conference",
+     "year": 2025,
+     "url": "https://www.researchgate.net/publication/391450924_Fast_and_lightweight_multiagent_image_generation_based_on_the_evolution_methods"
+    },
+    {
+     "title": "Automatic Generation of Neurocomics Based on Computer Vision System Data",
+     "type": "conference",
+     "year": 2024,
+     "url": "https://www.researchgate.net/publication/379128403_Automatic_generation_of_neurocomics_based_on_computer_vision_system_data"
+    }
+   ]
+  },
+  "Меркелов Михаил Валерьевич": {
+   "profiles": [],
+   "links": {},
+   "extra": [
+    {
+     "title": "Analysis of the influence of different arrangements of software receptors in the retinal simulation module layer on the ability of a neural network to recognize images",
+     "type": "conference",
+     "year": 2026,
+     "url": "https://doi.org/10.1109/iciice69672.2026.11565244"
+    },
+    {
+     "title": "An Approach to Developing an Information System for Medical Diagnostics of a Patient",
+     "type": "conference",
+     "year": 2025,
+     "url": "https://doi.org/10.1109/reepe63962.2025.10971078"
+    },
+    {
+     "title": "Влияние модуля имитации сетчатки глаза человека на качество распознавания образов нейронной сетью",
+     "type": "journal",
+     "year": 2025,
+     "url": "https://vestnikprib.bmstu.ru/catalog/icec/msoft/1377.html"
+    },
+    {
+     "title": "Предварительная обработка изображений с помощью модуля имитации сетчатки",
+     "type": "conference",
+     "year": 2025,
+     "url": "https://press.bmstu.ru/catalog/item/8490/"
+    },
+    {
+     "title": "Метод стабилизации видео с использованием параметров движения транспортного средства",
+     "type": "journal",
+     "year": 2024,
+     "url": null
+    }
+   ]
+  },
+  "Морозов Кирилл Андреевич": {
+   "profiles": [],
+   "links": {},
+   "extra": [
+    {
+     "title": "Архитектура конкурентного выполнения в Go: горутины, планировщик и практические паттерны",
+     "type": "journal",
+     "year": 2026,
+     "url": "https://doi.org/10.47813/2782-2818-2026-6-2-1062-1076"
+    },
+    {
+     "title": "Трансфер знаний для LLM-ориентированных алгоритмов машинного обучения в мультиагентных системах",
+     "type": "journal",
+     "year": 2026,
+     "url": "https://vestnikprib.bmstu.ru/catalog/icec/msoft/1384.html"
+    }
+   ]
+  },
+  "Наривная Анна Вячеславовна": {
+   "profiles": [],
+   "links": {},
+   "extra": [
+    {
+     "title": "Использование статистических методов для определения эмоциональной окраски окружающей среды",
+     "type": "journal",
+     "year": 2022,
+     "url": "https://doi.org/10.24412/2500-1000-2022-5-2-42-46"
+    }
+   ]
+  },
+  "Недашковский Вячеслав Михайлович": {
+   "profiles": [],
+   "links": {
+    "Идентификация передаточной функции динамической системы по результатам эксперимента": "https://doi.org/10.7463/0517.0001249",
+    "Идентификация нелинейных динамических систем, имеющих в своём составе несколько нелинейностей": "https://doi.org/10.7463/0715.0789774",
+    "Идентификация нелинейных динамических систем с заданными типами нелинейности по годографам": "https://doi.org/10.7463/1014.0727229",
+    "Метод гармонической линеаризации в задаче идентификации нелинейных динамических систем": "https://doi.org/10.7463/0414.0704613",
+    "Идентификация линейных динамических звеньев по частотному годографу": "https://doi.org/10.7463/0913.0618917",
+    "Повышение эффективности поиска информации в интернете на основе формирования метакогнитивной стратегии": "https://doi.org/10.14489/vkit.2022.01.pp.026-036"
+   },
+   "extra": [
+    {
+     "title": "Анализ подходов к оценке устойчивости децентрализованных физических инфраструктурных сетей",
+     "type": "journal",
+     "year": 2026,
+     "url": "https://doi.org/10.33979/2072-8964-2026-25-3-144-149"
+    },
+    {
+     "title": "Эффективный подъем сыпучих грузов в стесненных условиях с помощью наклонного подъемника",
+     "type": "journal",
+     "year": 2025,
+     "url": "https://doi.org/10.60797/mca.2025.56.2"
+    },
+    {
+     "title": "Интерфейс информационной системы по работе со структурированными электронными медицинскими документами",
+     "type": "journal",
+     "year": 2025,
+     "url": "https://doi.org/10.52190/2073-2597_2025_2_33"
+    },
+    {
+     "title": "Информационная система для автоматизации управления закупками и торговыми операциями",
+     "type": "journal",
+     "year": 2025,
+     "url": "https://doi.org/10.52190/2073-2597_2025_4_33"
+    },
+    {
+     "title": "Система поддержки принятия решений по подбору персонала",
+     "type": "journal",
+     "year": 2025,
+     "url": "https://doi.org/10.52190/2073-2597_2025_2_38"
+    },
+    {
+     "title": "Визуализация биполярных операторов агрегирования на основе модифицированной трехмерной модели баланса",
+     "type": "journal",
+     "year": 2024,
+     "url": "https://doi.org/10.14489/vkit.2024.07.pp.021-028"
+    },
+    {
+     "title": "Идентификация динамической системы с зоной нечувствительности упругого элемента и квадратичным трением",
+     "type": "journal",
+     "year": 2023,
+     "url": "https://doi.org/10.18127/j0700814-202301-01"
+    },
+    {
+     "title": "Текстовый пользовательский интерфейс для отладочной платы stm32h735g-dk",
+     "type": "journal",
+     "year": 2023,
+     "url": "https://doi.org/10.5281/zenodo.7551245"
+    },
+    {
+     "title": "Идентификация динамической системы с зоной нечувствительности упругого элемента и сухим трением по годографам",
+     "type": "journal",
+     "year": 2022,
+     "url": "https://doi.org/10.30987/2782-5957-2022-7-9-18"
+    },
+    {
+     "title": "Идентификация параметров динамической системы с зоной нечувствительности упругого элемента с сухим и вязким трением",
+     "type": "journal",
+     "year": 2022,
+     "url": "https://doi.org/10.18127/j19997493-202201-06"
+    },
+    {
+     "title": "Выявление сетевых аномалий на основе взвешенного агрегирования с учетом узловых параметров",
+     "type": "journal",
+     "year": 2022,
+     "url": "https://doi.org/10.14489/vkit.2022.07.pp.048-056"
+    },
+    {
+     "title": "Идентификация нелинейной системы с зоной нечувствительности упругого элемента",
+     "type": "journal",
+     "year": 2021,
+     "url": "https://doi.org/10.18127/j19997493-202104-05"
+    },
+    {
+     "title": "Идентификация параметров динамического гасителя колебаний с сухим трением",
+     "type": "journal",
+     "year": 2019,
+     "url": "https://doi.org/10.18127/j19997493-201901-10"
+    },
+    {
+     "title": "Минимизация резонансных колебаний в системе с переменной структурой",
+     "type": "journal",
+     "year": 2018,
+     "url": "https://doi.org/10.18127/j19997493-201804-08"
+    },
+    {
+     "title": "Основы теории управления и цифровой обработки сигналов. Лабораторная работа 1 \"Простейшие динамические звенья\"",
+     "type": "book",
+     "year": 2025,
+     "url": "https://press.bmstu.ru/catalog/item/8569/"
+    },
+    {
+     "title": "Интерфейс системы \"1С: Предприятие\" и организация базы данных нового предприятия",
+     "type": "book",
+     "year": 2025,
+     "url": "https://press.bmstu.ru/catalog/item/8372/"
+    },
+    {
+     "title": "Создание конфигурации для организации заданного учёта на малом предприятии в среде пакета \"1С: Предприятие\"",
+     "type": "book",
+     "year": 2025,
+     "url": "https://press.bmstu.ru/catalog/item/8601/"
+    },
+    {
+     "title": "Протокол удаленного вызова процедур JSON — RPC 2-е изд., испр.",
+     "type": "book",
+     "year": 2024,
+     "url": "https://press.bmstu.ru/catalog/item/8170/"
+    },
+    {
+     "title": "Практическая разработка информационной системы",
+     "type": "book",
+     "year": 2023,
+     "url": "https://press.bmstu.ru/catalog/item/7959/"
+    },
+    {
+     "title": "Разработка информационной системы с использованием объектно-ориентированных технологий",
+     "type": "book",
+     "year": 2021,
+     "url": "https://press.bmstu.ru/catalog/item/7106/"
+    }
+   ]
+  },
+  "Оганов Владимир Игоревич": {
+   "profiles": [],
+   "links": {},
+   "extra": [
+    {
+     "title": "Идентификация параметров динамического гасителя колебаний с сухим трением",
+     "type": "journal",
+     "year": 2019,
+     "url": "https://doi.org/10.18127/j19997493-201901-10"
+    },
+    {
+     "title": "Алгоритм цифровой демодуляции двухпозиционных фазоманипулированных сигналов с управлением по фазе",
+     "type": "journal",
+     "year": 2018,
+     "url": "https://doi.org/10.21778/2413-9599-2018-28-4-15-20"
+    },
+    {
+     "title": "Минимизация резонансных колебаний в системе с переменной структурой",
+     "type": "journal",
+     "year": 2018,
+     "url": "https://doi.org/10.18127/j19997493-201804-08"
+    }
+   ]
+  },
+  "Питикин Алексей Русланович": {
+   "profiles": [],
+   "links": {},
+   "extra": [
+    {
+     "title": "Emergent Program Synthesis Based on Reinforsment Learning and Computer Vision Techniques",
+     "type": "conference",
+     "year": 2024,
+     "url": "https://doi.org/10.1109/REEPE60449.2024.10479821"
+    },
+    {
+     "title": "Emergency properties of multi-agent reinforcement learning",
+     "type": "journal",
+     "year": 2023,
+     "url": "https://doi.org/10.26731/2658-3704.2023.1(17).1-10"
+    },
+    {
+     "title": "Эмерджентные свойства мультиагентного обучения с подкреплением",
+     "type": "journal",
+     "year": 2023,
+     "url": "https://doi.org/10.26731/2658-3704.2023.1(17).1-10"
+    }
+   ]
+  },
+  "Попов Владислав Сергеевич": {
+   "profiles": [],
+   "links": {
+    "Организация доступа через браузер к виртуальному прибору LabVIEW": "https://cyberleninka.ru/article/n/organizatsiya-dostupa-cherez-brauzer-k-virtualnomu-priboru-labview"
+   },
+   "extra": [
+    {
+     "title": "Сравнение точности моделей прогнозирования временных рядов: ARIMA, PROPHET, LSTM И GRU",
+     "type": "journal",
+     "year": 2025,
+     "url": "https://doi.org/10.47813/2782-2818-2025-5-2-3061-3070"
+    },
+    {
+     "title": "Изучение законов алгебры логики в симуляторе логических схем",
+     "type": "journal",
+     "year": 2025,
+     "url": "https://doi.org/10.32517/2221-1993-2025-24-6-45-51"
+    },
+    {
+     "title": "Компетенции для вычислений в электронных таблицах: нахождение минимальных и максимальных значений по условию, функции минесли, максесли",
+     "type": "journal",
+     "year": 2025,
+     "url": "https://doi.org/10.24412/2072-9014-2025-171-90-100"
+    },
+    {
+     "title": "Проект Тюнинг: разница в ранжировании ключевых компетенций выпускниками, работодателями и учёными",
+     "type": "conference",
+     "year": 2025,
+     "url": "https://doi.org/10.31862/9785426316065"
+    },
+    {
+     "title": "Реализация компетентностного подхода при решении заданий на рекурсию",
+     "type": "journal",
+     "year": 2025,
+     "url": "https://doi.org/10.26456/vtpsyped/2025.2.199"
+    },
+    {
+     "title": "Формирование компетенций старшеклассников в области программирования: решение задания 25 егэ по информатике с масками чисел",
+     "type": "journal",
+     "year": 2025,
+     "url": "https://doi.org/10.32517/2221-1993-2025-24-2-71-79"
+    },
+    {
+     "title": "Visualization of the 2023 Turkey-Syria Earthquakes Using the Yandex Maps",
+     "type": "conference",
+     "year": 2025,
+     "url": "https://doi.org/10.1109/REEPE63962.2025.10970802"
+    },
+    {
+     "title": "Лабораторная работа «Цифровая схемотехника и алгебра логики: создание цифровых устройств в онлайн-симуляторе»: компетентностный подход в целях преемственности уровней образования",
+     "type": "journal",
+     "year": 2024,
+     "url": "https://doi.org/10.32517/2221-1993-2024-23-2-35-43"
+    },
+    {
+     "title": "Рекурсивная функция для решения задания на динамическое программирование: от беззнаниевой формы компетенции к знанию и пониманию",
+     "type": "journal",
+     "year": 2024,
+     "url": "https://doi.org/10.32517/2221-1993-2024-23-5-85-94"
+    },
+    {
+     "title": "Эмпирическое исследование времени выполнения рекурсивных функций и развитие stem-компетенций",
+     "type": "journal",
+     "year": 2024,
+     "url": "https://doi.org/10.32517/2221-1993-2024-23-3-5-14"
+    },
+    {
+     "title": "ChatGPT and Unified State Exam in Computer Science",
+     "type": "conference",
+     "year": 2024,
+     "url": "https://doi.org/10.1109/REEPE60449.2024.10479881"
+    },
+    {
+     "title": "Dynamic Programming in Tasks of the Russian Unified State Exam in Computer Science",
+     "type": "conference",
+     "year": 2024,
+     "url": "https://doi.org/10.1109/REEPE60449.2024.10479768"
+    },
+    {
+     "title": "Fitting the Keeling Curve: Using K-dimensional general linear fitting in LabVIEW",
+     "type": "conference",
+     "year": 2024,
+     "url": "https://doi.org/10.1109/REEPE60449.2024.10479827"
+    },
+    {
+     "title": "Technological Component Of Ict Competency And Approaches To Determining Its Structure",
+     "type": "conference",
+     "year": 2024,
+     "url": "https://doi.org/10.15405/epsbs.2024.10.43"
+    },
+    {
+     "title": "Equivalence of logical operations and other operations in Python programming language",
+     "type": "conference",
+     "year": 2023,
+     "url": "https://doi.org/10.1109/REEPE57272.2023.10086928"
+    },
+    {
+     "title": "First-Order Logical Equations with Parameter and Their Exhaustive Search Solutions",
+     "type": "conference",
+     "year": 2023,
+     "url": "https://doi.org/10.1109/REEPE57272.2023.10086751"
+    },
+    {
+     "title": "Light meter CEM DT-1309 data acquisition with LabVIEW",
+     "type": "conference",
+     "year": 2015,
+     "url": "https://doi.org/10.1109/SIBCON.2015.7147178"
+    },
+    {
+     "title": "Приключения целостного человека в педагогике, или как перестать беспокоиться и продолжать обучать и воспитывать",
+     "type": "journal",
+     "year": 2026,
+     "url": null
+    },
+    {
+     "title": "Европейская рамка цифровых компетенций педагога digcompedu: базовые компетенции, их оценка и неравномерность развития",
+     "type": "conference",
+     "year": 2025,
+     "url": null
+    },
+    {
+     "title": "Классификация ключевых компетенций в проекте Тюнинг",
+     "type": "conference",
+     "year": 2025,
+     "url": "https://elibrary.ru/item.asp?id=84817103&amp;pff=1"
+    },
+    {
+     "title": "Модель компетенций специалистов цифровой экономики университета Иннополис",
+     "type": "conference",
+     "year": 2025,
+     "url": "https://elibrary.ru/item.asp?id=87875396"
+    },
+    {
+     "title": "Необходимые компетенции старшеклассников в области программирования для решения задания олимпиады школьников по криптографии",
+     "type": "conference",
+     "year": 2025,
+     "url": null
+    },
+    {
+     "title": "Перебор чисел в цикле для решения задания 14 ЕГЭ по информатике на системы счисления",
+     "type": "journal",
+     "year": 2025,
+     "url": null
+    },
+    {
+     "title": "Развитие предпрофессиональных компетенций будущих специалистов в области информационной безопасности и различные методы решения комбинаторного задания отборочного этапа олимпиады школьников имени И.Я. Верченко по информатике 2024-2025 учебного года",
+     "type": "conference",
+     "year": 2025,
+     "url": "https://www.elibrary.ru/item.asp?id=82670010&amp;pff=1"
+    },
+    {
+     "title": "Целевая модель универсальных компетенций доклада «Россия 2025: от кадров к талантам»",
+     "type": "conference",
+     "year": 2025,
+     "url": null
+    },
+    {
+     "title": "Моделирование и графические возможности языков программирования 2-е изд., испр.",
+     "type": "book",
+     "year": 2024,
+     "url": "https://press.bmstu.ru/catalog/item/8171/"
+    },
+    {
+     "title": "Ключевые компетенции для обучения в течение всей жизни в контексте компетенций и компетентностей в области информационных технологий",
+     "type": "conference",
+     "year": 2024,
+     "url": null
+    },
+    {
+     "title": "Новые цифровые технологии и методы исследований в области цифровой педагогики и DIGITAL HUMANITIES: оценка перспективных технологий и методов через анализ технологических обзоров МТИ",
+     "type": "journal",
+     "year": 2024,
+     "url": null
+    },
+    {
+     "title": "Педагоги в текстах прошлого: анализ больших текстовых данных в Google Books Ngram Viewer и соответствующие компетенции",
+     "type": "journal",
+     "year": 2024,
+     "url": null
+    },
+    {
+     "title": "Регрессионный анализ кривой килинга с применением линейных и полиномиальных методов в LabVIEW",
+     "type": "conference",
+     "year": 2024,
+     "url": null
+    },
+    {
+     "title": "Способы проверки ответа при решении задания № 2 ЕГЭ по информатике на определение порядка переменных в частично заполненной таблице истинности логической функции",
+     "type": "journal",
+     "year": 2024,
+     "url": null
+    },
+    {
+     "title": "Углубленный уровень изучения принципов компьютерных вычислений в контексте компетентностного подхода в школе: организация мемоизации для оптимизации рекурсии",
+     "type": "journal",
+     "year": 2024,
+     "url": null
+    }
+   ]
+  },
+  "Сакулин Сергей Александрович": {
+   "profiles": [
+    {
+     "kind": "orcid",
+     "url": "https://orcid.org/0000-0001-9218-9725"
+    }
+   ],
+   "links": {
+    "Повышение эффективности поиска информации в интернете на основе формирования метакогнитивной стратегии": "https://doi.org/10.14489/vkit.2022.01.pp.026-036",
+    "Выявление аномалий сетевого трафика с использованием ансамбля классификаторов": "https://doi.org/10.14489/vkit.2020.10.pp.038-046",
+    "Защита изображения человека от распознавания нейросетевой системой на основе состязательных примеров": "https://doi.org/10.14489/vkit.2020.02.pp.032-038",
+    "Hostis humani ET mashinae: Adversarial camouflage generation": "https://www.jardcs.org/abstract.php?id=296",
+    "User Interface Distribution Method Based on Pi-Calculus": "https://doi.org/10.4018/ijdst.2019070101",
+    "Выбор агрегирования пользовательских критериев для оценки удобства веб-страниц": "https://doi.org/10.21285/1814-3520-2017-1-90-102",
+    "Обзор алгоритмов фонетического кодирования": "https://cyberleninka.ru/article/n/obzor-algoritmov-foneticheskogo-kodirovaniya",
+    "К вопросу выбора операторов агрегирования для формирования интегральных оценок успеваемости учащихся": "https://cyberleninka.ru/article/n/k-voprosu-vybora-operatorov-agregirovaniya-dlya-formirovaniya-integralnyh-otsenok-uspevaemosti-uchaschihsya"
+   },
+   "extra": [
+    {
+     "title": "Анализ подходов к оценке устойчивости децентрализованных физических инфраструктурных сетей",
+     "type": "journal",
+     "year": 2026,
+     "url": "https://doi.org/10.33979/2072-8964-2026-25-3-144-149"
+    },
+    {
+     "title": "Визуализация темпоральной динамики сложных систем в виртуальной реальности на основе модификации космической метафоры",
+     "type": "journal",
+     "year": 2026,
+     "url": "https://doi.org/10.18127/j19997493-202602-07"
+    },
+    {
+     "title": "Визуализация многомерной границы Парето с применением трехмерной когнитивной графики",
+     "type": "journal",
+     "year": 2025,
+     "url": "https://doi.org/10.18127/j20700814-202501-01"
+    },
+    {
+     "title": "Интерфейс информационной системы по работе со структурированными электронными медицинскими документами",
+     "type": "journal",
+     "year": 2025,
+     "url": "https://doi.org/10.52190/2073-2597_2025_2_33"
+    },
+    {
+     "title": "Информационная система для автоматизации управления закупками и торговыми операциями",
+     "type": "journal",
+     "year": 2025,
+     "url": "https://doi.org/10.52190/2073-2597_2025_4_33"
+    },
+    {
+     "title": "Повышение эффективности управления беспилотными автомобилями на основе уточнения функции награды в обучении с подкреплением",
+     "type": "journal",
+     "year": 2025,
+     "url": "https://doi.org/10.14489/vkit.2025.06.pp.019-028"
+    },
+    {
+     "title": "Система поддержки принятия решений по подбору персонала",
+     "type": "journal",
+     "year": 2025,
+     "url": "https://doi.org/10.52190/2073-2597_2025_2_38"
+    },
+    {
+     "title": "An Approach to Selecting an E-Commerce Warehouse Location Based on Suitability Maps: The Case of Samara Region",
+     "type": "journal",
+     "year": 2025,
+     "url": "https://doi.org/10.3390/ijgi14090326"
+    },
+    {
+     "title": "Improvement of Computer Science Student’s Online Search by Metacognitive Instructions",
+     "type": "journal",
+     "year": 2025,
+     "url": "https://doi.org/10.28991/ESJ-2025-SIED1-03"
+    },
+    {
+     "title": "Hybrid Approach to Decision Support in Ensuring Software Code Security",
+     "type": "conference",
+     "year": 2025,
+     "url": "https://doi.org/10.1109/REEPE63962.2025.10970893"
+    },
+    {
+     "title": "Кандидатская диссертация по ИИ: новый вызов цифровой эпохи / PhD Thesis on AI: a New Challenge of the Digital Era",
+     "type": "journal",
+     "year": 2024,
+     "url": "https://doi.org/10.31992/0869-3617-2024-33-4-33-48"
+    },
+    {
+     "title": "Визуализация биполярных операторов агрегирования на основе модифицированной трехмерной модели баланса",
+     "type": "journal",
+     "year": 2024,
+     "url": "https://doi.org/10.14489/vkit.2024.07.pp.021-028"
+    },
+    {
+     "title": "Collective Intrinsic Motivation of a Multi-agent System Based on Reinforcement Learning Algorithms",
+     "type": "conference",
+     "year": 2024,
+     "url": "https://doi.org/10.1007/978-3-031-47718-8_42"
+    },
+    {
+     "title": "Multicriteria Decision Making in Tourism Industry Based on Visualization of Aggregation Operators",
+     "type": "journal",
+     "year": 2024,
+     "url": "https://doi.org/10.3390/asi6050074"
+    },
+    {
+     "title": "Visualization of Bipolar Aggregation Operators Based on a Modified 3D Balance Model",
+     "type": "conference",
+     "year": 2024,
+     "url": "https://doi.org/10.1109/REEPE60449.2024.10479745"
+    },
+    {
+     "title": "Мультиагентное обучение с подкреплением с использованием коллективной внутренней мотивации",
+     "type": "journal",
+     "year": 2023,
+     "url": "https://doi.org/10.18698/0236-3933-2023-4-61-84"
+    },
+    {
+     "title": "Идентификация динамической системы с зоной нечувствительности упругого элемента и квадратичным трением",
+     "type": "journal",
+     "year": 2023,
+     "url": "https://doi.org/10.18127/j0700814-202301-01"
+    },
+    {
+     "title": "Подход к поддержке принятия решений по выбору поставщика телекоммуникационного оборудования на основе операторов агрегирования",
+     "type": "journal",
+     "year": 2023,
+     "url": "https://doi.org/10.14489/vkit.2023.11.pp.046-053"
+    },
+    {
+     "title": "Hybrid Network Anomaly Detection Based on Weighted Aggregation Using Endpoint Parameters",
+     "type": "conference",
+     "year": 2023,
+     "url": "https://doi.org/10.1007/978-981-99-3091-3_21"
+    },
+    {
+     "title": "Design an Adaptive Trajectory to Support UAV Assisted VANET Networks",
+     "type": "conference",
+     "year": 2023,
+     "url": "https://doi.org/10.1109/REEPE57272.2023.10086859"
+    },
+    {
+     "title": "Reducing Delay for Delay-Sensitive Applications in Smart Home Networks Using Openflow Protocol",
+     "type": "conference",
+     "year": 2023,
+     "url": "https://doi.org/10.1109/REEPE57272.2023.10086840"
+    },
+    {
+     "title": "Метод решения социальных дилемм на основе репутации и глубокого мультиагентного обучения с подкреплением",
+     "type": "journal",
+     "year": 2022,
+     "url": "https://doi.org/10.18127/j19998554-202201-01"
+    },
+    {
+     "title": "Идентификация динамической системы с зоной нечувствительности упругого элемента и сухим трением по годографам",
+     "type": "journal",
+     "year": 2022,
+     "url": "https://doi.org/10.30987/2782-5957-2022-7-9-18"
+    },
+    {
+     "title": "Идентификация параметров динамической системы с зоной нечувствительности упругого элемента с сухим и вязким трением",
+     "type": "journal",
+     "year": 2022,
+     "url": "https://doi.org/10.18127/j19997493-202201-06"
+    },
+    {
+     "title": "Визуализация операторов агрегирования с применением трехмерной когнитивной графики",
+     "type": "journal",
+     "year": 2022,
+     "url": "https://doi.org/10.14489/vkit.2022.03.pp.015-022"
+    },
+    {
+     "title": "Выявление сетевых аномалий на основе взвешенного агрегирования с учетом узловых параметров",
+     "type": "journal",
+     "year": 2022,
+     "url": "https://doi.org/10.14489/vkit.2022.07.pp.048-056"
+    },
+    {
+     "title": "Синтез функции награды в обучении с подкреплением средствами когнитивной графики",
+     "type": "journal",
+     "year": 2022,
+     "url": "https://doi.org/10.14489/vkit.2022.08.pp.026-036"
+    },
+    {
+     "title": "Deep Reinforcement Ant Colony Optimization for Swarm Learning",
+     "type": "conference",
+     "year": 2022,
+     "url": "https://doi.org/10.1007/978-3-030-91581-0_2"
+    },
+    {
+     "title": "Network Anomalies Detection Approach Based on Weighted Voting",
+     "type": "journal",
+     "year": 2022,
+     "url": "https://doi.org/10.4018/IJISP.2022010105"
+    },
+    {
+     "title": "Идентификация нелинейной системы с зоной нечувствительности упругого элемента",
+     "type": "journal",
+     "year": 2021,
+     "url": "https://doi.org/10.18127/j19997493-202104-05"
+    },
+    {
+     "title": "Commerce Web-Portal Redesigning Based on Usability Evaluation",
+     "type": "journal",
+     "year": 2021,
+     "url": "https://doi.org/10.4018/IJWP.2021070101"
+    },
+    {
+     "title": "Powerpoint presentation evaluation based on aggregation of quality criteria",
+     "type": "journal",
+     "year": 2021,
+     "url": "https://doi.org/10.4018/IJICTE.2021010101"
+    },
+    {
+     "title": "An Overview of Phonetic Encoding Algorithms",
+     "type": "journal",
+     "year": 2020,
+     "url": "https://doi.org/10.1134/S0005117920100082"
+    },
+    {
+     "title": "Верификация распределения пользовательского интерфейса на основе пи-исчисления",
+     "type": "journal",
+     "year": 2018,
+     "url": "https://doi.org/10.30987/article_5bd17b42b1a236.42909295"
+    },
+    {
+     "title": "Tracking of Moving Objects with Regeneration of Object Feature Points",
+     "type": "conference",
+     "year": 2018,
+     "url": "https://doi.org/10.1109/GloSIC.2018.8570061"
+    },
+    {
+     "title": "Web Page Interface Optimization Based on Nature-Inspired Algorithms",
+     "type": "journal",
+     "year": 2018,
+     "url": "https://doi.org/10.4018/IJSIR.2018040103"
+    },
+    {
+     "title": "Выбор операторов агрегирования пользовательских критериев для оценки удобства веб-страниц",
+     "type": "journal",
+     "year": 2017,
+     "url": "https://doi.org/10.21285/1814-3520-2017-1-90-102"
+    },
+    {
+     "title": "Formalization of Expert Knowledge About the Usability of Web Pages Based on User Criteria Aggregation",
+     "type": "journal",
+     "year": 2016,
+     "url": "https://doi.org/10.4018/IJSI.2016070103"
+    },
+    {
+     "title": "Формирование интегральных оценок успеваемости учащихся с помощью операторов агрегирования",
+     "type": "journal",
+     "year": 2015,
+     "url": "https://doi.org/10.7463/0315.0759904"
+    },
+    {
+     "title": "Основы теории управления и цифровой обработки сигналов. Лабораторная работа 1 \"Простейшие динамические звенья\"",
+     "type": "book",
+     "year": 2025,
+     "url": "https://press.bmstu.ru/catalog/item/8569/"
+    },
+    {
+     "title": "Интерфейс системы \"1С: Предприятие\" и организация базы данных нового предприятия",
+     "type": "book",
+     "year": 2025,
+     "url": "https://press.bmstu.ru/catalog/item/8372/"
+    },
+    {
+     "title": "Создание конфигурации для организации заданного учёта на малом предприятии в среде пакета \"1С: Предприятие\"",
+     "type": "book",
+     "year": 2025,
+     "url": "https://press.bmstu.ru/catalog/item/8601/"
+    },
+    {
+     "title": "Повышение эффективности студенческого поиска информации в контексте проблемного использования интернета",
+     "type": "conference",
+     "year": 2025,
+     "url": null
+    },
+    {
+     "title": "Практическая разработка информационной системы",
+     "type": "book",
+     "year": 2023,
+     "url": "https://press.bmstu.ru/catalog/item/7959/"
+    },
+    {
+     "title": "Разработка информационной системы с использованием объектно-ориентированных технологий",
+     "type": "book",
+     "year": 2021,
+     "url": "https://press.bmstu.ru/catalog/item/7106/"
+    },
+    {
+     "title": "Введение в технологии поиска информации",
+     "type": "book",
+     "year": 2021,
+     "url": "https://press.bmstu.ru/catalog/item/7314/"
+    },
+    {
+     "title": "Состязательные примеры в задаче классификации изображений",
+     "type": "journal",
+     "year": 2019,
+     "url": "https://istu.ru/material/socialno-ekonomicheskoe-upravlenie-teoriya-i-praktika-2019-g-4"
+    },
+    {
+     "title": "Оптимизация интерфейсов веб-страниц с использованием инспирированных природой алгоритмов",
+     "type": "journal",
+     "year": 2018,
+     "url": null
+    },
+    {
+     "title": "Формальная оценка изменений удобства веб-страниц на примере интернет-магазина OZON.RU",
+     "type": "journal",
+     "year": 2017,
+     "url": null
+    },
+    {
+     "title": "Формализованная экспертная оценка качества образовательных мультимедиа-ресурсов",
+     "type": "journal",
+     "year": 2017,
+     "url": "http://journals.istu.edu/vestnik_irgtu/journals/2017/09/articles/07"
+    },
+    {
+     "title": "Формализация экспертных знаний об удобстве веб-страниц на основе агрегирования пользовательских критериев",
+     "type": "journal",
+     "year": 2014,
+     "url": null
+    },
+    {
+     "title": "Модель оценки качества внедрения информационной системы на предприятии",
+     "type": "journal",
+     "year": 2013,
+     "url": "http://engjournal.ru/catalog/it/asu/1011.html"
+    },
+    {
+     "title": "Подход к оценке эффективности внедрения информационных систем предприятий",
+     "type": "journal",
+     "year": 2013,
+     "url": "https://elibrary.ru/item.asp?id=20928240"
+    },
+    {
+     "title": "Problems of Choquet Integral Practical Applications",
+     "type": "journal",
+     "year": 2013,
+     "url": "http://portalgaruda.org/journals/index.php/IJEEI"
+    },
+    {
+     "title": "Персонализация в гипертекствых сетях на основе распознавания действий пользователей и нечеткого агрегирования",
+     "type": "journal",
+     "year": 2012,
+     "url": null
+    }
+   ]
+  },
+  "Семенцов Станислав Григорьевич": {
+   "profiles": [
+    {
+     "kind": "website",
+     "url": "https://vestnikprib.bmstu.ru/eng/authors/399.html"
+    }
+   ],
+   "links": {},
+   "extra": [
+    {
+     "title": "Исследование развития процесса помпажа турбовального двигателя",
+     "type": "journal",
+     "year": 2025,
+     "url": "https://doi.org/10.21685/2307-4205-2025-4-18"
+    },
+    {
+     "title": "Интеллектуальный уровнемер с визуальным отсчетом для жидкостей",
+     "type": "journal",
+     "year": 2024,
+     "url": "https://doi.org/10.21685/2307-4205-2024-2-12"
+    },
+    {
+     "title": "Усовершенствование встроенной схемы термокомпенсации пьезорезистивных датчиков давления",
+     "type": "journal",
+     "year": 2024,
+     "url": "https://doi.org/10.21685/2307-4205-2024-2-5"
+    },
+    {
+     "title": "IIR-filter room response modeling",
+     "type": "conference",
+     "year": 2023,
+     "url": "https://doi.org/10.1063/5.0151896"
+    },
+    {
+     "title": "Study of the Active Acoustic Absorber Based on a Shunted Loudspeaker",
+     "type": "conference",
+     "year": 2020,
+     "url": "https://doi.org/10.1051/matecconf/202032000019"
+    },
+    {
+     "title": "Энергоэффективные технические решения для беспроводных сенсорных сетей",
+     "type": "journal",
+     "year": 2019,
+     "url": "https://doi.org/10.21685/2307-4205-2019-4-16"
+    },
+    {
+     "title": "Повышение надежности элементов сенсорной сети за счет снижения токопотребления чувствительного элемента сенсора",
+     "type": "journal",
+     "year": 2019,
+     "url": "https://doi.org/10.21685/2307-4205-2019-4-15"
+    },
+    {
+     "title": "Балансировка энергетических характеристик сенсоров в беспроводных сенсорных сетях",
+     "type": "journal",
+     "year": 2018,
+     "url": "https://doi.org/10.21685/2307-4205-2018-3-12"
+    },
+    {
+     "title": "Температурная погрешность пьезорезистивных датчиков давления",
+     "type": "journal",
+     "year": 2026,
+     "url": "https://doi.org/10.21685/2307-4205-2026-2-7"
+    },
+    {
+     "title": "Исследование встроенной схемы термокомпенсации пьезорезистивных датчиков давления",
+     "type": "journal",
+     "year": 2024,
+     "url": "https://doi.org/10.21685/2307-4205-2024-2-9"
+    },
+    {
+     "title": "Замеры давления в агресивных средах",
+     "type": "journal",
+     "year": 2020,
+     "url": "https://doi.org/10.21685/2307-4205-2020-1-8"
+    },
+    {
+     "title": "Современные материалы в конструкции датчиков для аэрокосмических аппаратов",
+     "type": "journal",
+     "year": 2020,
+     "url": "https://doi.org/10.21685/2307-4205-2020-1-10"
+    },
+    {
+     "title": "Протоколы обмена в беспроводных сенсорных сетях регистрации событий",
+     "type": "journal",
+     "year": 2018,
+     "url": "https://doi.org/10.21685/2307-4205-2018-3-15"
+    },
+    {
+     "title": "Оценка адекватности математических моделей акустических передаточных функций для помещений с произвольной геометрией",
+     "type": "journal",
+     "year": 2016,
+     "url": "https://doi.org/10.18698/0236-3933-2016-5-14-25"
+    },
+    {
+     "title": "Тепловизионные методы оценки влияния температурных режимов на надежность электронной аппаратуры",
+     "type": "journal",
+     "year": 2016,
+     "url": "https://doi.org/10.18698/0236-3933-2016-1-3-14"
+    },
+    {
+     "title": "Моделирование температурной погрешности пьезорезистивных датчиков давления",
+     "type": "journal",
+     "year": 2023,
+     "url": null
+    },
+    {
+     "title": "Автоматизация операций контроля и технологических процессов в тепличных хозяйствах",
+     "type": "journal",
+     "year": 2021,
+     "url": null
+    },
+    {
+     "title": "Тестирование и модернизация полноприводного роботизированного комплекса",
+     "type": "journal",
+     "year": 2020,
+     "url": null
+    },
+    {
+     "title": "Способ надежного питания элементов сенсорной сети от беспроводного интерфейса",
+     "type": "journal",
+     "year": 2018,
+     "url": null
+    },
+    {
+     "title": "Многофункциональный контроллер пневмоманипулятора доильного робота",
+     "type": "journal",
+     "year": 2017,
+     "url": null
+    },
+    {
+     "title": "Влияние помещения на звук",
+     "type": "journal",
+     "year": 2016,
+     "url": null
+    },
+    {
+     "title": "Моделирование акустических передаточных функций в помещениях с помощью адаптивных алгоритмов",
+     "type": "journal",
+     "year": 2016,
+     "url": null
+    }
+   ]
+  },
+  "Сидякин Иван Михайлович": {
+   "profiles": [],
+   "links": {
+    "Применение системы контроля версий GitLab для обучения программированию": "https://cyberleninka.ru/article/n/primenenie-sistemy-kontrolya-versiy-gitlab-dlya-obucheniya-programmirovaniyu",
+    "Исследование кадровой синхронизации цифровой телеметрической информации": "https://doi.org/10.18698/0236-3933-2015-2-117-132",
+    "Исследование методов формирования единого потока данных телеизмерений в многоканальной системе регистрации телеметрической информации.": "https://doi.org/10.7463/0415.0764089",
+    "Исследование методов обратимого сжатия телеметрической информации": "https://vestnikprib.bmstu.ru/catalog/it/hidden/451.html",
+    "Lossless compression of telemetry information using adaptive linear prediction": "https://doi.org/10.7463/0414.0707364",
+    "Произвольный доступ к данным архивов телеметрической информации": "https://doi.org/10.7463/1013.0616065"
+   },
+   "extra": [
+    {
+     "title": "Применение языка программирования Rust для разработки программного обеспечения встраиваемых систем",
+     "type": "journal",
+     "year": 2023,
+     "url": "https://doi.org/10.5281/zenodo.10013872"
+    },
+    {
+     "title": "Идентификация динамической системы с зоной нечувствительности упругого элемента и квадратичным трением",
+     "type": "journal",
+     "year": 2023,
+     "url": "https://doi.org/10.18127/j0700814-202301-01"
+    },
+    {
+     "title": "Анализатор сообщений протокола ISO-8583",
+     "type": "journal",
+     "year": 2023,
+     "url": "https://doi.org/10.5281/zenodo.7528906"
+    },
+    {
+     "title": "Текстовый пользовательский интерфейс для отладочной платы stm32h735g-dk",
+     "type": "journal",
+     "year": 2023,
+     "url": "https://doi.org/10.5281/zenodo.7551245"
+    },
+    {
+     "title": "Исполнение и авторизация EMV-транзакций",
+     "type": "journal",
+     "year": 2022,
+     "url": "https://doi.org/10.17513/srts.1414"
+    },
+    {
+     "title": "Проверка результатов исполнения функциональных тестов платежных приложений",
+     "type": "journal",
+     "year": 2022,
+     "url": "https://doi.org/10.5281/zenodo.7322092"
+    },
+    {
+     "title": "Регистрация данных транзакций для сертификации платежных приложений",
+     "type": "journal",
+     "year": 2022,
+     "url": "https://doi.org/10.5281/zenodo.7353926"
+    },
+    {
+     "title": "Применение метода адаптивного линейного предсказания для сжатия телеметрической информации",
+     "type": "journal",
+     "year": 2014,
+     "url": "https://doi.org/10.7463/0414.0707364"
+    },
+    {
+     "title": "Автоматизация сборки образа встраиваемой операционной системы LINUX в высокопроизводительном вычислительном кластере",
+     "type": "journal",
+     "year": 2023,
+     "url": null
+    }
+   ]
+  },
+  "Страхов Михаил Дмитриевич": {
+   "profiles": [],
+   "links": {},
+   "extra": [
+    {
+     "title": "Moving Objects Tracking Method Based on Discharged Optical Flow",
+     "type": "conference",
+     "year": 2022,
+     "url": "https://doi.org/10.1109/reepe53907.2022.9731444"
+    },
+    {
+     "title": "Analysis of Algorithms for Detecting the Spectral Peaks of Bragg Diffraction Gratings in Fiber-optic Measuring Systems",
+     "type": "conference",
+     "year": 2022,
+     "url": "https://doi.org/10.1109/reepe53907.2022.9731378"
+    }
+   ]
+  },
+  "Федоров Сергей Владимирович": {
+   "profiles": [],
+   "links": {
+    "Реализация потокового декодера укороченных кодов Рида-Соломона на ПЛИС": "https://doi.org/10.7463/0616.0842221",
+    "Методы повышения точности измерения дальности в лазерных фазовых дальномерах": "https://doi.org/10.18698/2308-6033-2012-9-359",
+    "Аппаратная реализация решателя ключевых уравнений Берлекэмпа-Месси для кодов Рида-Соломона на ПЛИС": "https://cyberleninka.ru/article/n/apparatnaya-realizatsiya-reshatelya-klyuchevyh-uravneniy-berlekempa-messi-dlya-kodov-rida-solomona-na-plis"
+   },
+   "extra": []
+  }
+ }
+}

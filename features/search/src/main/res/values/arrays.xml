@@ -1,0 +1,117 @@
+<resources>
+    <string-array name="search_popular_pool">
+        <item>Учебный план</item>
+        <item>Поступающим</item>
+        <item>Аврора</item>
+        <item>Схемотехника</item>
+        <item>Контакты</item>
+        <item>Доска почёта</item>
+        <item>Елисеев</item>
+        <item>GameDev</item>
+        <item>FinTech</item>
+        <item>Нейро-квест</item>
+        <item>Компьютерное зрение</item>
+        <item>Нейронные сети</item>
+        <item>Экзамен</item>
+        <item>Сессия</item>
+        <item>Магистратура</item>
+        <item>Стеки</item>
+        <item>Девятков</item>
+        <item>Проекты</item>
+        <item>Встраиваемые системы</item>
+        <item>Информатика</item>
+        <item>Микропроцессорная техника</item>
+        <item>Достижения</item>
+        <item>Аспирантура</item>
+    </string-array>
+    <string-array name="search_applicant_queries">
+        <item>Поступающим</item>
+        <item>Магистратура</item>
+        <item>Аспирантура</item>
+        <item>FinTech</item>
+    </string-array>
+
+    <string-array name="search_aliases_studyplan">
+        <item>учебный план</item>
+        <item>рабочий план</item>
+        <item>сессия</item>
+        <item>экзамен</item>
+        <item>зачет</item>
+        <item>зачёт</item>
+        <item>рубежный контроль</item>
+        <item>модуль</item>
+        <item>контрольные</item>
+        <item>домашнее задание</item>
+        <item>семестр</item>
+        <item>неделя</item>
+        <item>часы</item>
+        <item>дисциплины семестра</item>
+        <item>расписание контрольных</item>
+    </string-array>
+    <string-array name="search_aliases_admissions">
+        <item>поступление</item>
+        <item>поступить</item>
+        <item>абитуриент</item>
+        <item>направления</item>
+        <item>бакалавриат</item>
+        <item>магистратура</item>
+        <item>аспирантура</item>
+        <item>fintech</item>
+        <item>финтех</item>
+        <item>gamedev</item>
+        <item>геймдев</item>
+        <item>приемная комиссия</item>
+        <item>приёмная комиссия</item>
+        <item>проходной балл</item>
+        <item>егэ</item>
+        <item>бюджет</item>
+    </string-array>
+    <string-array name="search_aliases_achievements">
+        <item>достижения</item>
+        <item>история кафедры</item>
+        <item>награды</item>
+        <item>премия</item>
+        <item>космонавт</item>
+    </string-array>
+    <string-array name="search_aliases_instructors">
+        <item>препод</item>
+        <item>кафедра</item>
+        <item>сотрудники</item>
+    </string-array>
+    <string-array name="search_aliases_stacks">
+        <item>технологии</item>
+        <item>стек</item>
+    </string-array>
+    <string-array name="search_aliases_courses">
+        <item>дисциплины</item>
+        <item>предметы</item>
+    </string-array>
+    <string-array name="search_aliases_honor">
+        <item>легенды</item>
+        <item>выпускники</item>
+        <item>почёта</item>
+    </string-array>
+    <string-array name="search_aliases_contacts">
+        <item>адрес</item>
+        <item>телефон</item>
+        <item>почта</item>
+        <item>как найти</item>
+    </string-array>
+    <string-array name="search_aliases_projects">
+        <item>проект</item>
+        <item>нейро-квест</item>
+        <item>лаборатор</item>
+    </string-array>
+    <string-array name="search_aliases_newslist">
+        <item>вк</item>
+        <item>vk</item>
+        <item>новость</item>
+    </string-array>
+    <string-array name="search_aliases_events">
+        <item>мероприят</item>
+        <item>афиша</item>
+        <item>событ</item>
+        <item>хакатон</item>
+        <item>конференц</item>
+    </string-array>
+</resources>

@@ -1,0 +1,28 @@
+<resources>
+    <string name="honor_achievements">Достижения</string>
+    <string name="honor_bio">Биография</string>
+    <string name="honor_body">ФИО: %1$s\nГод выпуска: %2$s\nТелефон: %3$s\nEmail: %4$s\nДостижения: %5$s</string>
+    <string name="honor_choose_photo">Добавить фото</string>
+    <string name="honor_email">Email</string>
+    <string name="honor_facts">Интересно знать</string>
+    <string name="honor_graduate">Выпускник</string>
+    <string name="honor_graduates">Выпускники</string>
+    <string name="honor_honor">Доска почёта</string>
+    <string name="honor_info">Информация</string>
+    <string name="honor_legend_ribbon">Легенда</string>
+    <string name="honor_legends">Легенды</string>
+    <string name="honor_medallion">КАФЕДРА П-7 · ИУ3</string>
+    <string name="honor_name">ФИО</string>
+    <string name="honor_no_works">Работы не указаны</string>
+    <string name="honor_phone">Телефон</string>
+    <string name="honor_pride_ribbon">Гордость</string>
+    <string name="honor_recommend">Рекомендовать выпускника</string>
+    <string name="honor_recommendation">Рекомендация</string>
+    <string name="honor_send">Отправить рекомендацию</string>
+    <string name="honor_subject">Рекомендация на доску почёта: %1$s</string>
+    <string name="honor_teacher">Преподаватель</string>
+    <string name="honor_unspecified">не указано</string>
+    <string name="honor_works">Работы</string>
+    <string name="honor_year">Год выпуска</string>
+    <string name="honor_graduation_year">выпуск %1$s</string>
+</resources>

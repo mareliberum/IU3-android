@@ -1,0 +1,7 @@
+{
+  "source": "https://api.www.bmstu.ru/events?limit=100&offset=0&is_actual=1",
+  "date": "2026-11-08",
+  "events": 26,
+  "detailResponses": 26,
+  "detailErrors": []
+}

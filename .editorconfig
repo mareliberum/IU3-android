@@ -1,0 +1,9 @@
+root = true
+
+[*.{kt,kts}]
+indent_style = space
+indent_size = 4
+ij_kotlin_keep_line_breaks = true
+ij_kotlin_name_count_to_use_star_import = 2147483647
+ij_kotlin_name_count_to_use_star_import_for_members = 2147483647
+ij_kotlin_packages_to_use_import_on_demand =

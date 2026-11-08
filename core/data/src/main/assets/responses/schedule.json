@@ -1,0 +1,6217 @@
+{
+ "semester": "Осень 2026",
+ "source": "ЛКС МГТУ им. Н. Э. Баумана (lks.bmstu.ru), кафедра ИУ3, выгрузка от 11.09.2026",
+ "slots": [
+  {
+   "n": 1,
+   "from": "08:30",
+   "to": "10:00"
+  },
+  {
+   "n": 2,
+   "from": "10:10",
+   "to": "11:40"
+  },
+  {
+   "n": 3,
+   "from": "12:25",
+   "to": "13:55"
+  },
+  {
+   "n": 4,
+   "from": "14:05",
+   "to": "15:35"
+  },
+  {
+   "n": 5,
+   "from": "15:55",
+   "to": "17:25"
+  },
+  {
+   "n": 6,
+   "from": "17:35",
+   "to": "19:05"
+  },
+  {
+   "n": 7,
+   "from": "19:15",
+   "to": "20:45"
+  }
+ ],
+ "groups": {
+  "ИУ3-11Б": {
+   "1": [
+    {
+     "slot": 1,
+     "from": "08:30",
+     "to": "10:00",
+     "type": "lecture",
+     "title": "Математический анализ",
+     "teacher": "Велищанский М. А.",
+     "room": "324х",
+     "week": "all"
+    },
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "seminar",
+     "title": "Математический анализ",
+     "teacher": "Велищанский М. А.",
+     "room": "207х",
+     "week": "all"
+    },
+    {
+     "slot": 3,
+     "from": "11:50",
+     "to": "13:20",
+     "type": "lecture",
+     "title": "Информатика",
+     "teacher": "Локтев Д. А.",
+     "room": "221х",
+     "week": "numerator"
+    }
+   ],
+   "2": [
+    {
+     "slot": 1,
+     "from": "08:30",
+     "to": "10:00",
+     "type": "lab",
+     "title": "Химия",
+     "teacher": "Болдырев В. С., Ибрагимова Л. М.",
+     "room": "ФН5",
+     "week": "all"
+    },
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "lecture",
+     "title": "Химия",
+     "teacher": "Богословский С. Ю.",
+     "room": "327.1",
+     "week": "all"
+    },
+    {
+     "slot": 3,
+     "from": "12:15",
+     "to": "13:45",
+     "type": "seminar",
+     "title": "Физическая культура и спорт",
+     "teacher": "",
+     "room": "ФВ",
+     "week": "all"
+    }
+   ],
+   "3": [
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "lecture",
+     "title": "Аналитическая геометрия",
+     "teacher": "Марченко В. В.",
+     "room": "636к",
+     "week": "all"
+    },
+    {
+     "slot": 5,
+     "from": "15:55",
+     "to": "17:25",
+     "type": "lecture",
+     "title": "Социология",
+     "teacher": "Сёмина М. В.",
+     "room": "636к",
+     "week": "denominator"
+    },
+    {
+     "slot": 5,
+     "from": "15:55",
+     "to": "17:25",
+     "type": "lecture",
+     "title": "История России",
+     "teacher": "Косых О. И.",
+     "room": "636к",
+     "week": "numerator"
+    },
+    {
+     "slot": 6,
+     "from": "17:35",
+     "to": "19:05",
+     "type": "seminar",
+     "title": "Аналитическая геометрия",
+     "teacher": "Щастный В. А.",
+     "room": "521к",
+     "week": "all"
+    }
+   ],
+   "4": [
+    {
+     "slot": 1,
+     "from": "08:30",
+     "to": "10:00",
+     "type": "other",
+     "title": "ФКиС 07:50 Измайлово",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "seminar",
+     "title": "Социология",
+     "teacher": "Сёмина М. В.",
+     "room": "220х",
+     "week": "all"
+    },
+    {
+     "slot": 3,
+     "from": "12:25",
+     "to": "13:55",
+     "type": "seminar",
+     "title": "Иностранный язык",
+     "teacher": "",
+     "room": "305х, 211х",
+     "week": "all"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "seminar",
+     "title": "Математический анализ",
+     "teacher": "Велищанский М. А.",
+     "room": "304х",
+     "week": "numerator"
+    }
+   ],
+   "5": [
+    {
+     "slot": 1,
+     "from": "08:30",
+     "to": "10:00",
+     "type": "seminar",
+     "title": "История России",
+     "teacher": "Кудряшова А. А.",
+     "room": "540к",
+     "week": "all"
+    },
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "seminar",
+     "title": "Информатика",
+     "teacher": "Попов В. С.",
+     "room": "540к",
+     "week": "all"
+    },
+    {
+     "slot": 3,
+     "from": "12:25",
+     "to": "13:55",
+     "type": "lab",
+     "title": "Информатика",
+     "teacher": "Попов В. С.",
+     "room": "513к",
+     "week": "all"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "lab",
+     "title": "Учебный практикум на ЭВМ",
+     "teacher": "Попов В. С.",
+     "room": "318х, 311х",
+     "week": "all"
+    }
+   ],
+   "6": [
+    {
+     "slot": 1,
+     "from": "08:30",
+     "to": "10:00",
+     "type": "lecture",
+     "title": "Начертательная геометрия",
+     "teacher": "Палий Н. В.",
+     "room": "226л",
+     "week": "all"
+    },
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "seminar",
+     "title": "Начертательная геометрия",
+     "teacher": "Палий Н. В., Головнин А. А.",
+     "room": "1127л, 1125л",
+     "week": "all"
+    }
+   ]
+  },
+  "ИУ3-12Б": {
+   "1": [
+    {
+     "slot": 1,
+     "from": "08:30",
+     "to": "10:00",
+     "type": "lecture",
+     "title": "Математический анализ",
+     "teacher": "Велищанский М. А.",
+     "room": "324х",
+     "week": "all"
+    },
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "seminar",
+     "title": "История России",
+     "teacher": "Зозуля О. А.",
+     "room": "220х",
+     "week": "all"
+    },
+    {
+     "slot": 3,
+     "from": "11:50",
+     "to": "13:20",
+     "type": "lecture",
+     "title": "Информатика",
+     "teacher": "Локтев Д. А.",
+     "room": "221х",
+     "week": "numerator"
+    }
+   ],
+   "2": [
+    {
+     "slot": 1,
+     "from": "08:30",
+     "to": "10:00",
+     "type": "lab",
+     "title": "Химия",
+     "teacher": "",
+     "room": "ФН5",
+     "week": "all"
+    },
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "lecture",
+     "title": "Химия",
+     "teacher": "Богословский С. Ю.",
+     "room": "327.1",
+     "week": "all"
+    }
+   ],
+   "3": [
+    {
+     "slot": 3,
+     "from": "11:50",
+     "to": "13:20",
+     "type": "seminar",
+     "title": "Математический анализ",
+     "teacher": "Леонова Ю. С.",
+     "room": "536к",
+     "week": "numerator"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "lecture",
+     "title": "Аналитическая геометрия",
+     "teacher": "Марченко В. В.",
+     "room": "636к",
+     "week": "all"
+    },
+    {
+     "slot": 5,
+     "from": "15:55",
+     "to": "17:25",
+     "type": "lecture",
+     "title": "Социология",
+     "teacher": "Сёмина М. В.",
+     "room": "636к",
+     "week": "denominator"
+    },
+    {
+     "slot": 5,
+     "from": "15:55",
+     "to": "17:25",
+     "type": "lecture",
+     "title": "История России",
+     "teacher": "Косых О. И.",
+     "room": "636к",
+     "week": "numerator"
+    },
+    {
+     "slot": 6,
+     "from": "17:35",
+     "to": "19:05",
+     "type": "lab",
+     "title": "Учебный практикум на ЭВМ",
+     "teacher": "Меркелов М. В.",
+     "room": "524к",
+     "week": "all"
+    }
+   ],
+   "4": [
+    {
+     "slot": 1,
+     "from": "08:30",
+     "to": "10:00",
+     "type": "seminar",
+     "title": "Аналитическая геометрия",
+     "teacher": "Орёл Н. А.",
+     "room": "113х",
+     "week": "all"
+    },
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "seminar",
+     "title": "Информатика",
+     "teacher": "Меркелов М. В.",
+     "room": "304х",
+     "week": "all"
+    },
+    {
+     "slot": 3,
+     "from": "12:25",
+     "to": "13:55",
+     "type": "lab",
+     "title": "Информатика",
+     "teacher": "Меркелов М. В.",
+     "room": "401к",
+     "week": "all"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "other",
+     "title": "ФКиС 14:55 Измайлово",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ],
+   "5": [
+    {
+     "slot": 1,
+     "from": "08:30",
+     "to": "10:00",
+     "type": "seminar",
+     "title": "Социология",
+     "teacher": "Сидорова С. А.",
+     "room": "216х",
+     "week": "all"
+    },
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "seminar",
+     "title": "Математический анализ",
+     "teacher": "Леонова Ю. С.",
+     "room": "216х",
+     "week": "all"
+    },
+    {
+     "slot": 3,
+     "from": "12:15",
+     "to": "13:45",
+     "type": "seminar",
+     "title": "Физическая культура и спорт",
+     "teacher": "",
+     "room": "ФВ",
+     "week": "all"
+    }
+   ],
+   "6": [
+    {
+     "slot": 1,
+     "from": "08:30",
+     "to": "10:00",
+     "type": "lecture",
+     "title": "Начертательная геометрия",
+     "teacher": "Палий Н. В.",
+     "room": "226л",
+     "week": "all"
+    },
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "seminar",
+     "title": "Иностранный язык",
+     "teacher": "",
+     "room": "Л2",
+     "week": "all"
+    },
+    {
+     "slot": 3,
+     "from": "12:25",
+     "to": "13:55",
+     "type": "seminar",
+     "title": "Начертательная геометрия",
+     "teacher": "Палий Н. В., Михеенкова Е. С.",
+     "room": "1134л",
+     "week": "all"
+    }
+   ]
+  },
+  "ИУ3-13Б": {
+   "1": [
+    {
+     "slot": 1,
+     "from": "08:30",
+     "to": "10:00",
+     "type": "lecture",
+     "title": "Математический анализ",
+     "teacher": "Велищанский М. А.",
+     "room": "324х",
+     "week": "all"
+    },
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "seminar",
+     "title": "Социология",
+     "teacher": "Коган Е. А.",
+     "room": "304х",
+     "week": "all"
+    },
+    {
+     "slot": 3,
+     "from": "11:50",
+     "to": "13:20",
+     "type": "seminar",
+     "title": "Математический анализ",
+     "teacher": "Пинчук И. А.",
+     "room": "207х",
+     "week": "denominator"
+    },
+    {
+     "slot": 3,
+     "from": "11:50",
+     "to": "13:20",
+     "type": "lecture",
+     "title": "Информатика",
+     "teacher": "Локтев Д. А.",
+     "room": "221х",
+     "week": "numerator"
+    }
+   ],
+   "2": [
+    {
+     "slot": 1,
+     "from": "08:30",
+     "to": "10:00",
+     "type": "lab",
+     "title": "Химия",
+     "teacher": "Елапов А. А., Елисеева Е. А.",
+     "room": "ФН5",
+     "week": "all"
+    },
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "lecture",
+     "title": "Химия",
+     "teacher": "Богословский С. Ю.",
+     "room": "327.1",
+     "week": "all"
+    }
+   ],
+   "3": [
+    {
+     "slot": 3,
+     "from": "11:35",
+     "to": "13:05",
+     "type": "seminar",
+     "title": "Физическая культура и спорт",
+     "teacher": "",
+     "room": "ФВ",
+     "week": "all"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "lecture",
+     "title": "Аналитическая геометрия",
+     "teacher": "Марченко В. В.",
+     "room": "636к",
+     "week": "all"
+    },
+    {
+     "slot": 5,
+     "from": "15:55",
+     "to": "17:25",
+     "type": "lecture",
+     "title": "Социология",
+     "teacher": "Сёмина М. В.",
+     "room": "636к",
+     "week": "denominator"
+    },
+    {
+     "slot": 5,
+     "from": "15:55",
+     "to": "17:25",
+     "type": "lecture",
+     "title": "История России",
+     "teacher": "Косых О. И.",
+     "room": "636к",
+     "week": "numerator"
+    },
+    {
+     "slot": 6,
+     "from": "17:35",
+     "to": "19:05",
+     "type": "lab",
+     "title": "Учебный практикум на ЭВМ",
+     "teacher": "Видьманов Д. А.",
+     "room": "601к",
+     "week": "all"
+    }
+   ],
+   "4": [
+    {
+     "slot": 1,
+     "from": "08:30",
+     "to": "10:00",
+     "type": "seminar",
+     "title": "Математический анализ",
+     "teacher": "Пинчук И. А.",
+     "room": "216х",
+     "week": "all"
+    },
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "seminar",
+     "title": "Аналитическая геометрия",
+     "teacher": "Орёл Н. А.",
+     "room": "113х",
+     "week": "all"
+    },
+    {
+     "slot": 3,
+     "from": "12:25",
+     "to": "13:55",
+     "type": "seminar",
+     "title": "Информатика",
+     "teacher": "Видьманов Д. А.",
+     "room": "304х",
+     "week": "all"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "lab",
+     "title": "Информатика",
+     "teacher": "Видьманов Д. А.",
+     "room": "401к",
+     "week": "all"
+    },
+    {
+     "slot": 5,
+     "from": "15:55",
+     "to": "17:25",
+     "type": "other",
+     "title": "ФКиС 16:35 Измайлово",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ],
+   "5": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "self_study",
+     "title": "Самостоятельная работа",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ],
+   "6": [
+    {
+     "slot": 1,
+     "from": "08:30",
+     "to": "10:00",
+     "type": "lecture",
+     "title": "Начертательная геометрия",
+     "teacher": "Палий Н. В.",
+     "room": "226л",
+     "week": "all"
+    },
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "seminar",
+     "title": "История России",
+     "teacher": "Ахмедова С. С.",
+     "room": "717л",
+     "week": "all"
+    },
+    {
+     "slot": 3,
+     "from": "12:25",
+     "to": "13:55",
+     "type": "seminar",
+     "title": "Иностранный язык",
+     "teacher": "",
+     "room": "Л2",
+     "week": "all"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "seminar",
+     "title": "Начертательная геометрия",
+     "teacher": "Палий Н. В., Михеенкова Е. С.",
+     "room": "1134л",
+     "week": "all"
+    }
+   ]
+  },
+  "ИУ3С-11Б": {
+   "1": [
+    {
+     "slot": 3,
+     "from": "11:50",
+     "to": "13:20",
+     "type": "seminar",
+     "title": "Математический анализ",
+     "teacher": "Синчуков А. В.",
+     "room": "108х",
+     "week": "denominator"
+    },
+    {
+     "slot": 3,
+     "from": "11:50",
+     "to": "13:20",
+     "type": "lecture",
+     "title": "Информатика",
+     "teacher": "Локтев Д. А.",
+     "room": "221х",
+     "week": "numerator"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "lecture",
+     "title": "Аналитическая геометрия",
+     "teacher": "Птицына И. В.",
+     "room": "636к",
+     "week": "all"
+    }
+   ],
+   "2": [
+    {
+     "slot": 1,
+     "from": "08:30",
+     "to": "10:00",
+     "type": "lecture",
+     "title": "Алгоритмы и структуры данных",
+     "teacher": "Сакулин С. А.",
+     "room": "520",
+     "week": "denominator"
+    },
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "lecture",
+     "title": "Математический анализ",
+     "teacher": "Синчуков А. В.",
+     "room": "527",
+     "week": "all"
+    },
+    {
+     "slot": 3,
+     "from": "12:25",
+     "to": "13:55",
+     "type": "seminar",
+     "title": "Математический анализ",
+     "teacher": "Синчуков А. В.",
+     "room": "429ю",
+     "week": "all"
+    }
+   ],
+   "3": [
+    {
+     "slot": 1,
+     "from": "08:30",
+     "to": "10:00",
+     "type": "lab",
+     "title": "Информатика",
+     "teacher": "Рахманов С. В.",
+     "room": "308х, 306х",
+     "week": "all"
+    },
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "seminar",
+     "title": "Информатика",
+     "teacher": "Рахманов С. В.",
+     "room": "113х",
+     "week": "all"
+    },
+    {
+     "slot": 3,
+     "from": "12:25",
+     "to": "13:55",
+     "type": "seminar",
+     "title": "Аналитическая геометрия",
+     "teacher": "Птицына И. В.",
+     "room": "113х",
+     "week": "all"
+    }
+   ],
+   "4": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 3,
+     "from": "11:50",
+     "to": "13:55",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 5,
+     "from": "15:55",
+     "to": "17:25",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ],
+   "5": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 3,
+     "from": "11:50",
+     "to": "13:55",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 5,
+     "from": "15:55",
+     "to": "17:25",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ],
+   "6": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 3,
+     "from": "11:50",
+     "to": "13:55",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 5,
+     "from": "15:55",
+     "to": "17:25",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ]
+  },
+  "ИУ3С-12Б": {
+   "1": [
+    {
+     "slot": 1,
+     "from": "08:30",
+     "to": "10:00",
+     "type": "lab",
+     "title": "Информатика",
+     "teacher": "Гут Н. А.",
+     "room": "308х, 306х",
+     "week": "all"
+    },
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "seminar",
+     "title": "Информатика",
+     "teacher": "Гут Н. А.",
+     "room": "113х",
+     "week": "all"
+    },
+    {
+     "slot": 3,
+     "from": "12:25",
+     "to": "13:55",
+     "type": "seminar",
+     "title": "Математический анализ",
+     "teacher": "Верди А. В.",
+     "room": "109х",
+     "week": "denominator"
+    },
+    {
+     "slot": 3,
+     "from": "11:50",
+     "to": "13:20",
+     "type": "lecture",
+     "title": "Информатика",
+     "teacher": "Локтев Д. А.",
+     "room": "221х",
+     "week": "numerator"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "lecture",
+     "title": "Аналитическая геометрия",
+     "teacher": "Птицына И. В.",
+     "room": "636к",
+     "week": "all"
+    }
+   ],
+   "2": [
+    {
+     "slot": 1,
+     "from": "08:30",
+     "to": "10:00",
+     "type": "lecture",
+     "title": "Алгоритмы и структуры данных",
+     "teacher": "Сакулин С. А.",
+     "room": "520",
+     "week": "denominator"
+    },
+    {
+     "slot": 1,
+     "from": "08:30",
+     "to": "10:00",
+     "type": "seminar",
+     "title": "Аналитическая геометрия",
+     "teacher": "Кузьмина А. В.",
+     "room": "384",
+     "week": "numerator"
+    },
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "lecture",
+     "title": "Математический анализ",
+     "teacher": "Синчуков А. В.",
+     "room": "527",
+     "week": "all"
+    },
+    {
+     "slot": 3,
+     "from": "12:25",
+     "to": "13:55",
+     "type": "seminar",
+     "title": "Аналитическая геометрия",
+     "teacher": "Кузьмина А. В.",
+     "room": "388",
+     "week": "denominator"
+    }
+   ],
+   "3": [
+    {
+     "slot": 3,
+     "from": "12:25",
+     "to": "13:55",
+     "type": "seminar",
+     "title": "Математический анализ",
+     "teacher": "Верди А. В.",
+     "room": "536к",
+     "week": "denominator"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "seminar",
+     "title": "Математический анализ",
+     "teacher": "Верди А. В.",
+     "room": "617к",
+     "week": "denominator"
+    }
+   ],
+   "4": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 3,
+     "from": "11:50",
+     "to": "13:55",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 5,
+     "from": "15:55",
+     "to": "17:25",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ],
+   "5": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 3,
+     "from": "11:50",
+     "to": "13:55",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 5,
+     "from": "15:55",
+     "to": "17:25",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ],
+   "6": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 3,
+     "from": "11:50",
+     "to": "13:55",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 5,
+     "from": "15:55",
+     "to": "17:25",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ]
+  },
+  "ИУ3-11М": {
+   "1": [
+    {
+     "slot": 6,
+     "from": "17:35",
+     "to": "19:05",
+     "type": "seminar",
+     "title": "Иностранный язык",
+     "teacher": "Смелкова Е. А.",
+     "room": "401л",
+     "week": "all"
+    },
+    {
+     "slot": 7,
+     "from": "19:15",
+     "to": "20:45",
+     "type": "lecture",
+     "title": "Методология научного познания",
+     "teacher": "Невдобенко О. И.",
+     "room": "502",
+     "week": "all"
+    }
+   ],
+   "2": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "self_study",
+     "title": "Самостоятельная работа",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ],
+   "3": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "lecture",
+     "title": "Нейронные сети",
+     "teacher": "Боровик И. Г.",
+     "room": "423ю",
+     "week": "denominator"
+    },
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "lecture",
+     "title": "Юзабилити",
+     "teacher": "Алфимцев А. Н.",
+     "room": "423ю",
+     "week": "numerator"
+    },
+    {
+     "slot": 3,
+     "from": "12:25",
+     "to": "13:55",
+     "type": "lecture",
+     "title": "Анализ и прогнозирование временных рядов",
+     "teacher": "Гребенюк Е. А.",
+     "room": "423ю",
+     "week": "denominator"
+    },
+    {
+     "slot": 3,
+     "from": "12:25",
+     "to": "13:55",
+     "type": "lecture",
+     "title": "Проектирование информационных и телекоммуникационных систем",
+     "teacher": "Баскаков С. С.",
+     "room": "395.1",
+     "week": "numerator"
+    }
+   ],
+   "4": [
+    {
+     "slot": 6,
+     "from": "17:35",
+     "to": "19:05",
+     "type": "lecture",
+     "title": "Программное обеспечение встроенных систем",
+     "teacher": "Федоров С. В.",
+     "room": "419ю",
+     "week": "numerator"
+    },
+    {
+     "slot": 7,
+     "from": "19:15",
+     "to": "20:45",
+     "type": "seminar",
+     "title": "Программное обеспечение встроенных систем",
+     "teacher": "Федоров С. В.",
+     "room": "419ю",
+     "week": "numerator"
+    }
+   ],
+   "5": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "self_study",
+     "title": "Самостоятельная работа",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ],
+   "6": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "self_study",
+     "title": "Самостоятельная работа",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ]
+  },
+  "ИУ3-12М": {
+   "1": [
+    {
+     "slot": 6,
+     "from": "17:35",
+     "to": "19:05",
+     "type": "seminar",
+     "title": "Иностранный язык",
+     "teacher": "",
+     "room": "235л",
+     "week": "all"
+    },
+    {
+     "slot": 7,
+     "from": "19:15",
+     "to": "20:45",
+     "type": "lecture",
+     "title": "Методология научного познания",
+     "teacher": "Невдобенко О. И.",
+     "room": "502",
+     "week": "all"
+    }
+   ],
+   "2": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "self_study",
+     "title": "Самостоятельная работа",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ],
+   "3": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "lecture",
+     "title": "Нейронные сети",
+     "teacher": "Боровик И. Г.",
+     "room": "423ю",
+     "week": "denominator"
+    },
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "lecture",
+     "title": "Юзабилити",
+     "teacher": "Алфимцев А. Н.",
+     "room": "423ю",
+     "week": "numerator"
+    },
+    {
+     "slot": 3,
+     "from": "12:25",
+     "to": "13:55",
+     "type": "lecture",
+     "title": "Анализ и прогнозирование временных рядов",
+     "teacher": "Гребенюк Е. А.",
+     "room": "423ю",
+     "week": "denominator"
+    },
+    {
+     "slot": 3,
+     "from": "11:50",
+     "to": "13:20",
+     "type": "seminar",
+     "title": "Проектирование игр и геймдизайн",
+     "teacher": "Салахетдинов М. Р.",
+     "room": "ИУ3",
+     "week": "numerator"
+    }
+   ],
+   "4": [
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "seminar",
+     "title": "Креативные технологии",
+     "teacher": "Салахетдинов М. Р.",
+     "room": "ИУ3",
+     "week": "denominator"
+    },
+    {
+     "slot": 5,
+     "from": "15:55",
+     "to": "17:25",
+     "type": "seminar",
+     "title": "Креативные технологии",
+     "teacher": "Салахетдинов М. Р.",
+     "room": "ИУ3",
+     "week": "denominator"
+    }
+   ],
+   "5": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "self_study",
+     "title": "Самостоятельная работа",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ],
+   "6": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "self_study",
+     "title": "Самостоятельная работа",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ]
+  },
+  "ИУ3-11А": {
+   "1": [
+    {
+     "slot": 5,
+     "from": "15:55",
+     "to": "17:25",
+     "type": "lecture",
+     "title": "История и философия науки",
+     "teacher": "Багдасарьян Н. Г.",
+     "room": "201х",
+     "week": "denominator"
+    },
+    {
+     "slot": 5,
+     "from": "15:55",
+     "to": "17:25",
+     "type": "lecture",
+     "title": "История и философия науки",
+     "teacher": "Кавинова И. П.",
+     "room": "201х",
+     "week": "numerator"
+    }
+   ],
+   "2": [
+    {
+     "slot": 5,
+     "from": "15:55",
+     "to": "17:25",
+     "type": "seminar",
+     "title": "История и философия науки",
+     "teacher": "Нехамкин В. А.",
+     "room": "617л",
+     "week": "all"
+    },
+    {
+     "slot": 6,
+     "from": "17:35",
+     "to": "19:05",
+     "type": "lecture",
+     "title": "История и философия науки",
+     "teacher": "Догужиева М. М.",
+     "room": "534т",
+     "week": "numerator"
+    }
+   ],
+   "3": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "self_study",
+     "title": "Самостоятельная работа",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ],
+   "4": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "self_study",
+     "title": "Самостоятельная работа",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ],
+   "5": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "self_study",
+     "title": "Самостоятельная работа",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ],
+   "6": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "self_study",
+     "title": "Самостоятельная работа",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ]
+  },
+  "ИУ3-31Б": {
+   "1": [
+    {
+     "slot": 1,
+     "from": "08:30",
+     "to": "10:00",
+     "type": "lecture",
+     "title": "Электротехника",
+     "teacher": "Снитько И. С.",
+     "room": "221х",
+     "week": "denominator"
+    },
+    {
+     "slot": 1,
+     "from": "08:30",
+     "to": "10:00",
+     "type": "lecture",
+     "title": "Кратные интегралы, ряды, теория функций комплексной переменной",
+     "teacher": "Хорькова Н. Г.",
+     "room": "221х",
+     "week": "numerator"
+    },
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "lecture",
+     "title": "Электротехника",
+     "teacher": "Снитько И. С.",
+     "room": "221х",
+     "week": "all"
+    },
+    {
+     "slot": 3,
+     "from": "12:15",
+     "to": "13:45",
+     "type": "seminar",
+     "title": "Элективный курс по физической культуре и спорту",
+     "teacher": "",
+     "room": "ФВ",
+     "week": "all"
+    }
+   ],
+   "2": [
+    {
+     "slot": 1,
+     "from": "08:30",
+     "to": "10:00",
+     "type": "lecture",
+     "title": "Алгоритмы и структуры данных",
+     "teacher": "Сакулин С. А.",
+     "room": "520",
+     "week": "denominator"
+    },
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "lecture",
+     "title": "Прикладная механика и основы конструирования приборов",
+     "teacher": "Викулов А. Н., Шевцова Е. В.",
+     "room": "520",
+     "week": "all"
+    },
+    {
+     "slot": 3,
+     "from": "12:25",
+     "to": "13:55",
+     "type": "seminar",
+     "title": "Прикладная механика и основы конструирования приборов",
+     "teacher": "Пчелинцев В. Э., Шевцова Е. В.",
+     "room": "422",
+     "week": "all"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "seminar",
+     "title": "Электротехника",
+     "teacher": "Снитько И. С.",
+     "room": "321х",
+     "week": "all"
+    },
+    {
+     "slot": 5,
+     "from": "16:20",
+     "to": "17:50",
+     "type": "seminar",
+     "title": "Элективный курс по физической культуре и спорту",
+     "teacher": "",
+     "room": "ФВ",
+     "week": "all"
+    }
+   ],
+   "3": [
+    {
+     "slot": 1,
+     "from": "08:30",
+     "to": "10:00",
+     "type": "lab",
+     "title": "Физика",
+     "teacher": "Прохоров С. В., Лукьяшин А. В.",
+     "room": "ФН4",
+     "week": "numerator"
+    },
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "seminar",
+     "title": "Физика",
+     "teacher": "Поздышев М. Л.",
+     "room": "318",
+     "week": "denominator"
+    },
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "lab",
+     "title": "Физика",
+     "teacher": "Прохоров С. В., Лукьяшин А. В.",
+     "room": "ФН4",
+     "week": "numerator"
+    },
+    {
+     "slot": 3,
+     "from": "12:25",
+     "to": "13:55",
+     "type": "lecture",
+     "title": "Физика",
+     "teacher": "Денцель Е. С.",
+     "room": "520",
+     "week": "all"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "seminar",
+     "title": "Правоведение",
+     "teacher": "Красичкова Н. С.",
+     "room": "207х",
+     "week": "numerator"
+    }
+   ],
+   "4": [
+    {
+     "slot": 1,
+     "from": "08:30",
+     "to": "10:00",
+     "type": "seminar",
+     "title": "Кратные интегралы, ряды, теория функций комплексной переменной",
+     "teacher": "Хорькова Н. Г.",
+     "room": "540к",
+     "week": "all"
+    },
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "seminar",
+     "title": "Иностранный язык",
+     "teacher": "",
+     "room": "602к, 604к",
+     "week": "all"
+    },
+    {
+     "slot": 3,
+     "from": "12:25",
+     "to": "13:55",
+     "type": "lecture",
+     "title": "Кратные интегралы, ряды, теория функций комплексной переменной",
+     "teacher": "Хорькова Н. Г.",
+     "room": "221х",
+     "week": "all"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "lecture",
+     "title": "Правоведение",
+     "teacher": "Милаева М. Ю.",
+     "room": "221х",
+     "week": "all"
+    }
+   ],
+   "5": [
+    {
+     "slot": 5,
+     "from": "15:55",
+     "to": "17:25",
+     "type": "lab",
+     "title": "Электротехника",
+     "teacher": "",
+     "room": "ФН7",
+     "week": "denominator"
+    },
+    {
+     "slot": 6,
+     "from": "17:35",
+     "to": "19:05",
+     "type": "lab",
+     "title": "Электротехника",
+     "teacher": "",
+     "room": "ФН7",
+     "week": "denominator"
+    }
+   ],
+   "6": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "self_study",
+     "title": "Самостоятельная работа",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ]
+  },
+  "ИУ3-32Б": {
+   "1": [
+    {
+     "slot": 1,
+     "from": "08:30",
+     "to": "10:00",
+     "type": "lecture",
+     "title": "Электротехника",
+     "teacher": "Снитько И. С.",
+     "room": "221х",
+     "week": "denominator"
+    },
+    {
+     "slot": 1,
+     "from": "08:30",
+     "to": "10:00",
+     "type": "lecture",
+     "title": "Кратные интегралы, ряды, теория функций комплексной переменной",
+     "teacher": "Хорькова Н. Г.",
+     "room": "221х",
+     "week": "numerator"
+    },
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "lecture",
+     "title": "Электротехника",
+     "teacher": "Снитько И. С.",
+     "room": "221х",
+     "week": "all"
+    },
+    {
+     "slot": 3,
+     "from": "12:25",
+     "to": "13:55",
+     "type": "seminar",
+     "title": "Электротехника",
+     "teacher": "Снитько И. С.",
+     "room": "618к",
+     "week": "all"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "seminar",
+     "title": "Прикладная механика и основы конструирования приборов",
+     "teacher": "Викулов А. Н.",
+     "room": "540к",
+     "week": "all"
+    },
+    {
+     "slot": 5,
+     "from": "16:20",
+     "to": "17:50",
+     "type": "seminar",
+     "title": "Элективный курс по физической культуре и спорту",
+     "teacher": "",
+     "room": "ФВ",
+     "week": "all"
+    }
+   ],
+   "2": [
+    {
+     "slot": 1,
+     "from": "08:30",
+     "to": "10:00",
+     "type": "lecture",
+     "title": "Алгоритмы и структуры данных",
+     "teacher": "Сакулин С. А.",
+     "room": "520",
+     "week": "denominator"
+    },
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "lecture",
+     "title": "Прикладная механика и основы конструирования приборов",
+     "teacher": "Викулов А. Н., Шевцова Е. В.",
+     "room": "520",
+     "week": "all"
+    },
+    {
+     "slot": 3,
+     "from": "12:25",
+     "to": "13:55",
+     "type": "lab",
+     "title": "Электротехника",
+     "teacher": "",
+     "room": "ФН7",
+     "week": "denominator"
+    },
+    {
+     "slot": 3,
+     "from": "12:25",
+     "to": "13:55",
+     "type": "seminar",
+     "title": "Правоведение",
+     "teacher": "Донсков А. В.",
+     "room": "109х",
+     "week": "numerator"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "lab",
+     "title": "Электротехника",
+     "teacher": "",
+     "room": "ФН7",
+     "week": "denominator"
+    }
+   ],
+   "3": [
+    {
+     "slot": 1,
+     "from": "08:30",
+     "to": "10:00",
+     "type": "lab",
+     "title": "Физика",
+     "teacher": "Лукьяшин А. В., Николаев П. П.",
+     "room": "ФН4",
+     "week": "denominator"
+    },
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "lab",
+     "title": "Физика",
+     "teacher": "Лукьяшин А. В., Николаев П. П.",
+     "room": "ФН4",
+     "week": "denominator"
+    },
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "seminar",
+     "title": "Физика",
+     "teacher": "Козырев А. В.",
+     "room": "318",
+     "week": "numerator"
+    },
+    {
+     "slot": 3,
+     "from": "12:25",
+     "to": "13:55",
+     "type": "lecture",
+     "title": "Физика",
+     "teacher": "Денцель Е. С.",
+     "room": "520",
+     "week": "all"
+    }
+   ],
+   "4": [
+    {
+     "slot": 1,
+     "from": "08:10",
+     "to": "09:40",
+     "type": "seminar",
+     "title": "Элективный курс по физической культуре и спорту",
+     "teacher": "",
+     "room": "ФВ",
+     "week": "all"
+    },
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "seminar",
+     "title": "Кратные интегралы, ряды, теория функций комплексной переменной",
+     "teacher": "Хорькова Н. Г.",
+     "room": "540к",
+     "week": "all"
+    },
+    {
+     "slot": 3,
+     "from": "12:25",
+     "to": "13:55",
+     "type": "lecture",
+     "title": "Кратные интегралы, ряды, теория функций комплексной переменной",
+     "teacher": "Хорькова Н. Г.",
+     "room": "221х",
+     "week": "all"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "lecture",
+     "title": "Правоведение",
+     "teacher": "Милаева М. Ю.",
+     "room": "221х",
+     "week": "all"
+    },
+    {
+     "slot": 5,
+     "from": "15:55",
+     "to": "17:25",
+     "type": "seminar",
+     "title": "Иностранный язык",
+     "teacher": "",
+     "room": "305х, 211х",
+     "week": "all"
+    }
+   ],
+   "5": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "self_study",
+     "title": "Самостоятельная работа",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ],
+   "6": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "self_study",
+     "title": "Самостоятельная работа",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ]
+  },
+  "ИУ3-33Б": {
+   "1": [
+    {
+     "slot": 1,
+     "from": "08:30",
+     "to": "10:00",
+     "type": "lecture",
+     "title": "Электротехника",
+     "teacher": "Снитько И. С.",
+     "room": "221х",
+     "week": "denominator"
+    },
+    {
+     "slot": 1,
+     "from": "08:30",
+     "to": "10:00",
+     "type": "lecture",
+     "title": "Кратные интегралы, ряды, теория функций комплексной переменной",
+     "teacher": "Хорькова Н. Г.",
+     "room": "221х",
+     "week": "numerator"
+    },
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "lecture",
+     "title": "Электротехника",
+     "teacher": "Снитько И. С.",
+     "room": "221х",
+     "week": "all"
+    },
+    {
+     "slot": 3,
+     "from": "11:50",
+     "to": "13:20",
+     "type": "seminar",
+     "title": "Прикладная механика и основы конструирования приборов",
+     "teacher": "Викулов А. Н.",
+     "room": "416к",
+     "week": "all"
+    },
+    {
+     "slot": 4,
+     "from": "14:30",
+     "to": "16:00",
+     "type": "seminar",
+     "title": "Элективный курс по физической культуре и спорту",
+     "teacher": "",
+     "room": "ФВ",
+     "week": "all"
+    }
+   ],
+   "2": [
+    {
+     "slot": 1,
+     "from": "08:30",
+     "to": "10:00",
+     "type": "lecture",
+     "title": "Алгоритмы и структуры данных",
+     "teacher": "Сакулин С. А.",
+     "room": "520",
+     "week": "denominator"
+    },
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "lecture",
+     "title": "Прикладная механика и основы конструирования приборов",
+     "teacher": "Шевцова Е. В., Викулов А. Н.",
+     "room": "520",
+     "week": "all"
+    },
+    {
+     "slot": 3,
+     "from": "12:25",
+     "to": "13:55",
+     "type": "seminar",
+     "title": "Электротехника",
+     "teacher": "Снитько И. С.",
+     "room": "321х",
+     "week": "all"
+    },
+    {
+     "slot": 4,
+     "from": "14:30",
+     "to": "16:00",
+     "type": "seminar",
+     "title": "Элективный курс по физической культуре и спорту",
+     "teacher": "",
+     "room": "ФВ",
+     "week": "all"
+    }
+   ],
+   "3": [
+    {
+     "slot": 1,
+     "from": "08:30",
+     "to": "10:00",
+     "type": "lab",
+     "title": "Физика",
+     "teacher": "Лобойко А. А., Тимченко С. Л.",
+     "room": "ФН4",
+     "week": "numerator"
+    },
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "lab",
+     "title": "Физика",
+     "teacher": "Лобойко А. А., Тимченко С. Л.",
+     "room": "ФН4",
+     "week": "numerator"
+    },
+    {
+     "slot": 3,
+     "from": "12:25",
+     "to": "13:55",
+     "type": "lecture",
+     "title": "Физика",
+     "teacher": "Денцель Е. С.",
+     "room": "520",
+     "week": "all"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "seminar",
+     "title": "Физика",
+     "teacher": "Денцель Е. С.",
+     "room": "523",
+     "week": "denominator"
+    },
+    {
+     "slot": 5,
+     "from": "15:55",
+     "to": "17:25",
+     "type": "seminar",
+     "title": "Правоведение",
+     "teacher": "Милаева М. Ю.",
+     "room": "220х",
+     "week": "denominator"
+    }
+   ],
+   "4": [
+    {
+     "slot": 1,
+     "from": "08:30",
+     "to": "10:00",
+     "type": "lab",
+     "title": "Электротехника",
+     "teacher": "",
+     "room": "ФН7",
+     "week": "numerator"
+    },
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "lab",
+     "title": "Электротехника",
+     "teacher": "",
+     "room": "ФН7",
+     "week": "numerator"
+    },
+    {
+     "slot": 3,
+     "from": "12:25",
+     "to": "13:55",
+     "type": "lecture",
+     "title": "Кратные интегралы, ряды, теория функций комплексной переменной",
+     "teacher": "Хорькова Н. Г.",
+     "room": "221х",
+     "week": "all"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "lecture",
+     "title": "Правоведение",
+     "teacher": "Милаева М. Ю.",
+     "room": "221х",
+     "week": "all"
+    }
+   ],
+   "5": [
+    {
+     "slot": 5,
+     "from": "15:55",
+     "to": "17:25",
+     "type": "seminar",
+     "title": "Кратные интегралы, ряды, теория функций комплексной переменной",
+     "teacher": "",
+     "room": "536к",
+     "week": "all"
+    },
+    {
+     "slot": 6,
+     "from": "17:35",
+     "to": "19:05",
+     "type": "seminar",
+     "title": "Иностранный язык",
+     "teacher": "",
+     "room": "604к, 602к",
+     "week": "all"
+    }
+   ],
+   "6": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "self_study",
+     "title": "Самостоятельная работа",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ]
+  },
+  "ИУ3И-31Б": {
+   "1": [
+    {
+     "slot": 1,
+     "from": "08:30",
+     "to": "10:00",
+     "type": "lecture",
+     "title": "Электротехника",
+     "teacher": "Снитько И. С.",
+     "room": "221х",
+     "week": "denominator"
+    },
+    {
+     "slot": 1,
+     "from": "08:30",
+     "to": "10:00",
+     "type": "lecture",
+     "title": "Кратные интегралы, ряды, теория функций комплексной переменной",
+     "teacher": "Хорькова Н. Г.",
+     "room": "221х",
+     "week": "numerator"
+    },
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "lecture",
+     "title": "Электротехника",
+     "teacher": "Снитько И. С.",
+     "room": "221х",
+     "week": "all"
+    }
+   ],
+   "2": [
+    {
+     "slot": 1,
+     "from": "08:30",
+     "to": "10:00",
+     "type": "lecture",
+     "title": "Алгоритмы и структуры данных",
+     "teacher": "Сакулин С. А.",
+     "room": "520",
+     "week": "denominator"
+    },
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "lecture",
+     "title": "Прикладная механика и основы конструирования приборов",
+     "teacher": "Шевцова Е. В., Викулов А. Н.",
+     "room": "520",
+     "week": "all"
+    },
+    {
+     "slot": 3,
+     "from": "12:25",
+     "to": "13:55",
+     "type": "seminar",
+     "title": "Прикладная механика и основы конструирования приборов",
+     "teacher": "Пчелинцев В. Э., Шевцова Е. В.",
+     "room": "422",
+     "week": "all"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "seminar",
+     "title": "Электротехника",
+     "teacher": "Снитько И. С.",
+     "room": "321х",
+     "week": "all"
+    }
+   ],
+   "3": [
+    {
+     "slot": 1,
+     "from": "08:30",
+     "to": "10:00",
+     "type": "lab",
+     "title": "Физика",
+     "teacher": "Лукьяшин А. В., Прохоров С. В.",
+     "room": "ФН4",
+     "week": "numerator"
+    },
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "seminar",
+     "title": "Физика",
+     "teacher": "Поздышев М. Л.",
+     "room": "318",
+     "week": "denominator"
+    },
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "lab",
+     "title": "Физика",
+     "teacher": "Прохоров С. В., Лукьяшин А. В.",
+     "room": "ФН4",
+     "week": "numerator"
+    },
+    {
+     "slot": 3,
+     "from": "12:25",
+     "to": "13:55",
+     "type": "lecture",
+     "title": "Физика",
+     "teacher": "Денцель Е. С.",
+     "room": "520",
+     "week": "all"
+    }
+   ],
+   "4": [
+    {
+     "slot": 1,
+     "from": "08:30",
+     "to": "10:00",
+     "type": "seminar",
+     "title": "Кратные интегралы, ряды, теория функций комплексной переменной",
+     "teacher": "Хорькова Н. Г.",
+     "room": "540к",
+     "week": "all"
+    },
+    {
+     "slot": 3,
+     "from": "12:25",
+     "to": "13:55",
+     "type": "lecture",
+     "title": "Кратные интегралы, ряды, теория функций комплексной переменной",
+     "teacher": "Хорькова Н. Г.",
+     "room": "221х",
+     "week": "all"
+    }
+   ],
+   "5": [
+    {
+     "slot": 5,
+     "from": "15:55",
+     "to": "17:25",
+     "type": "lab",
+     "title": "Электротехника",
+     "teacher": "",
+     "room": "ФН7",
+     "week": "denominator"
+    },
+    {
+     "slot": 6,
+     "from": "17:35",
+     "to": "19:05",
+     "type": "lab",
+     "title": "Электротехника",
+     "teacher": "",
+     "room": "ФН7",
+     "week": "denominator"
+    }
+   ],
+   "6": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "self_study",
+     "title": "Самостоятельная работа",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ]
+  },
+  "ИУ3И-32Б": {
+   "1": [
+    {
+     "slot": 1,
+     "from": "08:30",
+     "to": "10:00",
+     "type": "lecture",
+     "title": "Электротехника",
+     "teacher": "Снитько И. С.",
+     "room": "221х",
+     "week": "denominator"
+    },
+    {
+     "slot": 1,
+     "from": "08:30",
+     "to": "10:00",
+     "type": "lecture",
+     "title": "Кратные интегралы, ряды, теория функций комплексной переменной",
+     "teacher": "Хорькова Н. Г.",
+     "room": "221х",
+     "week": "numerator"
+    },
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "lecture",
+     "title": "Электротехника",
+     "teacher": "Снитько И. С.",
+     "room": "221х",
+     "week": "all"
+    },
+    {
+     "slot": 3,
+     "from": "12:25",
+     "to": "13:55",
+     "type": "seminar",
+     "title": "Электротехника",
+     "teacher": "Снитько И. С.",
+     "room": "618к",
+     "week": "all"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "seminar",
+     "title": "Прикладная механика и основы конструирования приборов",
+     "teacher": "Викулов А. Н.",
+     "room": "540к",
+     "week": "all"
+    }
+   ],
+   "2": [
+    {
+     "slot": 1,
+     "from": "08:30",
+     "to": "10:00",
+     "type": "lecture",
+     "title": "Алгоритмы и структуры данных",
+     "teacher": "Сакулин С. А.",
+     "room": "520",
+     "week": "denominator"
+    },
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "lecture",
+     "title": "Прикладная механика и основы конструирования приборов",
+     "teacher": "Шевцова Е. В., Викулов А. Н.",
+     "room": "520",
+     "week": "all"
+    }
+   ],
+   "3": [
+    {
+     "slot": 1,
+     "from": "08:30",
+     "to": "10:00",
+     "type": "lab",
+     "title": "Физика",
+     "teacher": "Лукьяшин А. В., Николаев П. П.",
+     "room": "ФН4",
+     "week": "denominator"
+    },
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "lab",
+     "title": "Физика",
+     "teacher": "Лукьяшин А. В., Николаев П. П.",
+     "room": "ФН4",
+     "week": "denominator"
+    },
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "seminar",
+     "title": "Физика",
+     "teacher": "Козырев А. В.",
+     "room": "318",
+     "week": "numerator"
+    },
+    {
+     "slot": 3,
+     "from": "12:25",
+     "to": "13:55",
+     "type": "lecture",
+     "title": "Физика",
+     "teacher": "Денцель Е. С.",
+     "room": "520",
+     "week": "all"
+    }
+   ],
+   "4": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "seminar",
+     "title": "Кратные интегралы, ряды, теория функций комплексной переменной",
+     "teacher": "Хорькова Н. Г.",
+     "room": "540к",
+     "week": "all"
+    },
+    {
+     "slot": 3,
+     "from": "12:25",
+     "to": "13:55",
+     "type": "lecture",
+     "title": "Кратные интегралы, ряды, теория функций комплексной переменной",
+     "teacher": "Хорькова Н. Г.",
+     "room": "221х",
+     "week": "all"
+    }
+   ],
+   "5": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "self_study",
+     "title": "Самостоятельная работа",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ],
+   "6": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "self_study",
+     "title": "Самостоятельная работа",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ]
+  },
+  "ИУ3И-33Б": {
+   "1": [
+    {
+     "slot": 1,
+     "from": "08:30",
+     "to": "10:00",
+     "type": "lecture",
+     "title": "Электротехника",
+     "teacher": "Снитько И. С.",
+     "room": "221х",
+     "week": "denominator"
+    },
+    {
+     "slot": 1,
+     "from": "08:30",
+     "to": "10:00",
+     "type": "lecture",
+     "title": "Кратные интегралы, ряды, теория функций комплексной переменной",
+     "teacher": "Хорькова Н. Г.",
+     "room": "221х",
+     "week": "numerator"
+    },
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "lecture",
+     "title": "Электротехника",
+     "teacher": "Снитько И. С.",
+     "room": "221х",
+     "week": "all"
+    },
+    {
+     "slot": 3,
+     "from": "11:50",
+     "to": "13:20",
+     "type": "seminar",
+     "title": "Прикладная механика и основы конструирования приборов",
+     "teacher": "Викулов А. Н.",
+     "room": "416к",
+     "week": "all"
+    }
+   ],
+   "2": [
+    {
+     "slot": 1,
+     "from": "08:30",
+     "to": "10:00",
+     "type": "lecture",
+     "title": "Алгоритмы и структуры данных",
+     "teacher": "Сакулин С. А.",
+     "room": "520",
+     "week": "denominator"
+    },
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "lecture",
+     "title": "Прикладная механика и основы конструирования приборов",
+     "teacher": "Шевцова Е. В., Викулов А. Н.",
+     "room": "520",
+     "week": "all"
+    },
+    {
+     "slot": 3,
+     "from": "12:25",
+     "to": "13:55",
+     "type": "seminar",
+     "title": "Электротехника",
+     "teacher": "Снитько И. С.",
+     "room": "321х",
+     "week": "all"
+    }
+   ],
+   "3": [
+    {
+     "slot": 1,
+     "from": "08:30",
+     "to": "10:00",
+     "type": "lab",
+     "title": "Физика",
+     "teacher": "Тимченко С. Л., Лобойко А. А.",
+     "room": "ФН4",
+     "week": "numerator"
+    },
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "lab",
+     "title": "Физика",
+     "teacher": "Лобойко А. А., Тимченко С. Л.",
+     "room": "ФН4",
+     "week": "numerator"
+    },
+    {
+     "slot": 3,
+     "from": "12:25",
+     "to": "13:55",
+     "type": "lecture",
+     "title": "Физика",
+     "teacher": "Денцель Е. С.",
+     "room": "520",
+     "week": "all"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "seminar",
+     "title": "Физика",
+     "teacher": "Денцель Е. С.",
+     "room": "523",
+     "week": "denominator"
+    }
+   ],
+   "4": [
+    {
+     "slot": 1,
+     "from": "08:30",
+     "to": "10:00",
+     "type": "lab",
+     "title": "Электротехника",
+     "teacher": "",
+     "room": "ФН7",
+     "week": "numerator"
+    },
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "lab",
+     "title": "Электротехника",
+     "teacher": "",
+     "room": "ФН7",
+     "week": "numerator"
+    },
+    {
+     "slot": 3,
+     "from": "12:25",
+     "to": "13:55",
+     "type": "lecture",
+     "title": "Кратные интегралы, ряды, теория функций комплексной переменной",
+     "teacher": "Хорькова Н. Г.",
+     "room": "221х",
+     "week": "all"
+    }
+   ],
+   "5": [
+    {
+     "slot": 5,
+     "from": "15:55",
+     "to": "17:25",
+     "type": "seminar",
+     "title": "Кратные интегралы, ряды, теория функций комплексной переменной",
+     "teacher": "",
+     "room": "536к",
+     "week": "all"
+    }
+   ],
+   "6": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "self_study",
+     "title": "Самостоятельная работа",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ]
+  },
+  "ИУ3С-31Б": {
+   "1": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 3,
+     "from": "11:50",
+     "to": "13:55",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 5,
+     "from": "15:55",
+     "to": "17:25",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ],
+   "2": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 3,
+     "from": "11:50",
+     "to": "13:55",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 5,
+     "from": "15:55",
+     "to": "17:25",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ],
+   "3": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 3,
+     "from": "11:50",
+     "to": "13:55",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 5,
+     "from": "15:55",
+     "to": "17:25",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ],
+   "4": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "self_study",
+     "title": "Самостоятельная работа",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ],
+   "5": [
+    {
+     "slot": 1,
+     "from": "08:30",
+     "to": "10:00",
+     "type": "seminar",
+     "title": "Разработка приложений на языке C#",
+     "teacher": "Минитаева А. М.",
+     "room": "402к",
+     "week": "all"
+    },
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "lab",
+     "title": "Методы оптимизации",
+     "teacher": "Гордеев Э. Н., Титов А. С.",
+     "room": "512к",
+     "week": "all"
+    },
+    {
+     "slot": 3,
+     "from": "11:50",
+     "to": "13:20",
+     "type": "lecture",
+     "title": "Разработка приложений на языке C#",
+     "teacher": "Минитаева А. М.",
+     "room": "416к",
+     "week": "denominator"
+    },
+    {
+     "slot": 3,
+     "from": "11:50",
+     "to": "13:20",
+     "type": "lecture",
+     "title": "Методы оптимизации",
+     "teacher": "Гордеев Э. Н.",
+     "room": "416к",
+     "week": "numerator"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "lecture",
+     "title": "Разработка приложений на языке C#",
+     "teacher": "Минитаева А. М.",
+     "room": "416к",
+     "week": "all"
+    }
+   ],
+   "6": [
+    {
+     "slot": 1,
+     "from": "08:30",
+     "to": "10:00",
+     "type": "lab",
+     "title": "Организация ЭВМ и систем",
+     "teacher": "Смирнова Е. В.",
+     "room": "401к",
+     "week": "numerator"
+    },
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "lab",
+     "title": "Организация ЭВМ и систем",
+     "teacher": "Смирнова Е. В.",
+     "room": "401к",
+     "week": "numerator"
+    },
+    {
+     "slot": 3,
+     "from": "11:50",
+     "to": "13:20",
+     "type": "lecture",
+     "title": "Организация ЭВМ и систем",
+     "teacher": "Смирнова Е. В.",
+     "room": "221х",
+     "week": "denominator"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "lecture",
+     "title": "Организация ЭВМ и систем",
+     "teacher": "Смирнова Е. В.",
+     "room": "221х",
+     "week": "denominator"
+    }
+   ]
+  },
+  "ИУ3С-32Б": {
+   "1": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 3,
+     "from": "11:50",
+     "to": "13:55",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 5,
+     "from": "15:55",
+     "to": "17:25",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ],
+   "2": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 3,
+     "from": "11:50",
+     "to": "13:55",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 5,
+     "from": "15:55",
+     "to": "17:25",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ],
+   "3": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 3,
+     "from": "11:50",
+     "to": "13:55",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 5,
+     "from": "15:55",
+     "to": "17:25",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ],
+   "4": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "self_study",
+     "title": "Самостоятельная работа",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ],
+   "5": [
+    {
+     "slot": 1,
+     "from": "08:30",
+     "to": "10:00",
+     "type": "lab",
+     "title": "Методы оптимизации",
+     "teacher": "Гордеев Э. Н., Титов А. С.",
+     "room": "512к",
+     "week": "all"
+    },
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "seminar",
+     "title": "Разработка приложений на языке C#",
+     "teacher": "Минитаева А. М.",
+     "room": "402к",
+     "week": "all"
+    },
+    {
+     "slot": 3,
+     "from": "11:50",
+     "to": "13:20",
+     "type": "lecture",
+     "title": "Разработка приложений на языке C#",
+     "teacher": "Минитаева А. М.",
+     "room": "416к",
+     "week": "denominator"
+    },
+    {
+     "slot": 3,
+     "from": "11:50",
+     "to": "13:20",
+     "type": "lecture",
+     "title": "Методы оптимизации",
+     "teacher": "Гордеев Э. Н.",
+     "room": "416к",
+     "week": "numerator"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "lecture",
+     "title": "Разработка приложений на языке C#",
+     "teacher": "Минитаева А. М.",
+     "room": "416к",
+     "week": "all"
+    }
+   ],
+   "6": [
+    {
+     "slot": 1,
+     "from": "08:30",
+     "to": "10:00",
+     "type": "lab",
+     "title": "Организация ЭВМ и систем",
+     "teacher": "Смирнова Е. В.",
+     "room": "401к",
+     "week": "denominator"
+    },
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "lab",
+     "title": "Организация ЭВМ и систем",
+     "teacher": "Смирнова Е. В.",
+     "room": "401к",
+     "week": "denominator"
+    },
+    {
+     "slot": 3,
+     "from": "11:50",
+     "to": "13:20",
+     "type": "lecture",
+     "title": "Организация ЭВМ и систем",
+     "teacher": "Смирнова Е. В.",
+     "room": "221х",
+     "week": "denominator"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "lecture",
+     "title": "Организация ЭВМ и систем",
+     "teacher": "Смирнова Е. В.",
+     "room": "221х",
+     "week": "denominator"
+    }
+   ]
+  },
+  "ИУ3С-33Б": {
+   "1": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 3,
+     "from": "11:50",
+     "to": "13:55",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 5,
+     "from": "15:55",
+     "to": "17:25",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ],
+   "2": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 3,
+     "from": "11:50",
+     "to": "13:55",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 5,
+     "from": "15:55",
+     "to": "17:25",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ],
+   "3": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 3,
+     "from": "11:50",
+     "to": "13:55",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 5,
+     "from": "15:55",
+     "to": "17:25",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ],
+   "4": [
+    {
+     "slot": 5,
+     "from": "15:55",
+     "to": "17:25",
+     "type": "lab",
+     "title": "Методы оптимизации",
+     "teacher": "Титов А. С., Гордеев Э. Н.",
+     "room": "512к",
+     "week": "numerator"
+    },
+    {
+     "slot": 6,
+     "from": "17:35",
+     "to": "19:05",
+     "type": "lab",
+     "title": "Методы оптимизации",
+     "teacher": "Титов А. С., Гордеев Э. Н.",
+     "room": "512к",
+     "week": "numerator"
+    }
+   ],
+   "5": [
+    {
+     "slot": 3,
+     "from": "11:50",
+     "to": "13:20",
+     "type": "lecture",
+     "title": "Разработка приложений на языке C#",
+     "teacher": "Минитаева А. М.",
+     "room": "416к",
+     "week": "denominator"
+    },
+    {
+     "slot": 3,
+     "from": "11:50",
+     "to": "13:20",
+     "type": "lecture",
+     "title": "Методы оптимизации",
+     "teacher": "Гордеев Э. Н.",
+     "room": "416к",
+     "week": "numerator"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "lecture",
+     "title": "Разработка приложений на языке C#",
+     "teacher": "Минитаева А. М.",
+     "room": "416к",
+     "week": "all"
+    },
+    {
+     "slot": 5,
+     "from": "15:55",
+     "to": "17:25",
+     "type": "seminar",
+     "title": "Разработка приложений на языке C#",
+     "teacher": "Минитаева А. М.",
+     "room": "402к",
+     "week": "all"
+    }
+   ],
+   "6": [
+    {
+     "slot": 3,
+     "from": "11:50",
+     "to": "13:20",
+     "type": "lecture",
+     "title": "Организация ЭВМ и систем",
+     "teacher": "Смирнова Е. В.",
+     "room": "221х",
+     "week": "denominator"
+    },
+    {
+     "slot": 3,
+     "from": "11:50",
+     "to": "13:20",
+     "type": "lab",
+     "title": "Организация ЭВМ и систем",
+     "teacher": "Смирнова Е. В.",
+     "room": "401к",
+     "week": "numerator"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "lecture",
+     "title": "Организация ЭВМ и систем",
+     "teacher": "Смирнова Е. В.",
+     "room": "221х",
+     "week": "denominator"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "lab",
+     "title": "Организация ЭВМ и систем",
+     "teacher": "Смирнова Е. В.",
+     "room": "401к",
+     "week": "numerator"
+    }
+   ]
+  },
+  "ИУ3И-31М": {
+   "1": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "self_study",
+     "title": "Самостоятельная работа",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ],
+   "2": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "self_study",
+     "title": "Самостоятельная работа",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ],
+   "3": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "seminar",
+     "title": "Системная инженерия",
+     "teacher": "Кадырбаева А. Р.",
+     "room": "421ю",
+     "week": "denominator"
+    },
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "lecture",
+     "title": "Системная инженерия",
+     "teacher": "Кадырбаева А. Р.",
+     "room": "421ю",
+     "week": "numerator"
+    },
+    {
+     "slot": 3,
+     "from": "12:25",
+     "to": "13:55",
+     "type": "seminar",
+     "title": "Мультиагентные интеллектуальные системы",
+     "teacher": "Алфимцев А. Н.",
+     "room": "418ю",
+     "week": "denominator"
+    },
+    {
+     "slot": 3,
+     "from": "12:25",
+     "to": "13:55",
+     "type": "lecture",
+     "title": "Мультиагентные интеллектуальные системы",
+     "teacher": "Алфимцев А. Н.",
+     "room": "418ю",
+     "week": "numerator"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "seminar",
+     "title": "Мультимедиа технологии",
+     "teacher": "Видьманов Д. А.",
+     "room": "ИУ3",
+     "week": "numerator"
+    }
+   ],
+   "4": [
+    {
+     "slot": 5,
+     "from": "15:55",
+     "to": "17:25",
+     "type": "seminar",
+     "title": "Проектирование цифровых устройств на программируемых логических интегральных схемах",
+     "teacher": "Федоров С. В.",
+     "room": "ИУ3",
+     "week": "all"
+    },
+    {
+     "slot": 6,
+     "from": "17:35",
+     "to": "19:05",
+     "type": "seminar",
+     "title": "Криптографические протоколы и стандарты",
+     "teacher": "Варфоломеев А. А.",
+     "room": "424",
+     "week": "denominator"
+    },
+    {
+     "slot": 6,
+     "from": "17:35",
+     "to": "19:05",
+     "type": "lecture",
+     "title": "Криптографические протоколы и стандарты",
+     "teacher": "Варфоломеев А. А.",
+     "room": "424",
+     "week": "numerator"
+    },
+    {
+     "slot": 7,
+     "from": "19:15",
+     "to": "20:45",
+     "type": "lecture",
+     "title": "Беспроводные технологии в информационных системах",
+     "teacher": "Баскаков С. С.",
+     "room": "424",
+     "week": "all"
+    }
+   ],
+   "5": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "self_study",
+     "title": "Самостоятельная работа",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ],
+   "6": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "self_study",
+     "title": "Самостоятельная работа",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ]
+  },
+  "ИУ3-31М": {
+   "1": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "self_study",
+     "title": "Самостоятельная работа",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ],
+   "2": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "self_study",
+     "title": "Самостоятельная работа",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ],
+   "3": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "seminar",
+     "title": "Системная инженерия",
+     "teacher": "Кадырбаева А. Р.",
+     "room": "421ю",
+     "week": "denominator"
+    },
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "lecture",
+     "title": "Системная инженерия",
+     "teacher": "Кадырбаева А. Р.",
+     "room": "421ю",
+     "week": "numerator"
+    },
+    {
+     "slot": 3,
+     "from": "12:25",
+     "to": "13:55",
+     "type": "seminar",
+     "title": "Мультиагентные интеллектуальные системы",
+     "teacher": "Алфимцев А. Н.",
+     "room": "418ю",
+     "week": "denominator"
+    },
+    {
+     "slot": 3,
+     "from": "12:25",
+     "to": "13:55",
+     "type": "lecture",
+     "title": "Мультиагентные интеллектуальные системы",
+     "teacher": "Алфимцев А. Н.",
+     "room": "418ю",
+     "week": "numerator"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "seminar",
+     "title": "Мультимедиа технологии",
+     "teacher": "Видьманов Д. А.",
+     "room": "ИУ3",
+     "week": "numerator"
+    }
+   ],
+   "4": [
+    {
+     "slot": 5,
+     "from": "15:55",
+     "to": "17:25",
+     "type": "seminar",
+     "title": "Проектирование цифровых устройств на программируемых логических интегральных схемах",
+     "teacher": "Федоров С. В.",
+     "room": "ИУ3",
+     "week": "all"
+    },
+    {
+     "slot": 6,
+     "from": "17:35",
+     "to": "19:05",
+     "type": "seminar",
+     "title": "Криптографические протоколы и стандарты",
+     "teacher": "Варфоломеев А. А.",
+     "room": "424",
+     "week": "denominator"
+    },
+    {
+     "slot": 6,
+     "from": "17:35",
+     "to": "19:05",
+     "type": "lecture",
+     "title": "Криптографические протоколы и стандарты",
+     "teacher": "Варфоломеев А. А.",
+     "room": "424",
+     "week": "numerator"
+    },
+    {
+     "slot": 7,
+     "from": "19:15",
+     "to": "20:45",
+     "type": "lecture",
+     "title": "Беспроводные технологии в информационных системах",
+     "teacher": "Баскаков С. С.",
+     "room": "424",
+     "week": "all"
+    }
+   ],
+   "5": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "self_study",
+     "title": "Самостоятельная работа",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ],
+   "6": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "self_study",
+     "title": "Самостоятельная работа",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ]
+  },
+  "ИУ3-32М": {
+   "1": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "self_study",
+     "title": "Самостоятельная работа",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ],
+   "2": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "self_study",
+     "title": "Самостоятельная работа",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ],
+   "3": [
+    {
+     "slot": 1,
+     "from": "08:30",
+     "to": "10:00",
+     "type": "seminar",
+     "title": "Проектирование электронных устройств информационных и телекоммуникационных систем",
+     "teacher": "Германчук А. И.",
+     "room": "ИУ3",
+     "week": "numerator"
+    },
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "seminar",
+     "title": "Системная инженерия",
+     "teacher": "Кадырбаева А. Р.",
+     "room": "421ю",
+     "week": "denominator"
+    },
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "lecture",
+     "title": "Системная инженерия",
+     "teacher": "Кадырбаева А. Р.",
+     "room": "421ю",
+     "week": "numerator"
+    },
+    {
+     "slot": 3,
+     "from": "12:25",
+     "to": "13:55",
+     "type": "seminar",
+     "title": "Мультиагентные интеллектуальные системы",
+     "teacher": "Алфимцев А. Н.",
+     "room": "418ю",
+     "week": "denominator"
+    },
+    {
+     "slot": 3,
+     "from": "12:25",
+     "to": "13:55",
+     "type": "lecture",
+     "title": "Мультиагентные интеллектуальные системы",
+     "teacher": "Алфимцев А. Н.",
+     "room": "418ю",
+     "week": "numerator"
+    }
+   ],
+   "4": [
+    {
+     "slot": 5,
+     "from": "15:55",
+     "to": "17:25",
+     "type": "seminar",
+     "title": "Вычисление на графических процессорах",
+     "teacher": "Величко Н. А.",
+     "room": "395",
+     "week": "all"
+    },
+    {
+     "slot": 6,
+     "from": "17:35",
+     "to": "19:05",
+     "type": "seminar",
+     "title": "Разработка мобильных игр",
+     "teacher": "Салахетдинов М. Р.",
+     "room": "430",
+     "week": "denominator"
+    },
+    {
+     "slot": 6,
+     "from": "17:35",
+     "to": "19:05",
+     "type": "seminar",
+     "title": "Разработка мобильных игр",
+     "teacher": "Салахетдинов М. Р.",
+     "room": "504",
+     "week": "numerator"
+    },
+    {
+     "slot": 7,
+     "from": "19:15",
+     "to": "20:45",
+     "type": "lecture",
+     "title": "Беспроводные технологии в информационных системах",
+     "teacher": "Баскаков С. С.",
+     "room": "424",
+     "week": "all"
+    }
+   ],
+   "5": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "self_study",
+     "title": "Самостоятельная работа",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ],
+   "6": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "self_study",
+     "title": "Самостоятельная работа",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ]
+  },
+  "ИУ3-51Б": {
+   "1": [
+    {
+     "slot": 1,
+     "from": "08:30",
+     "to": "10:00",
+     "type": "other",
+     "title": "ВУЦ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "other",
+     "title": "ВУЦ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 3,
+     "from": "11:50",
+     "to": "13:55",
+     "type": "other",
+     "title": "ВУЦ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "other",
+     "title": "ВУЦ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ],
+   "2": [
+    {
+     "slot": 1,
+     "from": "08:10",
+     "to": "09:40",
+     "type": "seminar",
+     "title": "Элективный курс по физической культуре и спорту",
+     "teacher": "",
+     "room": "ФВ",
+     "week": "all"
+    },
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "lecture",
+     "title": "Теория информационных процессов и систем",
+     "teacher": "Боровик И. Г.",
+     "room": "422ю",
+     "week": "all"
+    },
+    {
+     "slot": 3,
+     "from": "12:25",
+     "to": "13:55",
+     "type": "lecture",
+     "title": "Основы теории управления и цифровой обработки сигналов",
+     "teacher": "Меркелов М. В., Кадырбаева А. Р.",
+     "room": "422ю",
+     "week": "all"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "lecture",
+     "title": "Дискретная математика",
+     "teacher": "Виноградова М. С.",
+     "room": "422ю",
+     "week": "denominator"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "lecture",
+     "title": "Теория информационных процессов и систем",
+     "teacher": "Боровик И. Г.",
+     "room": "422ю",
+     "week": "numerator"
+    },
+    {
+     "slot": 5,
+     "from": "15:55",
+     "to": "17:25",
+     "type": "seminar",
+     "title": "Дискретная математика",
+     "teacher": "Виноградова М. С.",
+     "room": "514",
+     "week": "denominator"
+    },
+    {
+     "slot": 5,
+     "from": "15:55",
+     "to": "17:25",
+     "type": "seminar",
+     "title": "Основы теории управления и цифровой обработки сигналов",
+     "teacher": "Кадырбаева А. Р.",
+     "room": "392",
+     "week": "numerator"
+    }
+   ],
+   "3": [
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "lecture",
+     "title": "Схемотехника электронных устройств",
+     "teacher": "Амурский В. Б.",
+     "room": "319",
+     "week": "all"
+    },
+    {
+     "slot": 5,
+     "from": "15:55",
+     "to": "17:25",
+     "type": "lecture",
+     "title": "Основы теории управления и цифровой обработки сигналов",
+     "teacher": "Меркелов М. В., Кадырбаева А. Р.",
+     "room": "319",
+     "week": "all"
+    },
+    {
+     "slot": 6,
+     "from": "17:35",
+     "to": "19:05",
+     "type": "seminar",
+     "title": "Теория информационных процессов и систем",
+     "teacher": "Бабкин П. С.",
+     "room": "430",
+     "week": "denominator"
+    },
+    {
+     "slot": 6,
+     "from": "17:35",
+     "to": "19:05",
+     "type": "seminar",
+     "title": "Теория информационных процессов и систем",
+     "teacher": "Бабкин П. С.",
+     "room": "427ю",
+     "week": "numerator"
+    },
+    {
+     "slot": 7,
+     "from": "19:15",
+     "to": "20:45",
+     "type": "seminar",
+     "title": "Иностранный язык",
+     "teacher": "",
+     "room": "305х, 404л",
+     "week": "all"
+    }
+   ],
+   "4": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "self_study",
+     "title": "Самостоятельная работа",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ],
+   "5": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "self_study",
+     "title": "Самостоятельная работа",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ],
+   "6": [
+    {
+     "slot": 1,
+     "from": "08:10",
+     "to": "09:40",
+     "type": "seminar",
+     "title": "Элективный курс по физической культуре и спорту",
+     "teacher": "",
+     "room": "ФВ",
+     "week": "all"
+    },
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "lecture",
+     "title": "Метрология и информационно-измерительные устройства",
+     "teacher": "Попов В. С.",
+     "room": "424ю",
+     "week": "all"
+    },
+    {
+     "slot": 3,
+     "from": "12:25",
+     "to": "13:55",
+     "type": "lecture",
+     "title": "Дискретная математика",
+     "teacher": "Виноградова М. С.",
+     "room": "424ю",
+     "week": "all"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "seminar",
+     "title": "Схемотехника электронных устройств",
+     "teacher": "Амурский В. Б.",
+     "room": "418ю",
+     "week": "denominator"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "seminar",
+     "title": "Метрология и информационно-измерительные устройства",
+     "teacher": "Попов В. С.",
+     "room": "423ю",
+     "week": "numerator"
+    }
+   ]
+  },
+  "ИУ3-52Б": {
+   "1": [
+    {
+     "slot": 1,
+     "from": "08:30",
+     "to": "10:00",
+     "type": "other",
+     "title": "ВУЦ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "other",
+     "title": "ВУЦ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 3,
+     "from": "11:50",
+     "to": "13:55",
+     "type": "other",
+     "title": "ВУЦ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "other",
+     "title": "ВУЦ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ],
+   "2": [
+    {
+     "slot": 1,
+     "from": "08:30",
+     "to": "10:00",
+     "type": "seminar",
+     "title": "Иностранный язык",
+     "teacher": "",
+     "room": "235л, 401л",
+     "week": "all"
+    },
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "lecture",
+     "title": "Теория информационных процессов и систем",
+     "teacher": "Боровик И. Г.",
+     "room": "422ю",
+     "week": "all"
+    },
+    {
+     "slot": 3,
+     "from": "12:25",
+     "to": "13:55",
+     "type": "lecture",
+     "title": "Основы теории управления и цифровой обработки сигналов",
+     "teacher": "Меркелов М. В., Кадырбаева А. Р.",
+     "room": "422ю",
+     "week": "all"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "lecture",
+     "title": "Дискретная математика",
+     "teacher": "Виноградова М. С.",
+     "room": "422ю",
+     "week": "denominator"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "lecture",
+     "title": "Теория информационных процессов и систем",
+     "teacher": "Боровик И. Г.",
+     "room": "422ю",
+     "week": "numerator"
+    }
+   ],
+   "3": [
+    {
+     "slot": 2,
+     "from": "09:50",
+     "to": "11:20",
+     "type": "seminar",
+     "title": "Элективный курс по физической культуре и спорту",
+     "teacher": "",
+     "room": "ФВ",
+     "week": "all"
+    },
+    {
+     "slot": 3,
+     "from": "11:50",
+     "to": "13:20",
+     "type": "seminar",
+     "title": "Основы теории управления и цифровой обработки сигналов",
+     "teacher": "Меркелов М. В., Кадырбаева А. Р.",
+     "room": "ИУ3",
+     "week": "denominator"
+    },
+    {
+     "slot": 3,
+     "from": "11:50",
+     "to": "13:20",
+     "type": "seminar",
+     "title": "Дискретная математика",
+     "teacher": "Виноградова М. С.",
+     "room": "430",
+     "week": "numerator"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "lecture",
+     "title": "Схемотехника электронных устройств",
+     "teacher": "Амурский В. Б.",
+     "room": "319",
+     "week": "all"
+    },
+    {
+     "slot": 5,
+     "from": "15:55",
+     "to": "17:25",
+     "type": "lecture",
+     "title": "Основы теории управления и цифровой обработки сигналов",
+     "teacher": "Кадырбаева А. Р., Меркелов М. В.",
+     "room": "319",
+     "week": "all"
+    }
+   ],
+   "4": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "self_study",
+     "title": "Самостоятельная работа",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ],
+   "5": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "self_study",
+     "title": "Самостоятельная работа",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ],
+   "6": [
+    {
+     "slot": 1,
+     "from": "08:10",
+     "to": "09:40",
+     "type": "seminar",
+     "title": "Элективный курс по физической культуре и спорту",
+     "teacher": "",
+     "room": "ФВ",
+     "week": "all"
+    },
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "lecture",
+     "title": "Метрология и информационно-измерительные устройства",
+     "teacher": "Попов В. С.",
+     "room": "424ю",
+     "week": "all"
+    },
+    {
+     "slot": 3,
+     "from": "12:25",
+     "to": "13:55",
+     "type": "lecture",
+     "title": "Дискретная математика",
+     "teacher": "Виноградова М. С.",
+     "room": "424ю",
+     "week": "all"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "seminar",
+     "title": "Метрология и информационно-измерительные устройства",
+     "teacher": "Попов В. С.",
+     "room": "423ю",
+     "week": "denominator"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "seminar",
+     "title": "Схемотехника электронных устройств",
+     "teacher": "Амурский В. Б.",
+     "room": "418ю",
+     "week": "numerator"
+    },
+    {
+     "slot": 5,
+     "from": "15:55",
+     "to": "17:25",
+     "type": "seminar",
+     "title": "Теория информационных процессов и систем",
+     "teacher": "Бабкин П. С.",
+     "room": "413ю",
+     "week": "all"
+    }
+   ]
+  },
+  "ИУ3-53Б": {
+   "1": [
+    {
+     "slot": 1,
+     "from": "08:30",
+     "to": "10:00",
+     "type": "other",
+     "title": "ВУЦ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "other",
+     "title": "ВУЦ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 3,
+     "from": "11:50",
+     "to": "13:55",
+     "type": "other",
+     "title": "ВУЦ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "other",
+     "title": "ВУЦ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ],
+   "2": [
+    {
+     "slot": 1,
+     "from": "08:10",
+     "to": "09:40",
+     "type": "seminar",
+     "title": "Элективный курс по физической культуре и спорту",
+     "teacher": "",
+     "room": "ФВ",
+     "week": "all"
+    },
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "lecture",
+     "title": "Теория информационных процессов и систем",
+     "teacher": "Боровик И. Г.",
+     "room": "422ю",
+     "week": "all"
+    },
+    {
+     "slot": 3,
+     "from": "12:25",
+     "to": "13:55",
+     "type": "lecture",
+     "title": "Основы теории управления и цифровой обработки сигналов",
+     "teacher": "Кадырбаева А. Р., Меркелов М. В.",
+     "room": "422ю",
+     "week": "all"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "lecture",
+     "title": "Дискретная математика",
+     "teacher": "Виноградова М. С.",
+     "room": "422ю",
+     "week": "denominator"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "lecture",
+     "title": "Теория информационных процессов и систем",
+     "teacher": "Боровик И. Г.",
+     "room": "422ю",
+     "week": "numerator"
+    }
+   ],
+   "3": [
+    {
+     "slot": 1,
+     "from": "08:10",
+     "to": "09:40",
+     "type": "seminar",
+     "title": "Элективный курс по физической культуре и спорту",
+     "teacher": "",
+     "room": "ФВ",
+     "week": "all"
+    },
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "seminar",
+     "title": "Иностранный язык",
+     "teacher": "",
+     "room": "235л, 401л",
+     "week": "all"
+    },
+    {
+     "slot": 3,
+     "from": "12:25",
+     "to": "13:55",
+     "type": "seminar",
+     "title": "Дискретная математика",
+     "teacher": "Ткачева О. С.",
+     "room": "430",
+     "week": "denominator"
+    },
+    {
+     "slot": 3,
+     "from": "11:50",
+     "to": "13:20",
+     "type": "seminar",
+     "title": "Основы теории управления и цифровой обработки сигналов",
+     "teacher": "Меркелов М. В.",
+     "room": "ИУ3",
+     "week": "numerator"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "lecture",
+     "title": "Схемотехника электронных устройств",
+     "teacher": "Амурский В. Б.",
+     "room": "319",
+     "week": "all"
+    },
+    {
+     "slot": 5,
+     "from": "15:55",
+     "to": "17:25",
+     "type": "lecture",
+     "title": "Основы теории управления и цифровой обработки сигналов",
+     "teacher": "Меркелов М. В., Кадырбаева А. Р.",
+     "room": "319",
+     "week": "all"
+    }
+   ],
+   "4": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "self_study",
+     "title": "Самостоятельная работа",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ],
+   "5": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "self_study",
+     "title": "Самостоятельная работа",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ],
+   "6": [
+    {
+     "slot": 1,
+     "from": "08:30",
+     "to": "10:00",
+     "type": "seminar",
+     "title": "Метрология и информационно-измерительные устройства",
+     "teacher": "Попов В. С.",
+     "room": "423ю",
+     "week": "numerator"
+    },
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "lecture",
+     "title": "Метрология и информационно-измерительные устройства",
+     "teacher": "Попов В. С.",
+     "room": "424ю",
+     "week": "all"
+    },
+    {
+     "slot": 3,
+     "from": "12:25",
+     "to": "13:55",
+     "type": "lecture",
+     "title": "Дискретная математика",
+     "teacher": "Виноградова М. С.",
+     "room": "424ю",
+     "week": "all"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "seminar",
+     "title": "Теория информационных процессов и систем",
+     "teacher": "Бабкин П. С.",
+     "room": "413ю",
+     "week": "all"
+    },
+    {
+     "slot": 5,
+     "from": "15:55",
+     "to": "17:25",
+     "type": "seminar",
+     "title": "Схемотехника электронных устройств",
+     "teacher": "Амурский В. Б.",
+     "room": "418ю",
+     "week": "denominator"
+    }
+   ]
+  },
+  "ИУ3И-51Б": {
+   "1": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "self_study",
+     "title": "Самостоятельная работа",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ],
+   "2": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "lecture",
+     "title": "Теория информационных процессов и систем",
+     "teacher": "Боровик И. Г.",
+     "room": "422ю",
+     "week": "all"
+    },
+    {
+     "slot": 3,
+     "from": "12:25",
+     "to": "13:55",
+     "type": "lecture",
+     "title": "Основы теории управления и цифровой обработки сигналов",
+     "teacher": "Кадырбаева А. Р., Меркелов М. В.",
+     "room": "422ю",
+     "week": "all"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "lecture",
+     "title": "Дискретная математика",
+     "teacher": "Виноградова М. С.",
+     "room": "422ю",
+     "week": "denominator"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "lecture",
+     "title": "Теория информационных процессов и систем",
+     "teacher": "Боровик И. Г.",
+     "room": "422ю",
+     "week": "numerator"
+    },
+    {
+     "slot": 5,
+     "from": "15:55",
+     "to": "17:25",
+     "type": "seminar",
+     "title": "Дискретная математика",
+     "teacher": "Виноградова М. С.",
+     "room": "514",
+     "week": "denominator"
+    },
+    {
+     "slot": 5,
+     "from": "15:55",
+     "to": "17:25",
+     "type": "seminar",
+     "title": "Основы теории управления и цифровой обработки сигналов",
+     "teacher": "Кадырбаева А. Р.",
+     "room": "392",
+     "week": "numerator"
+    }
+   ],
+   "3": [
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "lecture",
+     "title": "Схемотехника электронных устройств",
+     "teacher": "Амурский В. Б.",
+     "room": "319",
+     "week": "all"
+    },
+    {
+     "slot": 5,
+     "from": "15:55",
+     "to": "17:25",
+     "type": "lecture",
+     "title": "Основы теории управления и цифровой обработки сигналов",
+     "teacher": "Меркелов М. В., Кадырбаева А. Р.",
+     "room": "319",
+     "week": "all"
+    },
+    {
+     "slot": 6,
+     "from": "17:35",
+     "to": "19:05",
+     "type": "seminar",
+     "title": "Теория информационных процессов и систем",
+     "teacher": "Бабкин П. С.",
+     "room": "430",
+     "week": "denominator"
+    },
+    {
+     "slot": 6,
+     "from": "17:35",
+     "to": "19:05",
+     "type": "seminar",
+     "title": "Теория информационных процессов и систем",
+     "teacher": "Бабкин П. С.",
+     "room": "427ю",
+     "week": "numerator"
+    }
+   ],
+   "4": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "self_study",
+     "title": "Самостоятельная работа",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ],
+   "5": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "self_study",
+     "title": "Самостоятельная работа",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ],
+   "6": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "lecture",
+     "title": "Метрология и информационно-измерительные устройства",
+     "teacher": "Попов В. С.",
+     "room": "424ю",
+     "week": "all"
+    },
+    {
+     "slot": 3,
+     "from": "12:25",
+     "to": "13:55",
+     "type": "lecture",
+     "title": "Дискретная математика",
+     "teacher": "Виноградова М. С.",
+     "room": "424ю",
+     "week": "all"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "seminar",
+     "title": "Схемотехника электронных устройств",
+     "teacher": "Амурский В. Б.",
+     "room": "418ю",
+     "week": "denominator"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "seminar",
+     "title": "Метрология и информационно-измерительные устройства",
+     "teacher": "Попов В. С.",
+     "room": "423ю",
+     "week": "numerator"
+    }
+   ]
+  },
+  "ИУ3И-53Б": {
+   "1": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "self_study",
+     "title": "Самостоятельная работа",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ],
+   "2": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "lecture",
+     "title": "Теория информационных процессов и систем",
+     "teacher": "Боровик И. Г.",
+     "room": "422ю",
+     "week": "all"
+    },
+    {
+     "slot": 3,
+     "from": "12:25",
+     "to": "13:55",
+     "type": "lecture",
+     "title": "Основы теории управления и цифровой обработки сигналов",
+     "teacher": "Кадырбаева А. Р., Меркелов М. В.",
+     "room": "422ю",
+     "week": "all"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "lecture",
+     "title": "Дискретная математика",
+     "teacher": "Виноградова М. С.",
+     "room": "422ю",
+     "week": "denominator"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "lecture",
+     "title": "Теория информационных процессов и систем",
+     "teacher": "Боровик И. Г.",
+     "room": "422ю",
+     "week": "numerator"
+    }
+   ],
+   "3": [
+    {
+     "slot": 3,
+     "from": "12:25",
+     "to": "13:55",
+     "type": "seminar",
+     "title": "Дискретная математика",
+     "teacher": "Ткачева О. С.",
+     "room": "430",
+     "week": "denominator"
+    },
+    {
+     "slot": 3,
+     "from": "11:50",
+     "to": "13:20",
+     "type": "seminar",
+     "title": "Основы теории управления и цифровой обработки сигналов",
+     "teacher": "Меркелов М. В.",
+     "room": "ИУ3",
+     "week": "numerator"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "lecture",
+     "title": "Схемотехника электронных устройств",
+     "teacher": "Амурский В. Б.",
+     "room": "319",
+     "week": "all"
+    },
+    {
+     "slot": 5,
+     "from": "15:55",
+     "to": "17:25",
+     "type": "lecture",
+     "title": "Основы теории управления и цифровой обработки сигналов",
+     "teacher": "Меркелов М. В., Кадырбаева А. Р.",
+     "room": "319",
+     "week": "all"
+    }
+   ],
+   "4": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "self_study",
+     "title": "Самостоятельная работа",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ],
+   "5": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "self_study",
+     "title": "Самостоятельная работа",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ],
+   "6": [
+    {
+     "slot": 1,
+     "from": "08:30",
+     "to": "10:00",
+     "type": "seminar",
+     "title": "Метрология и информационно-измерительные устройства",
+     "teacher": "Попов В. С.",
+     "room": "423ю",
+     "week": "numerator"
+    },
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "lecture",
+     "title": "Метрология и информационно-измерительные устройства",
+     "teacher": "Попов В. С.",
+     "room": "424ю",
+     "week": "all"
+    },
+    {
+     "slot": 3,
+     "from": "12:25",
+     "to": "13:55",
+     "type": "lecture",
+     "title": "Дискретная математика",
+     "teacher": "Виноградова М. С.",
+     "room": "424ю",
+     "week": "all"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "seminar",
+     "title": "Теория информационных процессов и систем",
+     "teacher": "Бабкин П. С.",
+     "room": "413ю",
+     "week": "all"
+    },
+    {
+     "slot": 5,
+     "from": "15:55",
+     "to": "17:25",
+     "type": "seminar",
+     "title": "Схемотехника электронных устройств",
+     "teacher": "Амурский В. Б.",
+     "room": "418ю",
+     "week": "denominator"
+    }
+   ]
+  },
+  "ИУ3С-51Б": {
+   "1": [
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "lecture",
+     "title": "Технологии машинного обучения",
+     "teacher": "Гапанюк Ю. Е.",
+     "room": "304х",
+     "week": "all"
+    },
+    {
+     "slot": 5,
+     "from": "15:55",
+     "to": "17:25",
+     "type": "seminar",
+     "title": "Иностранный язык для профессиональных коммуникаций",
+     "teacher": "Орлова Е. С.",
+     "room": "321х, 108х",
+     "week": "all"
+    }
+   ],
+   "2": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "self_study",
+     "title": "Самостоятельная работа",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ],
+   "3": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "lab",
+     "title": "Проектирование программного обеспечения",
+     "teacher": "Бекасов Д. Е.",
+     "room": "512к",
+     "week": "all"
+    },
+    {
+     "slot": 3,
+     "from": "11:50",
+     "to": "13:20",
+     "type": "lecture",
+     "title": "Проектирование программного обеспечения",
+     "teacher": "Бекасов Д. Е.",
+     "room": "527к",
+     "week": "denominator"
+    },
+    {
+     "slot": 3,
+     "from": "12:25",
+     "to": "13:55",
+     "type": "lab",
+     "title": "Технологии машинного обучения",
+     "teacher": "Гапанюк Ю. Е., Саргсян О. Г.",
+     "room": "606к",
+     "week": "numerator"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "seminar",
+     "title": "Проектирование программного обеспечения",
+     "teacher": "Бекасов Д. Е.",
+     "room": "107х",
+     "week": "denominator"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "lab",
+     "title": "Технологии машинного обучения",
+     "teacher": "Саргсян О. Г., Гапанюк Ю. Е.",
+     "room": "513к",
+     "week": "numerator"
+    }
+   ],
+   "4": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 3,
+     "from": "11:50",
+     "to": "13:55",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 5,
+     "from": "15:55",
+     "to": "17:25",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ],
+   "5": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 3,
+     "from": "11:50",
+     "to": "13:55",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 5,
+     "from": "15:55",
+     "to": "17:25",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ],
+   "6": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 3,
+     "from": "11:50",
+     "to": "13:55",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 5,
+     "from": "15:55",
+     "to": "17:25",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ]
+  },
+  "ИУ3С-52Б": {
+   "1": [
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "lecture",
+     "title": "Технологии машинного обучения",
+     "teacher": "Гапанюк Ю. Е.",
+     "room": "304х",
+     "week": "all"
+    },
+    {
+     "slot": 5,
+     "from": "15:55",
+     "to": "17:25",
+     "type": "seminar",
+     "title": "Иностранный язык для профессиональных коммуникаций",
+     "teacher": "Трошина О. В.",
+     "room": "304х, 211х",
+     "week": "all"
+    }
+   ],
+   "2": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "self_study",
+     "title": "Самостоятельная работа",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ],
+   "3": [
+    {
+     "slot": 1,
+     "from": "08:30",
+     "to": "10:00",
+     "type": "lab",
+     "title": "Проектирование программного обеспечения",
+     "teacher": "Жаров С. В.",
+     "room": "401к",
+     "week": "numerator"
+    },
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "lab",
+     "title": "Проектирование программного обеспечения",
+     "teacher": "Жаров С. В.",
+     "room": "401к",
+     "week": "numerator"
+    },
+    {
+     "slot": 3,
+     "from": "11:50",
+     "to": "13:20",
+     "type": "lecture",
+     "title": "Проектирование программного обеспечения",
+     "teacher": "Бекасов Д. Е.",
+     "room": "527к",
+     "week": "denominator"
+    },
+    {
+     "slot": 3,
+     "from": "12:25",
+     "to": "13:55",
+     "type": "seminar",
+     "title": "Проектирование программного обеспечения",
+     "teacher": "Жаров С. В.",
+     "room": "315х",
+     "week": "numerator"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "lab",
+     "title": "Технологии машинного обучения",
+     "teacher": "Гапанюк Ю. Е., Саргсян О. Г.",
+     "room": "402к",
+     "week": "denominator"
+    },
+    {
+     "slot": 5,
+     "from": "15:55",
+     "to": "17:25",
+     "type": "lab",
+     "title": "Технологии машинного обучения",
+     "teacher": "Гапанюк Ю. Е., Саргсян О. Г.",
+     "room": "402к",
+     "week": "denominator"
+    }
+   ],
+   "4": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 3,
+     "from": "11:50",
+     "to": "13:55",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 5,
+     "from": "15:55",
+     "to": "17:25",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ],
+   "5": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 3,
+     "from": "11:50",
+     "to": "13:55",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 5,
+     "from": "15:55",
+     "to": "17:25",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ],
+   "6": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 3,
+     "from": "11:50",
+     "to": "13:55",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 5,
+     "from": "15:55",
+     "to": "17:25",
+     "type": "other",
+     "title": "ФИН УНИВЕРСИТЕТ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ]
+  },
+  "ИУ3-71Б": {
+   "1": [
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "seminar",
+     "title": "Архитектура информационных систем",
+     "teacher": "Лычков И. И.",
+     "room": "ИУ3",
+     "week": "denominator"
+    },
+    {
+     "slot": 5,
+     "from": "15:55",
+     "to": "17:25",
+     "type": "lecture",
+     "title": "Интеллектуальные системы и технологии",
+     "teacher": "Лычков И. И.",
+     "room": "422ю",
+     "week": "all"
+    },
+    {
+     "slot": 6,
+     "from": "17:35",
+     "to": "19:05",
+     "type": "lecture",
+     "title": "Информационные технологии",
+     "teacher": "Асмарян А. Э.",
+     "room": "422ю",
+     "week": "all"
+    },
+    {
+     "slot": 7,
+     "from": "19:15",
+     "to": "20:45",
+     "type": "lecture",
+     "title": "Информационные технологии",
+     "teacher": "Асмарян А. Э.",
+     "room": "422ю",
+     "week": "numerator"
+    }
+   ],
+   "2": [
+    {
+     "slot": 1,
+     "from": "08:30",
+     "to": "10:00",
+     "type": "other",
+     "title": "ВУЦ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "other",
+     "title": "ВУЦ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 3,
+     "from": "11:50",
+     "to": "13:55",
+     "type": "other",
+     "title": "ВУЦ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "other",
+     "title": "ВУЦ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ],
+   "3": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "self_study",
+     "title": "Самостоятельная работа",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ],
+   "4": [
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "seminar",
+     "title": "Безопасность жизнедеятельности",
+     "teacher": "Бондаренко А. В.",
+     "room": "432",
+     "week": "denominator"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "seminar",
+     "title": "Методы и средства проектирования информационных систем и технологий",
+     "teacher": "Выхованец В. С.",
+     "room": "424ю",
+     "week": "numerator"
+    },
+    {
+     "slot": 5,
+     "from": "15:55",
+     "to": "17:25",
+     "type": "lecture",
+     "title": "Методы и средства проектирования информационных систем и технологий",
+     "teacher": "Выхованец В. С.",
+     "room": "319",
+     "week": "all"
+    },
+    {
+     "slot": 6,
+     "from": "17:35",
+     "to": "19:05",
+     "type": "lecture",
+     "title": "Статистический анализ и прогнозирование",
+     "teacher": "Гончар К. В.",
+     "room": "413ю",
+     "week": "all"
+    },
+    {
+     "slot": 7,
+     "from": "19:15",
+     "to": "20:45",
+     "type": "seminar",
+     "title": "Экономика часть 1",
+     "teacher": "Кушнарева Д. Л.",
+     "room": "430",
+     "week": "numerator"
+    }
+   ],
+   "5": [
+    {
+     "slot": 3,
+     "from": "11:50",
+     "to": "13:20",
+     "type": "lecture",
+     "title": "Безопасность жизнедеятельности",
+     "teacher": "Бондаренко А. В.",
+     "room": "319",
+     "week": "all"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "lecture",
+     "title": "Технологии поиска и анализа персонифицированной информации",
+     "teacher": "Сакулин С. А.",
+     "room": "319",
+     "week": "denominator"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "lecture",
+     "title": "Экономика часть 1",
+     "teacher": "Швайко Б. А.",
+     "room": "527",
+     "week": "numerator"
+    },
+    {
+     "slot": 5,
+     "from": "15:55",
+     "to": "17:25",
+     "type": "lecture",
+     "title": "Архитектура информационных систем",
+     "teacher": "Лычков И. И.",
+     "room": "306ю",
+     "week": "all"
+    },
+    {
+     "slot": 6,
+     "from": "17:35",
+     "to": "19:05",
+     "type": "seminar",
+     "title": "Интеллектуальные системы и технологии",
+     "teacher": "Лычков И. И.",
+     "room": "ИУ3",
+     "week": "denominator"
+    },
+    {
+     "slot": 6,
+     "from": "17:35",
+     "to": "19:05",
+     "type": "seminar",
+     "title": "Информационные технологии",
+     "teacher": "Асмарян А. Э.",
+     "room": "423ю",
+     "week": "numerator"
+    }
+   ],
+   "6": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "self_study",
+     "title": "Самостоятельная работа",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ]
+  },
+  "ИУ3-72Б": {
+   "1": [
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "seminar",
+     "title": "Архитектура информационных систем",
+     "teacher": "Лычков И. И.",
+     "room": "ИУ3",
+     "week": "numerator"
+    },
+    {
+     "slot": 5,
+     "from": "15:55",
+     "to": "17:25",
+     "type": "lecture",
+     "title": "Интеллектуальные системы и технологии",
+     "teacher": "Лычков И. И.",
+     "room": "422ю",
+     "week": "all"
+    },
+    {
+     "slot": 6,
+     "from": "17:35",
+     "to": "19:05",
+     "type": "lecture",
+     "title": "Информационные технологии",
+     "teacher": "Асмарян А. Э.",
+     "room": "422ю",
+     "week": "all"
+    },
+    {
+     "slot": 7,
+     "from": "19:15",
+     "to": "20:45",
+     "type": "seminar",
+     "title": "Экономика часть 1",
+     "teacher": "Кушнарева Д. Л.",
+     "room": "388",
+     "week": "denominator"
+    },
+    {
+     "slot": 7,
+     "from": "19:15",
+     "to": "20:45",
+     "type": "lecture",
+     "title": "Информационные технологии",
+     "teacher": "Асмарян А. Э.",
+     "room": "422ю",
+     "week": "numerator"
+    }
+   ],
+   "2": [
+    {
+     "slot": 1,
+     "from": "08:30",
+     "to": "10:00",
+     "type": "other",
+     "title": "ВУЦ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "other",
+     "title": "ВУЦ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 3,
+     "from": "11:50",
+     "to": "13:55",
+     "type": "other",
+     "title": "ВУЦ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "other",
+     "title": "ВУЦ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ],
+   "3": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "self_study",
+     "title": "Самостоятельная работа",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ],
+   "4": [
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "seminar",
+     "title": "Методы и средства проектирования информационных систем и технологий",
+     "teacher": "Выхованец В. С.",
+     "room": "424ю",
+     "week": "denominator"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "seminar",
+     "title": "Безопасность жизнедеятельности",
+     "teacher": "Бондаренко А. В.",
+     "room": "313т",
+     "week": "numerator"
+    },
+    {
+     "slot": 5,
+     "from": "15:55",
+     "to": "17:25",
+     "type": "lecture",
+     "title": "Методы и средства проектирования информационных систем и технологий",
+     "teacher": "Выхованец В. С.",
+     "room": "319",
+     "week": "all"
+    },
+    {
+     "slot": 6,
+     "from": "17:35",
+     "to": "19:05",
+     "type": "lecture",
+     "title": "Статистический анализ и прогнозирование",
+     "teacher": "Гончар К. В.",
+     "room": "413ю",
+     "week": "all"
+    }
+   ],
+   "5": [
+    {
+     "slot": 3,
+     "from": "11:50",
+     "to": "13:20",
+     "type": "lecture",
+     "title": "Безопасность жизнедеятельности",
+     "teacher": "Бондаренко А. В.",
+     "room": "319",
+     "week": "all"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "lecture",
+     "title": "Технологии поиска и анализа персонифицированной информации",
+     "teacher": "Сакулин С. А.",
+     "room": "319",
+     "week": "denominator"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "lecture",
+     "title": "Экономика часть 1",
+     "teacher": "Швайко Б. А.",
+     "room": "527",
+     "week": "numerator"
+    },
+    {
+     "slot": 5,
+     "from": "15:55",
+     "to": "17:25",
+     "type": "lecture",
+     "title": "Архитектура информационных систем",
+     "teacher": "Лычков И. И.",
+     "room": "306ю",
+     "week": "all"
+    },
+    {
+     "slot": 6,
+     "from": "17:35",
+     "to": "19:05",
+     "type": "seminar",
+     "title": "Информационные технологии",
+     "teacher": "Асмарян А. Э.",
+     "room": "422ю",
+     "week": "denominator"
+    },
+    {
+     "slot": 6,
+     "from": "17:35",
+     "to": "19:05",
+     "type": "seminar",
+     "title": "Интеллектуальные системы и технологии",
+     "teacher": "Лычков И. И.",
+     "room": "ИУ3",
+     "week": "numerator"
+    }
+   ],
+   "6": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "self_study",
+     "title": "Самостоятельная работа",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ]
+  },
+  "ИУ3-73Б": {
+   "1": [
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "seminar",
+     "title": "Методы и средства проектирования информационных систем и технологий",
+     "teacher": "Выхованец В. С.",
+     "room": "395",
+     "week": "numerator"
+    },
+    {
+     "slot": 5,
+     "from": "15:55",
+     "to": "17:25",
+     "type": "lecture",
+     "title": "Интеллектуальные системы и технологии",
+     "teacher": "Лычков И. И.",
+     "room": "422ю",
+     "week": "all"
+    },
+    {
+     "slot": 6,
+     "from": "17:35",
+     "to": "19:05",
+     "type": "lecture",
+     "title": "Информационные технологии",
+     "teacher": "Асмарян А. Э.",
+     "room": "422ю",
+     "week": "all"
+    },
+    {
+     "slot": 7,
+     "from": "19:15",
+     "to": "20:45",
+     "type": "seminar",
+     "title": "Информационные технологии",
+     "teacher": "Асмарян А. Э.",
+     "room": "422ю",
+     "week": "denominator"
+    },
+    {
+     "slot": 7,
+     "from": "19:15",
+     "to": "20:45",
+     "type": "lecture",
+     "title": "Информационные технологии",
+     "teacher": "Асмарян А. Э.",
+     "room": "422ю",
+     "week": "numerator"
+    }
+   ],
+   "2": [
+    {
+     "slot": 1,
+     "from": "08:30",
+     "to": "10:00",
+     "type": "other",
+     "title": "ВУЦ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "other",
+     "title": "ВУЦ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 3,
+     "from": "11:50",
+     "to": "13:55",
+     "type": "other",
+     "title": "ВУЦ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "other",
+     "title": "ВУЦ",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ],
+   "3": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "self_study",
+     "title": "Самостоятельная работа",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ],
+   "4": [
+    {
+     "slot": 3,
+     "from": "11:50",
+     "to": "13:20",
+     "type": "seminar",
+     "title": "Интеллектуальные системы и технологии",
+     "teacher": "Лычков И. И.",
+     "room": "395",
+     "week": "numerator"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "seminar",
+     "title": "Архитектура информационных систем",
+     "teacher": "Лычков И. И.",
+     "room": "502",
+     "week": "numerator"
+    },
+    {
+     "slot": 5,
+     "from": "15:55",
+     "to": "17:25",
+     "type": "lecture",
+     "title": "Методы и средства проектирования информационных систем и технологий",
+     "teacher": "Выхованец В. С.",
+     "room": "319",
+     "week": "all"
+    },
+    {
+     "slot": 6,
+     "from": "17:35",
+     "to": "19:05",
+     "type": "lecture",
+     "title": "Статистический анализ и прогнозирование",
+     "teacher": "Гончар К. В.",
+     "room": "413ю",
+     "week": "all"
+    }
+   ],
+   "5": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "seminar",
+     "title": "Безопасность жизнедеятельности",
+     "teacher": "Бондаренко А. В.",
+     "room": "423ю",
+     "week": "denominator"
+    },
+    {
+     "slot": 3,
+     "from": "11:50",
+     "to": "13:20",
+     "type": "lecture",
+     "title": "Безопасность жизнедеятельности",
+     "teacher": "Бондаренко А. В.",
+     "room": "319",
+     "week": "all"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "lecture",
+     "title": "Технологии поиска и анализа персонифицированной информации",
+     "teacher": "Сакулин С. А.",
+     "room": "319",
+     "week": "denominator"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "lecture",
+     "title": "Экономика часть 1",
+     "teacher": "Швайко Б. А.",
+     "room": "527",
+     "week": "numerator"
+    },
+    {
+     "slot": 5,
+     "from": "15:55",
+     "to": "17:25",
+     "type": "lecture",
+     "title": "Архитектура информационных систем",
+     "teacher": "Лычков И. И.",
+     "room": "306ю",
+     "week": "all"
+    },
+    {
+     "slot": 6,
+     "from": "17:35",
+     "to": "19:05",
+     "type": "seminar",
+     "title": "Экономика часть 1",
+     "teacher": "Кушнарева Д. Л.",
+     "room": "392",
+     "week": "numerator"
+    }
+   ],
+   "6": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "self_study",
+     "title": "Самостоятельная работа",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ]
+  },
+  "ИУ3И-72Б": {
+   "1": [
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "seminar",
+     "title": "Архитектура информационных систем",
+     "teacher": "Лычков И. И.",
+     "room": "ИУ3",
+     "week": "numerator"
+    },
+    {
+     "slot": 5,
+     "from": "15:55",
+     "to": "17:25",
+     "type": "lecture",
+     "title": "Интеллектуальные системы и технологии",
+     "teacher": "Лычков И. И.",
+     "room": "422ю",
+     "week": "all"
+    },
+    {
+     "slot": 6,
+     "from": "17:35",
+     "to": "19:05",
+     "type": "lecture",
+     "title": "Информационные технологии",
+     "teacher": "Асмарян А. Э.",
+     "room": "422ю",
+     "week": "all"
+    },
+    {
+     "slot": 7,
+     "from": "19:15",
+     "to": "20:45",
+     "type": "lecture",
+     "title": "Правоведение",
+     "teacher": "Сафонова Н. А.",
+     "room": "",
+     "week": "denominator"
+    },
+    {
+     "slot": 7,
+     "from": "19:15",
+     "to": "20:45",
+     "type": "lecture",
+     "title": "Информационные технологии",
+     "teacher": "Асмарян А. Э.",
+     "room": "422ю",
+     "week": "numerator"
+    }
+   ],
+   "2": [
+    {
+     "slot": 7,
+     "from": "19:15",
+     "to": "20:45",
+     "type": "seminar",
+     "title": "Иностранный язык",
+     "teacher": "",
+     "room": "Л2",
+     "week": "all"
+    }
+   ],
+   "3": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "self_study",
+     "title": "Самостоятельная работа",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ],
+   "4": [
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "seminar",
+     "title": "Методы и средства проектирования информационных систем и технологий",
+     "teacher": "Выхованец В. С.",
+     "room": "424ю",
+     "week": "denominator"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "seminar",
+     "title": "Безопасность жизнедеятельности",
+     "teacher": "Бондаренко А. В.",
+     "room": "313т",
+     "week": "numerator"
+    },
+    {
+     "slot": 5,
+     "from": "15:55",
+     "to": "17:25",
+     "type": "lecture",
+     "title": "Методы и средства проектирования информационных систем и технологий",
+     "teacher": "Выхованец В. С.",
+     "room": "319",
+     "week": "all"
+    },
+    {
+     "slot": 6,
+     "from": "17:35",
+     "to": "19:05",
+     "type": "lecture",
+     "title": "Статистический анализ и прогнозирование",
+     "teacher": "Гончар К. В.",
+     "room": "413ю",
+     "week": "all"
+    },
+    {
+     "slot": 7,
+     "from": "19:15",
+     "to": "20:45",
+     "type": "seminar",
+     "title": "Экономика часть 1",
+     "teacher": "Кушнарева Д. Л.",
+     "room": "430",
+     "week": "numerator"
+    }
+   ],
+   "5": [
+    {
+     "slot": 3,
+     "from": "11:50",
+     "to": "13:20",
+     "type": "lecture",
+     "title": "Безопасность жизнедеятельности",
+     "teacher": "Бондаренко А. В.",
+     "room": "319",
+     "week": "all"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "lecture",
+     "title": "Технологии поиска и анализа персонифицированной информации",
+     "teacher": "Сакулин С. А.",
+     "room": "319",
+     "week": "denominator"
+    },
+    {
+     "slot": 4,
+     "from": "14:05",
+     "to": "15:35",
+     "type": "lecture",
+     "title": "Экономика часть 1",
+     "teacher": "Швайко Б. А.",
+     "room": "527",
+     "week": "numerator"
+    },
+    {
+     "slot": 5,
+     "from": "15:55",
+     "to": "17:25",
+     "type": "lecture",
+     "title": "Архитектура информационных систем",
+     "teacher": "Лычков И. И.",
+     "room": "306ю",
+     "week": "all"
+    },
+    {
+     "slot": 6,
+     "from": "17:35",
+     "to": "19:05",
+     "type": "seminar",
+     "title": "Информационные технологии",
+     "teacher": "Асмарян А. Э.",
+     "room": "422ю",
+     "week": "denominator"
+    },
+    {
+     "slot": 6,
+     "from": "17:35",
+     "to": "19:05",
+     "type": "seminar",
+     "title": "Интеллектуальные системы и технологии",
+     "teacher": "Лычков И. И.",
+     "room": "ИУ3",
+     "week": "numerator"
+    }
+   ],
+   "6": [
+    {
+     "slot": 2,
+     "from": "10:10",
+     "to": "11:40",
+     "type": "self_study",
+     "title": "Самостоятельная работа",
+     "teacher": "",
+     "room": "",
+     "week": "all"
+    }
+   ]
+  }
+ }
+}

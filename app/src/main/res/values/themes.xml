@@ -1,0 +1,10 @@
+<resources>
+
+    <style name="Theme.IU3" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/iu3_window_background</item>
+        <item name="android:colorAccent">#0968F9</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="android:forceDarkAllowed">false</item>
+    </style>
+</resources>

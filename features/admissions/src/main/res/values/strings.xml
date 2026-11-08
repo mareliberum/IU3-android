@@ -1,0 +1,13 @@
+<resources>
+    <string name="admissions_admissions">Поступающим</string>
+    <string name="admissions_apply">Подать документы</string>
+    <string name="admissions_careers">Кем вы сможете работать</string>
+    <string name="admissions_codes">Направления подготовки</string>
+    <string name="admissions_minimum">Минимальные баллы ЕГЭ</string>
+    <string name="admissions_passing">Проходные баллы</string>
+    <string name="admissions_plan">Учебный план</string>
+    <string name="admissions_plans">Учебные планы</string>
+    <string name="admissions_score_columns">Год · Бюджет · Средний · Платно</string>
+    <string name="admissions_code_single">Направление подготовки</string>
+    <string name="admissions_professions">Профессии</string>
+</resources>

@@ -1,0 +1,322 @@
+{
+  "Программирование": [
+    {
+      "title": "C/C++",
+      "_type": "Technology",
+      "image": "TechCpp"
+    },
+    {
+      "title": "ARM",
+      "_type": "Technology",
+      "image": "TechArm"
+    },
+    {
+      "title": "dotNET",
+      "_type": "Technology",
+      "image": "TechDotNet"
+    },
+    {
+      "title": "Android",
+      "_type": "Technology",
+      "image": "TechAndroid"
+    },
+    {
+      "title": "Spring",
+      "_type": "Technology",
+      "image": "TechSpring"
+    },
+    {
+      "title": "Open CV",
+      "_type": "Technology",
+      "image": "TechOpenCV"
+    },
+    {
+      "title": "Python",
+      "_type": "Technology",
+      "image": "TechPython"
+    },
+    {
+      "title": "SQL",
+      "_type": "Technology",
+      "image": "TechSQL"
+    },
+    {
+      "title": "Erlang",
+      "_type": "Technology",
+      "image": "TechErlang"
+    },
+    {
+      "title": "Yocto",
+      "_type": "Technology",
+      "image": "TechYocto"
+    },
+    {
+      "title": "Buildroot",
+      "_type": "Technology",
+      "image": "TechBuildroot"
+    },
+    {
+      "title": "React",
+      "_type": "Technology",
+      "image": "TechReact"
+    },
+    {
+      "title": "Linux",
+      "_type": "Technology",
+      "image": "TechLinux"
+    },
+    {
+      "title": "Django",
+      "_type": "Technology",
+      "image": "TechDjango"
+    },
+    {
+      "title": "Xamarin",
+      "_type": "Technology",
+      "image": "TechXamarin"
+    },
+    {
+      "title": "HTML CSS JS",
+      "_type": "Technology",
+      "image": "TechWeb"
+    },
+    {
+      "title": "Shower",
+      "_type": "Technology",
+      "image": "TechShower"
+    },
+    {
+      "title": "C#",
+      "_type": "Technology",
+      "image": "TechCSharp"
+    },
+    {
+      "title": "Kivy",
+      "_type": "Technology",
+      "image": "TechKivy"
+    },
+    {
+      "title": "Java",
+      "_type": "Technology",
+      "image": "TechJava"
+    },
+    {
+      "title": "µC/OS-II",
+      "_type": "Technology",
+      "image": "TechUcos"
+    },
+    {
+      "title": "MISRA C",
+      "_type": "Technology",
+      "image": "TechMisra"
+    },
+    {
+      "title": "ОС Аврора",
+      "_type": "Technology",
+      "image": "TechAurora"
+    },
+    {
+      "title": "IntelliJ IDEA",
+      "_type": "Technology",
+      "image": "TechIntelliJ"
+    },
+    {
+      "title": "Интегрированная среда разработки Eclipse",
+      "_type": "Technology",
+      "image": "TechEclipse"
+    },
+    {
+      "title": "Beagle Bone Black",
+      "_type": "Technology",
+      "image": "TechBeagle"
+    }
+  ],
+  "Информационные технологии": [
+    {
+      "title": "Matlab",
+      "_type": "Technology",
+      "image": "TechMatlab"
+    },
+    {
+      "title": "EMF",
+      "_type": "Technology",
+      "image": "TechEMF"
+    },
+    {
+      "title": "MS Project",
+      "_type": "Technology",
+      "image": "TechMSProject"
+    },
+    {
+      "title": "1С",
+      "_type": "Technology",
+      "image": "Tech1C"
+    },
+    {
+      "title": "CrypTool",
+      "_type": "Technology",
+      "image": "TechCrypTool"
+    },
+    {
+      "title": "R-project",
+      "_type": "Technology",
+      "image": "TechRProject"
+    },
+    {
+      "title": "Capella",
+      "_type": "Technology",
+      "image": "TechCapella"
+    },
+    {
+      "title": "AnyLogic",
+      "_type": "Technology",
+      "image": "TechAnyLogic"
+    },
+    {
+      "title": "Персональная информационная технология",
+      "_type": "Technology",
+      "image": "TechPersonalIT"
+    },
+    {
+      "title": "Adobe Premiere",
+      "_type": "Technology",
+      "image": "TechPremiere"
+    },
+    {
+      "title": "Windows Server",
+      "_type": "Technology",
+      "image": "TechWindowsServer"
+    },
+    {
+      "title": "Поиск информации",
+      "_type": "Technology",
+      "image": "TechInfoSearch"
+    }
+  ],
+  "Сети": [
+    {
+      "title": "ZigBee",
+      "_type": "Technology",
+      "image": "TechZigBee"
+    },
+    {
+      "title": "GSM",
+      "_type": "Technology",
+      "image": "TechGSM"
+    },
+    {
+      "title": "Cisco",
+      "_type": "Technology",
+      "image": "TechCisco"
+    },
+    {
+      "title": "GNS3",
+      "_type": "Technology",
+      "image": "TechGNS3"
+    },
+    {
+      "title": "Wi-Fi",
+      "_type": "Technology",
+      "image": "TechWiFi"
+    },
+    {
+      "title": "Bluetooth",
+      "_type": "Technology",
+      "image": "TechBluetooth"
+    },
+    {
+      "title": "LoRa",
+      "_type": "Technology",
+      "image": "TechLoRa"
+    },
+    {
+      "title": "OMNeT++",
+      "_type": "Technology",
+      "image": "TechOMNeT"
+    }
+  ],
+  "Искусственный интеллект": [
+    {
+      "title": "Neuroph",
+      "_type": "Technology",
+      "image": "TechNeuroph"
+    },
+    {
+      "title": "SWI Prolog",
+      "_type": "Technology",
+      "image": "TechProlog"
+    },
+    {
+      "title": "PyTorch",
+      "_type": "Technology",
+      "image": "TechPyTorch"
+    }
+  ],
+  "Электроника": [
+    {
+      "title": "Intel",
+      "_type": "Technology",
+      "image": "TechIntel"
+    },
+    {
+      "title": "ModelSim",
+      "_type": "Technology",
+      "image": "TechModelSim"
+    },
+    {
+      "title": "Texas Instruments",
+      "_type": "Technology",
+      "image": "TechTexasInstruments"
+    },
+    {
+      "title": "Code Composer Studio",
+      "_type": "Technology",
+      "image": "TechCodeComposer"
+    },
+    {
+      "title": "MultiSim",
+      "_type": "Technology",
+      "image": "TechMultiSim"
+    },
+    {
+      "title": "LabView",
+      "_type": "Technology",
+      "image": "TechLabView"
+    },
+    {
+      "title": "Электронные компоненты",
+      "_type": "Technology",
+      "image": "TechComponents"
+    },
+    {
+      "title": "Intel Quartus Prime",
+      "_type": "Technology",
+      "image": "TechQuartus"
+    },
+    {
+      "title": "Космические телекоммуникации",
+      "_type": "Technology",
+      "image": "TechSpaceTelecom"
+    },
+    {
+      "title": "Тестирование и отладка цифровых устройств",
+      "_type": "Technology",
+      "image": "TechDigitalTesting"
+    },
+    {
+      "title": "САПР для черчения и проектирования",
+      "_type": "Technology",
+      "image": "TechCAD"
+    },
+    {
+      "title": "Mathcad",
+      "_type": "Technology",
+      "image": "TechMathcad"
+    },
+    {
+      "title": "Altera DE2-115",
+      "_type": "Technology",
+      "image": "TechAltera"
+    }
+  ]
+}

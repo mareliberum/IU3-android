@@ -1,0 +1,19 @@
+<resources>
+    <string name="onboarding_applicant">Абитуриент</string>
+    <string name="onboarding_graduate">Выпускник</string>
+    <string name="onboarding_guest">Гость</string>
+    <string name="onboarding_next">Вперёд</string>
+    <string name="onboarding_progress">%1$d / 4</string>
+    <string name="onboarding_role_description">Укажите, кем вы являетесь, чтобы мы смогли настроить платформу под вас</string>
+    <string name="onboarding_schedule_intro">Расписание в один клик</string>
+    <string name="onboarding_schedule_text">Ваши занятия, преподаватели и аудитории всегда под рукой</string>
+    <string name="onboarding_schedule_text_28048">Числитель или знаменатель — не страшно! Даже если пара в аудитории 501ю, ты об этом узнаешь и придёшь вовремя</string>
+    <string name="onboarding_student">Студент</string>
+    <string name="onboarding_teacher">Преподаватель</string>
+    <string name="onboarding_welcome">ИУ-3 теперь с вами!</string>
+    <string name="onboarding_welcome_text">Новости, события и жизнь кафедры — в одном приложении</string>
+    <string name="onboarding_welcome_text_715fc">Кафедра не только в здании, но и в твоём телефоне!</string>
+    <string name="onboarding_your_group">Ваша группа</string>
+    <string name="onboarding_your_name">Ваше ФИО</string>
+    <string name="onboarding_your_role">Ваша роль</string>
+</resources>
