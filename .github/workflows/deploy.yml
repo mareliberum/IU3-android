@@ -33,7 +33,7 @@ jobs:
       - name: Prepare JSON
         run: |
           mkdir -p public
-          cp data.json public/data.json
+          cp schedule.json public/schedule.json
 
       - uses: actions/upload-pages-artifact@v4
         with:
